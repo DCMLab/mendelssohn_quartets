@@ -1,0 +1,9 @@
+Attempting to parse 01op12b.mscx
+MCs [83 84] in volta [83, 84] have not been excluded from barcount.
+Final volta with MC [83, 84] contains a repeat sign.
+MC 1 seems to be a pickup measure but has not been excluded from bar count!
+MC 1 is completing MC 15 but has not been excluded from bar count!
+MC 82 (3/8) and MC 83 (1/2) don't add up to 1/2.
+MC 135 (3/8) and MC 92 (1/2) don't add up to 1/2.
+Done parsing 01op12b.mscx
+

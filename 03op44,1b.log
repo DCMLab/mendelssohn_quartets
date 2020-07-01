@@ -1,0 +1,7 @@
+Attempting to parse 03op44,1b.mscx
+MC 66 in volta [66] has not been excluded from barcount.
+MC 83 in volta [83] has not been excluded from barcount.
+Done parsing 03op44,1b.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable
