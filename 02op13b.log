@@ -1,3 +1,11 @@
 Attempting to parse 02op13b.mscx
 Done parsing 02op13b.mscx
 
+The following chords could not be parsed:
+     mc  mn onset  label
+146  36  36   1/2  .Ger6
+200  47  47     0   .bII
+359  77  77   5/8   .It6
+411  87  87     0   .bII
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

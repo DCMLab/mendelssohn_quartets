@@ -1,3 +1,14 @@
 Attempting to parse 01op12a.mscx
 Done parsing 01op12a.mscx
 
+The following chords could not be parsed:
+      mc   mn onset     label
+38    11   11   3/8   .bVII64
+216   78   77     0   .bIII64
+218   80   79     0    .bVII6
+220   81   80     0  .Ger6/iv
+568  237  235     0  .Ger6/vi
+573  245  243     0     .bVII
+574  246  244     0  .Ger6/ii
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

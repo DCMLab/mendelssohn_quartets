@@ -1,5 +1,10 @@
 Attempting to parse 04op44,2c.mscx
 Done parsing 04op44,2c.mscx
 
+The following chords could not be parsed:
+     mc  mn onset     label
+ix                         
+208  55  55     0  .Ger6/vi
+268  63  63   5/8  V+M65/IV
 Failed to expand labels due to syntactic errors:
-'float' object is not iterable
+repl_spec() missing 1 required positional argument: 'special'

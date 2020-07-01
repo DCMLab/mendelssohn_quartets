@@ -1,10 +1,62 @@
 Attempting to parse 03op44,1d.mscx
-MC 316 contains an empty <Harmony> tag. It is stored as 'empty_harmony'.
-Doublings: mc   onset
-316  0        empty_harmony
-     0                  I\\
-Name: chords, dtype: object
 Done parsing 03op44,1d.mscx
 
+The following chords could not be parsed:
+      mc   mn onset       label
+ix                             
+14     9    9   9/8     .It6/ii
+129   49   49     0     .bIII\\
+134   53   53     0      .bVI\\
+138   55   55     0        .bVI
+256  111  111     0       .bIII
+362  151  151     0  .bIII[bVI6
+364  151  151   9/8        .bVI
+368  153  153     0       .bVI6
+371  153  153   9/8        .bVI
+376  155  155   3/4     .bVIM65
+384  158  158     0      .bVI\\
+385  158  158   9/8      .bVI64
+386  159  159     0        .bVI
+388  159  159   9/8        .bVI
+394  161  161   9/8        .bVI
+397  163  163     0       .bVI6
+408  169  169     0       .bVII
+409  169  169   9/8     .bVII64
+410  170  170     0      .bVII6
+414  171  171     0     .bVII\\
+415  171  171   9/8     .bVII64
+416  172  172     0      .bVII6
+417  172  172   3/8       .bVII
+418  172  172   3/4     .bVII64
+419  172  172   9/8      .bVII6
+420  173  173     0       .bVII
+421  173  173   3/8     .bVII64
+422  173  173   3/4      .bVII6
+423  173  173   9/8       .bVII
+453  183  183   3/8       .bvii
+456  184  184     0      .bVII6
+457  184  184   3/8       .bVII
+461  185  185   3/8        .bVI
+464  186  186   3/4        .bVI
+484  192  192     0       .bIII
+485  192  192   3/8     .bIIIM2
+493  195  195     0       .bII6
+494  195  195   3/4        .bII
+495  195  195   9/8      .bII64
+496  196  196     0        .bII
+497  196  196   3/8      .bII64
+498  196  196   3/4       .bII6
+499  196  196   9/8      .bII64
+500  197  197     0        .bII
+501  197  197   3/8      .bII64
+502  197  197   3/4       .bII6
+503  197  197   9/8        .bII
+504  198  198     0       .bII6
+564  221  221     0      .bIII6
+565  221  221   3/8     .bIII64
+566  221  221   3/4      .bIII6
+567  221  221   9/8     .bIII64
+729  282  282     0        .bVI
+731  283  283     0        .bVI
 Failed to expand labels due to syntactic errors:
-'float' object is not iterable
+repl_spec() missing 1 required positional argument: 'special'
