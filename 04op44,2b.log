@@ -1,13 +1,3 @@
-Attempting to parse 04op44,2b.mscx
-Done parsing 04op44,2b.mscx
+INFO     04op44,2b.ms3 -- Attempting to parse 04op44,2b.mscx
+INFO     04op44,2b.ms3 -- Done parsing 04op44,2b.mscx
 
-The following chords could not be parsed:
-     mc  mn onset       label
-ix                           
-262  63  63   3/8    .Fr6(#2)
-263  63  63   1/2       .Ger6
-264  63  63   5/8       .Fr6]
-319  76  76   5/8        .It6
-362  89  89   1/4  .bII[iv/iv
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

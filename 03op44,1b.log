@@ -1,14 +1,9 @@
-Attempting to parse 03op44,1b.mscx
-MC 66 in volta [66] has not been excluded from barcount.
-MC 83 in volta [83] has not been excluded from barcount.
-Done parsing 03op44,1b.mscx
+INFO     03op44,1b.ms3 -- Attempting to parse 03op44,1b.mscx
+WARNING  03op44,1b.ms3 -- MC 66 in volta [66] has not been excluded from barcount.
+WARNING  03op44,1b.ms3 -- MC 83 in volta [83] has not been excluded from barcount.
+INFO     03op44,1b.ms3 -- Done parsing 03op44,1b.mscx
 
-The following chords could not be parsed:
+WARNING  03op44,1b.expand_labels -- The following chords could not be parsed:
       mc   mn onset      label
 117   63   61   1/4  V65/V(+4)
-224  125  123     0   .bII[bII
-226  126  124     0      .bII]
-227  128  126     0      .bII6
 365  207  204   1/4  V65/V(+4)
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

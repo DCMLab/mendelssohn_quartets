@@ -1,18 +1,4 @@
-Attempting to parse 02op13c.mscx
-MC 109 in volta [109] has not been excluded from barcount.
-Done parsing 02op13c.mscx
+INFO     02op13c.ms3 -- Attempting to parse 02op13c.mscx
+WARNING  02op13c.ms3 -- MC 109 in volta [109] has not been excluded from barcount.
+INFO     02op13c.ms3 -- Done parsing 02op13c.mscx
 
-The following chords could not be parsed:
-      mc   mn onset    label
-179   71   71     0    .bVII
-180   71   71   1/4  .bVII64
-181   72   72     0   .bVII6
-182   72   72   1/4    .bVII
-269  100  100   3/8    .Ger6
-273  101  101   3/8    .Ger6
-275  102  102   1/8    .Ger6
-277  102  102   3/8    .Ger6
-346  130  130   1/4  .Fr6(2)
-347  130  130   3/8     .Fr6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

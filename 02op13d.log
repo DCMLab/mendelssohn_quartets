@@ -1,17 +1,6 @@
-Attempting to parse 02op13d.mscx
-Done parsing 02op13d.mscx
+INFO     02op13d.ms3 -- Attempting to parse 02op13d.mscx
+INFO     02op13d.ms3 -- Done parsing 02op13d.mscx
 
-The following chords could not be parsed:
-      mc   mn onset       label
-200   85   85   1/2       .Ger6
-361  176  176   3/4   .bVI+/VII
-385  185  185   1/2  .Ger6(2)/v
-386  185  185   3/4     .Ger6/v
-426  197  197     0     .Fr6/iv
-526  235  235     0       @none
-547  253  253   1/2     V765/iv
-710  348  348     0       .Ger6
-712  350  350     0   .Ger6(+7)
-716  354  354     0    .It6(+7)
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  02op13d.expand_labels -- The following chords could not be parsed:
+      mc   mn onset    label
+547  253  253   1/2  V765/iv

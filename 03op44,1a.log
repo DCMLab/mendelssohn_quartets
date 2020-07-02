@@ -1,21 +1,7 @@
-Attempting to parse 03op44,1a.mscx
-Done parsing 03op44,1a.mscx
+INFO     03op44,1a.ms3 -- Attempting to parse 03op44,1a.mscx
+INFO     03op44,1a.ms3 -- Done parsing 03op44,1a.mscx
 
-The following chords could not be parsed:
-      mc   mn onset     label
-51    24   24   1/2  .Ger6/vi
-175   73   73   1/4       /vi
-213   94   94     0   .bIII64
-370  155  155   3/4     .bVII
-373  156  156   3/4     .bVII
-376  157  157   3/4    .bVII6
-379  158  158   3/4     .bVII
-389  167  167     0   .bVII\\
-390  168  168   3/4   .bVII64
-440  204  204   7/8  .Ger6/vi
-613  293  293     0   .bIII64
-655  323  323   1/4     .bVI6
-658  324  324   1/4     .bII6
-660  325  325     0      .bII
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  03op44,1a.expand_labels -- The following chords could not be parsed:
+     mc  mn onset label
+175  73  73   1/4   /vi
+WARNING  03op44,1a.expand_labels -- #viio2 in major context is most probably an annotation error.
