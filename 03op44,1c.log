@@ -1,4 +1,4 @@
 INFO     03op44,1c.ms3 -- Attempting to parse 03op44,1c.mscx
 INFO     03op44,1c.ms3 -- Done parsing 03op44,1c.mscx
 
-WARNING  03op44,1c.expand_labels -- In seventh chords, such as viio65(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
+WARNING  03op44,1c.expand_labels -- MC 55: In seventh chords, such as viio65(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
