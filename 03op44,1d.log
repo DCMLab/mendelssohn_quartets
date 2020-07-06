@@ -1,5 +1,5 @@
 INFO     03op44,1d.ms3 -- Attempting to parse 03op44,1d.mscx
 INFO     03op44,1d.ms3 -- Done parsing 03op44,1d.mscx
 
-WARNING  03op44,1d.expand_labels -- MC 275: #viio6(2) in major context is most probably an annotation error.
 WARNING  03op44,1d.expand_labels -- MC 275: #viio6 in major context is most probably an annotation error.
+WARNING  03op44,1d.expand_labels -- MC 275: #viio6(2) in major context is most probably an annotation error.

@@ -301,4 +301,4 @@ mc	mn	keysig	timesig	act_dur	offset	voices	repeats	volta	barline	numbering_offse
 300	298	-3	6/8	3/4	0	4						301
 301	299	-3	6/8	3/4	0	4						302
 302	300	-3	6/8	3/4	0	4						303
-303	301	-3	6/8	5/8	0	4	lastMeasure		end			
+303	301	-3	6/8	5/8	0	4	lastMeasure		end			-1

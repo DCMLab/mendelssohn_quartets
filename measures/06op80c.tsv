@@ -119,4 +119,4 @@ mc	mn	keysig	timesig	act_dur	offset	voices	repeats	volta	barline	numbering_offse
 118	117	-4	2/4	1/2	0	4						119
 119	118	-4	2/4	1/2	0	4						120
 120	119	-4	2/4	1/2	0	4						121
-121	120	-4	2/4	1/2	0	4	lastMeasure		end			
+121	120	-4	2/4	1/2	0	4	lastMeasure		end			-1
