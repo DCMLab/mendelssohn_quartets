@@ -1,6 +1,2 @@
 INFO     02op13d.ms3 -- Attempting to parse 02op13d.mscx
 INFO     02op13d.ms3 -- Done parsing 02op13d.mscx
-
-WARNING  02op13d.expand_labels -- The following chords could not be parsed:
-      mc   mn onset    label
-547  253  253   1/2  V765/iv

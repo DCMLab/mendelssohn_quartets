@@ -1,7 +1,2 @@
 INFO     02op13a.ms3 -- Attempting to parse 02op13a.mscx
-WARNING  02op13a.ms3 -- MC 1 seems to be a pickup measure but has not been excluded from bar count!
 INFO     02op13a.ms3 -- Done parsing 02op13a.mscx
-
-WARNING  02op13a.expand_labels -- MC 202: The change 12 has no effect in V
-WARNING  02op13a.expand_labels -- MC 85: The change 12 has no effect in V
-WARNING  02op13a.expand_labels -- MC 206: The change 12 has no effect in V

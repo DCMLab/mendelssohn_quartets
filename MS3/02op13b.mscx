@@ -170,6 +170,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -263,6 +264,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -309,6 +311,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -1538,6 +1541,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -1598,6 +1602,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -5762,7 +5767,7 @@
             <text><font face="Plantin MT Std"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
-            <name>V(1264)</name>
+            <name>V(134)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6200,6 +6205,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -8976,13 +8982,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -11001,6 +11002,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -11750,6 +11752,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -13054,6 +13057,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -14335,6 +14339,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -14759,6 +14764,7 @@
             </Chord>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -19383,6 +19389,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -21782,13 +21789,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -23422,6 +23424,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -23670,6 +23673,7 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -26320,6 +26324,7 @@
             </Chord>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -32862,13 +32867,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -42974,13 +42974,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>

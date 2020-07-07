@@ -135,6 +135,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
@@ -143,6 +144,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -193,6 +195,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
@@ -201,6 +204,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -253,6 +257,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <synti>Fluid</synti>
           </Channel>
@@ -261,6 +266,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -313,6 +319,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
           </Channel>
@@ -321,6 +328,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -3086,7 +3094,7 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V65/V(+4)</name>
+            <name>V65(+4)/V</name>
             <offset x="0" y="-5"/>
             </Harmony>
           <Chord>
@@ -3187,6 +3195,7 @@ Un poco Allegretto </text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <name>I\\</name>
@@ -4408,6 +4417,7 @@ Un poco Allegretto </text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <name>V7\\</name>
@@ -10611,7 +10621,7 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V65/V(+4)</name>
+            <name>V65(+4)/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

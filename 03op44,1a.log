@@ -1,7 +1,2 @@
 INFO     03op44,1a.ms3 -- Attempting to parse 03op44,1a.mscx
 INFO     03op44,1a.ms3 -- Done parsing 03op44,1a.mscx
-
-WARNING  03op44,1a.expand_labels -- The following chords could not be parsed:
-     mc  mn onset label
-175  73  73   1/4   /vi
-WARNING  03op44,1a.expand_labels -- MC 60: #viio2 in major context is most probably an annotation error.

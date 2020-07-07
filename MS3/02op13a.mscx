@@ -170,6 +170,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -263,6 +265,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -309,6 +313,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -330,6 +336,7 @@
           </Text>
         </VBox>
       <Measure len="1/8">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>3</accidental>
@@ -1531,6 +1538,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -7602,7 +7610,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V(1264)</name>
+            <name>V(134)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7625,6 +7633,9 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>V(64)</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8816,6 +8827,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -19931,7 +19943,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V(1264)</name>
+            <name>V(4)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -20352,7 +20364,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V(1264)</name>
+            <name>V(134)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -24682,6 +24694,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -24954,6 +24967,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -25754,6 +25768,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -30966,6 +30981,7 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -44692,6 +44708,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>

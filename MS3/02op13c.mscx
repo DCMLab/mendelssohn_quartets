@@ -169,6 +169,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -262,6 +263,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -308,6 +310,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -1810,6 +1813,7 @@
             </KeySig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <StaffText>
             <visible>0</visible>
@@ -5660,6 +5664,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -5873,6 +5878,7 @@
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <voice>
           <Harmony>
             <name>I\\</name>
@@ -6391,6 +6397,7 @@
             </location>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -8604,6 +8611,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -9659,6 +9667,7 @@
             </KeySig>
           <BarLine>
             <subtype>start-repeat</subtype>
+            <span>1</span>
             </BarLine>
           <Rest>
             <durationType>measure</durationType>
@@ -13425,6 +13434,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -15211,6 +15221,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>

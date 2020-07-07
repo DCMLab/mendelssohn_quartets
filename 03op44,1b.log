@@ -1,9 +1,2 @@
 INFO     03op44,1b.ms3 -- Attempting to parse 03op44,1b.mscx
-WARNING  03op44,1b.ms3 -- MC 66 in volta [66] has not been excluded from barcount.
-WARNING  03op44,1b.ms3 -- MC 83 in volta [83] has not been excluded from barcount.
 INFO     03op44,1b.ms3 -- Done parsing 03op44,1b.mscx
-
-WARNING  03op44,1b.expand_labels -- The following chords could not be parsed:
-      mc   mn onset      label
-117   63   61   1/4  V65/V(+4)
-365  207  204   1/4  V65/V(+4)

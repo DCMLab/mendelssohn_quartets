@@ -12,8 +12,3 @@ WARNING  04op44,2c.ms3 -- Event 2317 in MC 81 has has duration 1/2 and starts on
 WARNING  04op44,2c.ms3 -- Event 2318 in MC 81 has has duration 1/2 and starts on 3/2, surpassing the measure length of 1
 WARNING  04op44,2c.ms3 -- Event 2319 in MC 81 has has duration 1/2 and starts on 3/2, surpassing the measure length of 1
 INFO     04op44,2c.ms3 -- Done parsing 04op44,2c.mscx
-
-WARNING  04op44,2c.expand_labels -- The following chords could not be parsed:
-     mc  mn onset     label
-ix                         
-268  63  63   5/8  V+M65/IV

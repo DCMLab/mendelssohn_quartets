@@ -169,6 +169,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -262,6 +263,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -308,6 +310,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -696,6 +699,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -753,6 +757,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -1513,6 +1518,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1557,6 +1563,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -19873,7 +19880,7 @@
             <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Harmony>
-            <name>V765/iv</name>
+            <name>V65/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -19903,7 +19910,7 @@
             </location>
           <Harmony>
             <name>V7/iv</name>
-            <offset x="0" y="-8"/>
+            <offset x="-0.523785" y="-2.76215"/>
             </Harmony>
           </voice>
         </Measure>
@@ -26156,6 +26163,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -26553,6 +26561,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -27024,6 +27033,7 @@
             </Chord>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -28875,6 +28885,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -30895,6 +30906,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -30946,6 +30958,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -31001,6 +31014,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -31052,6 +31066,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>quarter</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -49929,6 +49944,7 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -49964,6 +49980,7 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -50021,6 +50038,7 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -51599,6 +51617,7 @@
             </Chord>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>

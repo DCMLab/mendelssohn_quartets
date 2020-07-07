@@ -1522,6 +1522,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
@@ -1561,6 +1562,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
@@ -1601,6 +1603,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
@@ -1641,6 +1644,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
@@ -6047,7 +6051,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2</name>
+            <name>viio2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7024,7 +7028,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V65(6)</name>
+            <name>V65(6)/vi</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7043,15 +7047,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>/vi</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           <Harmony>
             <name>V65/vi</name>
             </Harmony>
