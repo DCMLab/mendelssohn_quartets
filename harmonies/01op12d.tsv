@@ -539,7 +539,7 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 196	196	3/4	iv(94)	c	i		iv(94)	iv				94			m	1	1	-1, -2, 0	1	-1	-1
 196	196	9/8	iv	c	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
 197	197	0	V(64)	c	i		V(64)	V				64			M	1	1	1, 0, -3		1	1
-197	197	3/4	V(1264)	c	i		V(1264)	V				1264			M	1	1	1, 0, -3	2	1	1
+197	197	3/4	V(134)	c	i		V(134)	V				134			M	1	1	1, 0, 2	-3	1	1
 197	197	11/8	V(64)	c	i		V(64)	V				64			M	1	1	1, 0, -3		1	1
 198	198	0	V7	c	i		V7	V			7				Mm7	1	1	1, 5, 2, -1		1	1
 198	198	3/4	V(64)	c	i		V(64)	V				64			M	1	1	1, 0, -3		1	1

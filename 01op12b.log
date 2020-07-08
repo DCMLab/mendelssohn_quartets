@@ -1,8 +1,0 @@
-INFO     01op12b.ms3 -- Attempting to parse 01op12b.mscx
-WARNING  01op12b.ms3 -- Voltas with measure COUNTS [[80, 81, 82], [83, 84]] have different lengths.
-    Check measure NUMBERS with authoritative score. To silence the warning, either make all voltas
-    the same length or exclude all measures in voltas > 1 from the bar count.
-WARNING  01op12b.ms3 -- MC 82 (3/8) and MC 83 (1/2) don't add up to 1/2.
-WARNING  01op12b.ms3 -- MC 135 (3/8) and MC 92 (1/2) don't add up to 1/2.
-INFO     01op12b.ms3 -- Done parsing 01op12b.mscx
-

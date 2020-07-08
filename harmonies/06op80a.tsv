@@ -315,7 +315,7 @@ mc	mn	onset	label	alt_label	globalkey	localkey	pedal	chord	numeral	special	form	
 123	123	0	V7/#vi		f	i		V7/#vi	V			7		#vi		Mm7	1	1	4, 8, 5, 2		4	4
 124	124	1/2	#viio2/#vi		f	i		#viio2/#vi	#vii		o	2		#vi		o7	1	1	-1, 8, 5, 2		8	-1
 125	125	0	V7/#vi		f	i		V7/#vi	V			7		#vi		Mm7	1	1	4, 8, 5, 2		4	4
-127	127	0	V(1264)/#vi		f	i		V(1264)/#vi	V				1264	#vi		M	1	1	4, 3, 0	5	4	4
+127	127	0	V(134)/#vi		f	i		V(134)/#vi	V				134	#vi		M	1	1	4, 3, 5	0	4	4
 127	127	1/2	V(64)/#vi		f	i		V(64)/#vi	V				64	#vi		M	1	1	4, 3, 0		4	4
 128	128	0	V7(4)/#vi		f	i		V7(4)/#vi	V			7	4	#vi		Mm7	1	1	4, 3, 5, 2		4	4
 128	128	1/2	V7/#vi		f	i		V7/#vi	V			7		#vi		Mm7	1	1	4, 8, 5, 2		4	4
@@ -553,7 +553,7 @@ mc	mn	onset	label	alt_label	globalkey	localkey	pedal	chord	numeral	special	form	
 234	234	0	V7/ii		f	I		V7/ii	V			7		ii		Mm7	1	0	3, 7, 4, 1		3	3
 235	235	0	II		f	I		II	II							M	1	0	2, 6, 3		2	2
 235	235	1/2	ii		f	I		ii	ii							m	1	0	2, -1, 3		2	2
-236	236	0	V(1264)		f	I		V(1264)	V				1264			M	1	0	1, 0, 4	2	1	1
+236	236	0	V(134)		f	I		V(134)	V				134			M	1	0	1, 0, 2	4	1	1
 236	236	1/4	V(64)		f	I		V(64)	V				64			M	1	0	1, 0, 4		1	1
 236	236	3/4	V7		f	I		V7	V			7				Mm7	1	0	1, 5, 2, -1		1	1
 237	237	0	V65/vi		f	I		V65/vi	V			65		vi		Mm7	1	0	8, 5, 2, 4		4	8

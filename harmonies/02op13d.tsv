@@ -546,7 +546,7 @@ mc	mn	onset	label	alt_label	globalkey	localkey	pedal	chord	numeral	special	form	
 252	252	0	i6		a	i		i6	i			6				m	1	1	-3, 1, 0		0.0	-3.0
 252	252	1/2	V65		a	i		V65	V			65				Mm7	1	1	5, 2, -1, 1		1.0	5.0
 253	253	0	i		a	i		i	i							m	1	1	0, -3, 1		0.0	0.0
-253	253	1/2	V765/iv		a	i											1	1				
+253	253	1/2	V65/iv		a	i		V65/iv	V			65		iv		Mm7	1	1	4, 1, -2, 0		0.0	4.0
 253	253	7/8	V7/iv		a	i		V7/iv	V			7		iv		Mm7	1	1	0, 4, 1, -2		0.0	0.0
 254	254	0	iv		a	i		iv	iv							m	1	1	-1, -4, 0		-1.0	-1.0
 254	254	1/2	i6		a	i		i6	i			6				m	1	1	-3, 1, 0		0.0	-3.0
