@@ -1,15 +1,6 @@
 INFO     01op12a.ms3 -- Attempting to parse 01op12a.mscx
 INFO     01op12a.ms3 -- Done parsing 01op12a.mscx
 
-WARNING  01op12a.expand_labels -- The following chords could not be parsed:
-      mc   mn onset     label
-38    11   11   3/8   .bVII64
-216   78   77     0   .bIII64
-218   80   79     0    .bVII6
-220   81   80     0  .Ger6/iv
-568  237  235     0  .Ger6/vi
-573  245  243     0     .bVII
-574  246  244     0  .Ger6/ii
-WARNING  01op12a.expand_labels -- MC 91: The change 14 has no effect in I6
 WARNING  01op12a.expand_labels -- MC 192: The change 14 has no effect in IV6
 WARNING  01op12a.expand_labels -- MC 32: The change 14 has no effect in IV6
+WARNING  01op12a.expand_labels -- MC 91: The change 14 has no effect in I6
