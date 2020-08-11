@@ -213,3 +213,14 @@ WARNING  06op80d.ms3 -- Event 2865 in MC 364 has has duration 1/2 and starts on 
 WARNING  06op80d.ms3 -- Event 2866 in MC 364 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
 INFO     06op80d.ms3 -- Done parsing 06op80d.mscx
 
+WARNING  06op80d.expand_labels -- The following chords could not be parsed:
+      mc   mn onset label
+ix                       
+106   81   81     0  .bVI
+108   85   85     0  .bVI
+110   89   89     0  .bVI
+112   91   91     0  .bVI
+356  337  337     0  .Fr6
+416  398  398     0  .bII
+418  401  401     0  .bII
+420  403  403     0  .bII
