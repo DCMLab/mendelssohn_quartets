@@ -1,8 +1,0 @@
-INFO     05op44,3d.ms3 -- Attempting to parse 05op44,3d.mscx
-WARNING  05op44,3d.ms3 -- Event 6684 in MC 281 has has duration 1/2 and starts on 1, surpassing the measure length of 1
-WARNING  05op44,3d.ms3 -- Event 6699 in MC 282 has has duration 1/2 and starts on 1, surpassing the measure length of 1
-WARNING  05op44,3d.ms3 -- Event 6700 in MC 282 has has duration 1/2 and starts on 3/2, surpassing the measure length of 1
-WARNING  05op44,3d.ms3 -- Event 6715 in MC 283 has has duration 1/2 and starts on 1, surpassing the measure length of 1
-WARNING  05op44,3d.ms3 -- Event 6716 in MC 283 has has duration 1/2 and starts on 3/2, surpassing the measure length of 1
-INFO     05op44,3d.ms3 -- Done parsing 05op44,3d.mscx
-

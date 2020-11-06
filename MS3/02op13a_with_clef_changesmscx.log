@@ -1,0 +1,5 @@
+2020-11-06 16:11:24 WARNING  02op13a_with_clef_changes:MeasureList -- bs4_measures.py (line 197) check_measure_numbers():
+	MC 1 seems to be offset from the MN's beginning but has not been excluded from barcount. Context:
+	   mc  mn act_dur mc_offset  dont_count  numbering_offset
+	0   1   1     1/8       5/8        <NA>              <NA>
+	1   2   2     3/4         0        <NA>              <NA>
