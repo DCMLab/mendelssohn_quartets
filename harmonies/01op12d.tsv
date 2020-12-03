@@ -112,7 +112,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 31	31	9/8	9/8	12/8	1	1	i	c	i		i		i						m	1	1	0, -3, 1		0	0
 32	32	0	0	12/8	1	1	#viio65/iv	c	i		#viio65/iv		#vii	o	65		iv		o7	1	1	1, -2, -5, 4		4	1
 33	33	3/8	3/8	12/8	1	1	IV6	c	i		IV6		IV		6				M	1	1	3, 0, -1		-1	3
-33	33	3/4	3/4	12/8	1	1	.Ger6	c	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+33	33	3/4	3/4	12/8	1	1	.Ger6	c	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 34	34	0	0	12/8	1	1	V(64)	c	i		V(64)		V			64			M	1	1	1, 0, -3		1	1
 34	34	9/8	9/8	12/8	1	1	V7	c	i		V7		V		7				Mm7	1	1	1, 5, 2, -1		1	1
 35	35	0	0	12/8	1	1	i\\	c	i		i		i					\\	m	1	1	0, -3, 1		0	0
@@ -172,7 +172,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 56	56	3/8	3/8	12/8	1	1	iv43	c	v		iv43		iv		43				mm7	1	1	0, -3, -1, -4		-1	0
 56	56	3/4	3/4	12/8	1	1	i64	c	v		i64		i		64				m	1	1	1, 0, -3		0	1
 56	56	9/8	9/8	12/8	1	1	i	c	v		i		i						m	1	1	0, -3, 1		0	0
-57	57	0	0	12/8	1	1	.Ger6	c	v		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+57	57	0	0	12/8	1	1	.Ger6	c	v		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 57	57	3/8	3/8	12/8	1	1	i	c	v		i		i						m	1	1	0, -3, 1		0	0
 57	57	3/4	3/4	12/8	1	1	V65	c	v		V65		V		65				Mm7	1	1	5, 2, -1, 1		1	5
 58	58	3/8	3/8	12/8	1	1	i	c	v		i		i						m	1	1	0, -3, 1		0	0
@@ -186,7 +186,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 60	60	3/8	3/8	12/8	1	1	iv43	c	v		iv43		iv		43				mm7	1	1	0, -3, -1, -4		-1	0
 60	60	3/4	3/4	12/8	1	1	i64	c	v		i64		i		64				m	1	1	1, 0, -3		0	1
 60	60	9/8	9/8	12/8	1	1	i	c	v		i		i						m	1	1	0, -3, 1		0	0
-61	61	0	0	12/8	1	1	.Ger6	c	v		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+61	61	0	0	12/8	1	1	.Ger6	c	v		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 61	61	3/8	3/8	12/8	1	1	i	c	v		i		i						m	1	1	0, -3, 1		0	0
 61	61	3/4	3/4	12/8	1	1	V65	c	v		V65		V		65				Mm7	1	1	5, 2, -1, 1		1	5
 62	62	0	0	12/8	1	1	i	c	v		i		i						m	1	1	0, -3, 1		0	0
@@ -391,7 +391,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 144	144	3/8	3/8	12/8	1	1	i6	c	i		i6		i		6				m	1	1	-3, 1, 0		0	-3
 144	144	3/4	3/4	12/8	1	1	viio43/IV	c	i		viio43/IV		vii	o	43		IV		o7	1	1	-2, -5, 4, 1		4	-2
 146	146	3/4	3/4	12/8	1	1	IV6	c	i		IV6		IV		6				M	1	1	3, 0, -1		-1	3
-147	147	0	0	12/8	1	1	.Ger6	c	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+147	147	0	0	12/8	1	1	.Ger6	c	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 149	149	0	0	12/8	1	1	i6	c	i		i6		i		6				m	1	1	-3, 1, 0		0	-3
 149	149	3/4	3/4	12/8	1	1	V43	c	i		V43		V		43				Mm7	1	1	2, -1, 1, 5		1	2
 150	150	0	0	12/8	1	1	i	c	i		i		i						m	1	1	0, -3, 1		0	0
