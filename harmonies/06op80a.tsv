@@ -639,7 +639,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	p
 265	265	1/2	1/2	2/2	1	1	iv6		f	i		iv6		iv		6				m	1	1	-4, 0, -1		-1	-4
 265	265	3/4	3/4	2/2	1	1	V6/iv		f	i		V6/iv		V		6		iv		M	1	1	4, 1, 0		0	4
 266	266	0	0	2/2	1	1	iv		f	i		iv		iv						m	1	1	-1, -4, 0		-1	-1
-266	266	1/2	1/2	2/2	1	1	iv6-#viio2		f	i											1	1				
+266	266	1/2	1/2	2/2	1	1	iv6	#viio2	f	i		iv6		iv		6				m	1	1	-4, 0, -1		-1	-4
 267	267	0	0	2/2	1	1	#viio65		f	i		#viio65		#vii	o	65				o7	1	1	2, -1, -4, 5		5	2
 268	268	0	0	2/2	1	1	#viio		f	i		#viio		#vii	o					o	1	1	5, 2, -1		5	5
 268	268	1/4	1/4	2/2	1	1	#viio6		f	i		#viio6		#vii	o	6				o	1	1	2, -1, 5		5	2
