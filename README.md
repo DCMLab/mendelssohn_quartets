@@ -1,5 +1,3 @@
-# annotation_workflow_template
+# Mendelssohn's 6 String Quartets
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
-
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+Quartets nos. 1, 2, 4, 5 typeset by Tom Schreyer, as well as no. 3 mvts. 2 & 3
