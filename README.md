@@ -2,6 +2,8 @@
 
 Quartets nos. 1, 2, 4, 5 typeset by Tom Schreyer, as well as no. 3 mvts. 2 & 3
 
+*Note: The workflow currently extracts facets from `MS3/alternative_file`. On the next run, all folders are therefore wrongly identified as corpora without `metadata.tsv`, so nothing will happen. Should a workaround be required, it would be enough to remove the folders `MS3/notes` and `MS3/measures`. But fixing the root of the problem by making ms3 properly ignore the alternative files would be preferable.*
+
 # Overview
 |file_name|measures|labels|standard| annotators | reviewers  |
 |---------|-------:|-----:|--------|------------|------------|
