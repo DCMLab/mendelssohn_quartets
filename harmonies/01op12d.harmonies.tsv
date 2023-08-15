@@ -729,10 +729,10 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globa
 288	288	1577	1.0	1/4	1/4	4/4	4	1	vi64	c	III		vi64		vi		64					m	1	0	4, 3, 0		3	4
 288	288	1578	1.0	1/2	1/2	4/4	4	1	V2/vi	c	III		V2/vi		V		2		vi			Mm7	1	0	2, 4, 8, 5		4	2
 288	288	1579	1.0	3/4	3/4	4/4	4	1	V/vi	c	III		V/vi		V				vi			M	1	0	4, 8, 5		4	4
-289	289	1580	0.0	0	0	4/4	4	1	V(64)/vi	c	III		V(64)/vi		V			64	vi			M	1	0	4, 3, 0		4	4
-289	289	1580	4.0	0	0	4/4	4	1	V2/vi	c	III		V2/vi		V		2		vi			Mm7	1	0	2, 4, 8, 5		4	2
-290	290	1584	0.0	0	0	4/4	4	1	vi6	c	III		vi6		vi		6					m	1	0	0, 4, 3		3	0
-290	290	1584	4.0	0	0	4/4	4	1	V43/vi	c	III		V43/vi		V		43		vi			Mm7	1	0	5, 2, 4, 8		4	5
+289	289	1580	0.0	0	0	4/4	4	1	V2/vi	c	III		V2/vi		V		2		vi			Mm7	1	0	2, 4, 8, 5		4	2
+289	289	1580	4.0	0	0	4/4	4	1	V(64)/vi	c	III		V(64)/vi		V			64	vi			M	1	0	4, 3, 0		4	4
+290	290	1584	0.0	0	0	4/4	4	1	V43/vi	c	III		V43/vi		V		43		vi			Mm7	1	0	5, 2, 4, 8		4	5
+290	290	1584	4.0	0	0	4/4	4	1	vi6	c	III		vi6		vi		6					m	1	0	0, 4, 3		3	0
 291	291	1588	4.0	0	0	4/4	4	1	vi	c	III		vi		vi							m	1	0	3, 0, 4		3	3
 292	292	1592	1.0	0	0	4/4	4	1	ii65(13)	c	III		ii65(13)		ii		65	13				mm7	1	0	-1, 3, 0, 2	5	2	-1
 292	292	1593	1.0	1/4	1/4	4/4	4	1	ii65	c	III		ii65		ii		65					mm7	1	0	-1, 3, 0, 2		2	-1
