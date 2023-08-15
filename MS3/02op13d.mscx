@@ -78812,6 +78812,13 @@
             <name>#viio43/iv</name>
             <offset x="0" y="-8"/>
             </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Clef>
+            <concertClefType>C4</concertClefType>
+            <transposingClefType>C4</transposingClefType>
+            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -79027,6 +79034,13 @@
             <name>V64/iv</name>
             <offset x="0" y="-8"/>
             </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           </voice>
         </Measure>
       <Measure>
