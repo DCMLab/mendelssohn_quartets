@@ -33,4 +33,4 @@ Quartets nos. 1, 2, 4, 5 typeset by Tom Schreyer, as well as no. 3 mvts. 2 & 3
 |06op80d  |     461|   493|2.1.0   |Adrian Nagel|            |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
