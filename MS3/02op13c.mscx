@@ -169,9 +169,8 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.1</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -242,7 +241,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
@@ -256,10 +255,6 @@
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="2">
@@ -302,19 +297,13 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
-          <controller ctrl="32" value="17"/>
           </Channel>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="3">
@@ -329,6 +318,7 @@
         <shortName>Vla.</shortName>
         <trackName>Viola</trackName>
         <instrumentId>strings.viola</instrumentId>
+        <clef>C3</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -358,21 +348,13 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <clef>C3</clef>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="4">
@@ -386,6 +368,7 @@
         <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
         <instrumentId>strings.cello</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -415,24 +398,25 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <clef>F</clef>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
+        <height>23.3928</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>String Quartet No. 2 in A Minor, Op. 13</text>
@@ -464,16 +448,16 @@
             <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <StaffText>
-            <visible>0</visible>
+            <minDistance>-0.527169</minDistance>
             <family>FreeSerif</family>
-            <offset x="-22.9404" y="-9.44218"/>
-            <text>Intermezzo.
-<font face="Plantin MT Std"></font><b>Allegretto con mote.
+            <offset x="-8.52795" y="-4.32809"/>
+            <text><b><font face="Plantin MT Std"/>Allegretto con moto.
 </b></text>
             </StaffText>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-22.8575" y="-11.5909"/>
             <text><sym>metNoteQuarterUp</sym> = 120</text>
             </Tempo>
@@ -1759,62 +1743,75 @@
             <span>1</span>
             </BarLine>
           <StaffText>
-            <visible>0</visible>
             <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><b>Allegro di molto.
 </b></text>
             </StaffText>
+          <Tempo>
+            <tempo>2.3999999999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            </Tempo>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -3252,7 +3249,8 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -5349,9 +5347,6 @@
               <subtype>r16</subtype>
               </Tremolo>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <BarLine>
             <subtype>double</subtype>
             <span>1</span>

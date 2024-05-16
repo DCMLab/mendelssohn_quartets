@@ -170,7 +170,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.1</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -241,7 +241,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
@@ -255,10 +255,6 @@
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="2">
@@ -301,19 +297,13 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
-          <controller ctrl="32" value="17"/>
           </Channel>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="3">
@@ -328,6 +318,7 @@
         <shortName>Vla.</shortName>
         <trackName>Viola</trackName>
         <instrumentId>strings.viola</instrumentId>
+        <clef>C3</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -357,21 +348,13 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <clef>C3</clef>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="4">
@@ -385,6 +368,7 @@
         <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
         <instrumentId>strings.cello</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -414,7 +398,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
@@ -427,15 +411,19 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <clef>F</clef>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
+        <height>22.7077</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>String Quartet No. 2 in A Minor, Op. 13</text>
@@ -459,14 +447,14 @@
           <Tempo>
             <tempo>3.1166700000000001</tempo>
             <followText>1</followText>
-            <offset x="-24.7239" y="-11.7158"/>
+            <offset x="-2.56283" y="-2.1075"/>
             <text><font size="12"></font><b>Presto</b></text>
             </Tempo>
           <Tempo>
-            <tempo>4.5</tempo>
+            <tempo>3</tempo>
             <followText>1</followText>
-            <offset x="-23.8797" y="-8.69876"/>
-            <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 180</text>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -20626,12 +20614,12 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -23704,9 +23692,16 @@
           <Tempo>
             <tempo>1.18333</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <offset x="-1.95109" y="5.10946"/>
+            <minDistance>-999</minDistance>
+            <offset x="0.10166" y="-6.29999"/>
             <text><font size="12"></font><b>Adagio non lento</b></text>
+            </Tempo>
+          <Tempo>
+            <tempo>1.1666700000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="-4.3956" y="-5.00938"/>
+            <text><sym>metNoteQuarterUp</sym> = 70</text>
             </Tempo>
           <Spanner type="HairPin">
             <HairPin>
@@ -24075,8 +24070,8 @@
           <Tempo>
             <tempo>1.18333</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <offset x="-3.30576" y="3.53346"/>
+            <minDistance>-999</minDistance>
+            <offset x="1.12386" y="-5.10716"/>
             <text><font size="12"></font><b>Recit.</b></text>
             </Tempo>
           <Chord>
@@ -24521,8 +24516,8 @@
           <Tempo>
             <tempo>1.18333</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <offset x="-0.831599" y="4.53392"/>
+            <minDistance>-999</minDistance>
+            <offset x="0.897033" y="-4.1067"/>
             <text><font size="12"></font><b>Adagio come 1</b></text>
             </Tempo>
           <Dynamic>
@@ -44004,12 +43999,12 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -66566,12 +66561,12 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -90083,12 +90078,12 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
