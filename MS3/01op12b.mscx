@@ -162,7 +162,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.075</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -392,10 +391,18 @@
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
         <voice>
@@ -5321,7 +5328,7 @@
           </voice>
         </Measure>
       <Measure>
-        <irregular>1</irregular>
+        <noOffset>-3</noOffset>
         <voice>
           <Spanner type="Volta">
             <prev>
@@ -5436,7 +5443,6 @@
           </voice>
         </Measure>
       <Measure>
-        <irregular>1</irregular>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
