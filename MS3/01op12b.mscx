@@ -402,6 +402,20 @@
       </Part>
     <Staff id="1">
       <VBox>
+        <height>22.3387</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>String Quartet No. 1 in E-flat Major, Op. 12</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Canzonetta: Allegretto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
+          </Text>
         </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
@@ -416,16 +430,15 @@
           <Tempo>
             <tempo>1.93333</tempo>
             <followText>1</followText>
-            <offset x="-23.563" y="-10.4534"/>
-            <text><font size="12"></font><b>Canzonetta
-</b>Allegretto
-</text>
+            <minDistance>-0.593878</minDistance>
+            <offset x="-4.21666" y="-5.53753"/>
+            <text><font size="12"/>Allegretto</text>
             </Tempo>
           <Tempo>
             <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 84</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 84</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>

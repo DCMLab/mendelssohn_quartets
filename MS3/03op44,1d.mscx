@@ -190,7 +190,7 @@
           <name></name>
           <xml>major</xml>
           <voicing>C E G</voicing>
-          <render></render>
+          <render/>
           </chord>
         <chord id="2">
           <name>Maj</name>
@@ -1580,9 +1580,9 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>Part_1</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <trackName>Part_1</trackName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <StringData>
           <frets>24</frets>
@@ -1607,32 +1607,38 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <controller ctrl="0" value="0"/>
+        <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
+        <Channel name="pizzicato">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
-          <program value="0"/>
+          <program value="45"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         </Instrument>
+      <Channel name="tremolo">
+        <program value="44"/>
+        <controller ctrl="32" value="17"/>
+        </Channel>
       </Part>
     <Part>
       <Staff id="2">
         <StaffType group="pitched">
           </StaffType>
         </Staff>
-      <trackName>Part_2</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <trackName>Part_2</trackName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <StringData>
           <frets>24</frets>
@@ -1657,15 +1663,24 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <controller ctrl="0" value="0"/>
+        <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         </Instrument>
+      <Channel name="pizzicato">
+        <program value="45"/>
+        </Channel>
+      <Channel name="tremolo">
+        <program value="44"/>
+        <controller ctrl="32" value="17"/>
+        </Channel>
       </Part>
     <Part>
       <Staff id="3">
@@ -1673,10 +1688,10 @@
           </StaffType>
         <defaultClef>C3</defaultClef>
         </Staff>
-      <trackName>Part_3</trackName>
-      <Instrument id="nyckelharpa">
-        <trackName>Part_3</trackName>
-        <instrumentId>strings.nyckelharpa</instrumentId>
+      <trackName>Viola</trackName>
+      <Instrument id="viola">
+        <trackName>Viola</trackName>
+        <instrumentId>strings.viola</instrumentId>
         <StringData>
           <frets>24</frets>
           <string>48</string>
@@ -1700,15 +1715,25 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <controller ctrl="0" value="0"/>
+        <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Viola</longName>
+        <shortName>Vla.</shortName>
+        <clef>C3</clef>
         </Instrument>
+      <Channel name="pizzicato">
+        <program value="45"/>
+        </Channel>
+      <Channel name="tremolo">
+        <program value="44"/>
+        <controller ctrl="32" value="17"/>
+        </Channel>
       </Part>
     <Part>
       <Staff id="4">
@@ -1716,9 +1741,9 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Part_4</trackName>
+      <trackName>Violoncello</trackName>
       <Instrument id="violoncello">
-        <trackName>Part_4</trackName>
+        <trackName>Violoncello</trackName>
         <instrumentId>strings.cello</instrumentId>
         <StringData>
           <frets>24</frets>
@@ -1743,26 +1768,45 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <controller ctrl="0" value="0"/>
+        <Channel name="arco">
+          <controller ctrl="32" value="17"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
+        <Channel name="pizzicato">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
-          <program value="0"/>
+          <program value="45"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
+        <longName>Violoncello</longName>
+        <shortName>Vc.</shortName>
+        <clef>F</clef>
         </Instrument>
+      <Channel name="tremolo">
+        <program value="44"/>
+        <controller ctrl="32" value="17"/>
+        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
+        <Text>
+          <style>Title</style>
+          <text>String Quartet No. 3 in D Major, Op. 44, No. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>4. Presto con brio</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -1781,7 +1825,7 @@
           <Tempo>
             <tempo>5.2000000000000002</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 104</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 104</b></text>
             </Tempo>
           <Tempo>
             <tempo>3.1166700000000001</tempo>

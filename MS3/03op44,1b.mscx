@@ -443,8 +443,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="-1.39246" y="-4.6095"/>
-          <text>Mendelssohn String Quartet No 3_2</text>
+          <text>String Quartet No. 3 in D Major, Op. 44, No. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Menuetto: Un poco Allegretto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
           </Text>
         </VBox>
       <Measure len="1/4">

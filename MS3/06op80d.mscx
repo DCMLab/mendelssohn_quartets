@@ -450,7 +450,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>String Quartet No. 6 in F Minor, Op. 80</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>4. Finale: Allegro molto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>

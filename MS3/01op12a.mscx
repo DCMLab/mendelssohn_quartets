@@ -164,7 +164,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.075</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -403,13 +403,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>24.6097</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <size>10</size>
-          <offset x="-1.00767" y="-5.10544"/>
-          <text><font size="24"></font>Quartet No.1 in E-flat Major, Op.12</text>
+          <text>String Quartet No. 1 in E-flat Major, Op. 12</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Adagio non troppo – Allegro non tardante</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
           </Text>
         </VBox>
       <Measure>
@@ -431,8 +437,15 @@
           <Tempo>
             <tempo>1.5333300000000001</tempo>
             <followText>1</followText>
-            <offset x="-19.0729" y="-14.3977"/>
+            <minDistance>0.22765</minDistance>
+            <offset x="-6.31407" y="-2.99208"/>
             <text><font size="12"></font><b>Adagio, non troppo</b></text>
+            </Tempo>
+          <Tempo>
+            <tempo>1.5333333333333332</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 92</b></text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>
@@ -1969,6 +1982,12 @@
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
+          <Tempo>
+            <tempo>2.5333333333333332</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 76</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
