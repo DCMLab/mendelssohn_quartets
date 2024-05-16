@@ -7,17 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27</pageWidth>
-      <pageHeight>11.69</pageHeight>
-      <pagePrintableWidth>7.4826</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.075</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -283,17 +277,10 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.492409" y="2.1635"/>
-            </Dynamic>
           <Tempo>
             <tempo>1.5333300000000001</tempo>
             <followText>1</followText>
             <minDistance>0.22765</minDistance>
-            <size>10</size>
             <offset x="-6.31407" y="-2.99208"/>
             <text><font size="12"></font><b>Adagio, non troppo</b></text>
             </Tempo>
@@ -468,7 +455,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="16.411"/>
+            <offset x="0" y="6.20033"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -592,9 +579,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.505938" y="3.34367"/>
+            <offset x="0.0678587" y="7.98731"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -716,7 +702,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="2.7919"/>
             <text><font size="11"></font><i>espress.</i></text>
             </StaffText>
           <Chord>
@@ -1074,13 +1060,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -1242,9 +1223,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1443,9 +1423,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.70567"/>
+            <offset x="-0.108938" y="8.34931"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1652,9 +1631,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1694,6 +1672,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -1736,9 +1716,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1795,7 +1774,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="14.934"/>
+            <offset x="0" y="2.76512"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -1810,9 +1789,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -1836,16 +1814,14 @@
           <Tempo>
             <tempo>1.18333</tempo>
             <followText>1</followText>
-            <size>10</size>
             <text><font size="12"></font><b>Allegro non tardante.</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Tempo>
             <tempo>2.5333333333333332</tempo>
@@ -2061,8 +2037,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.0928088" y="2.35179"/>
+            <offset x="-0.345271" y="6.99543"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -2080,6 +2055,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2095,6 +2072,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>6.49132</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2166,14 +2144,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -2280,14 +2250,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -2299,6 +2261,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>12.6455</vspacerFixed>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -2465,14 +2428,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -2634,13 +2589,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -2825,8 +2775,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.634788" y="2.55297"/>
+            <offset x="0.196709" y="3.27785"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2973,17 +2922,16 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.55967"/>
+            <offset x="0.220202" y="8.20331"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
+                <offset x="2.79911" y="4.51391"/>
+                <off2 x="-2.79911" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -3321,9 +3269,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -3338,6 +3285,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -3488,14 +3437,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.505938" y="3.34367"/>
-            </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -3805,6 +3746,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -3823,7 +3766,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.631"/>
+            <offset x="-0.139872" y="4.93803"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -3941,14 +3884,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>ff</subtype>
-            <velocity>101</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
-            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -4148,7 +4083,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.468"/>
+            <offset x="0" y="3.75413"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -4255,14 +4190,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -4299,6 +4226,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4411,7 +4340,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.092"/>
+            <offset x="0" y="3.18005"/>
             <text><font size="11"></font><i>dolce</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -4660,6 +4589,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4764,14 +4695,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -4790,7 +4713,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.49126"/>
             <text><font size="11"></font><i>ritard.</i></text>
             </StaffText>
           <Chord>
@@ -4898,14 +4821,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>fp</subtype>
-            <velocity>96</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <StaffText>
             <text>a tempo</text>
             </StaffText>
@@ -4914,6 +4829,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4944,17 +4861,16 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
+            <offset x="0.241727" y="8.967"/>
             </Dynamic>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -5031,9 +4947,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -5247,8 +5162,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.20967"/>
+            <offset x="0.220202" y="4.94005"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -5473,7 +5387,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="2.58567"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -5784,7 +5697,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="1.23767"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -6108,7 +6020,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="-1.13787" y="2.71797"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -6297,7 +6208,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="0.329141" y="1.63602"/>
             </Dynamic>
           <Chord>
@@ -6341,7 +6251,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.164272" y="6.07393"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -6386,7 +6296,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -6492,17 +6401,16 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
+            <offset x="0.473524" y="6.4227"/>
             </Dynamic>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -6527,7 +6435,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="1.15952" y="13.8236"/>
+            <minDistance>0.166898</minDistance>
+            <offset x="0.00961568" y="2.98165"/>
             <text><font size="11"></font><i>ritardando. . .</i></text>
             </StaffText>
           <Chord>
@@ -6668,9 +6577,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="6.4227"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -6741,13 +6649,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -6870,9 +6773,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.238414" y="7.6823"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -6996,9 +6898,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="7.6823"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -7118,9 +7019,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.00283"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -7277,7 +7177,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.48928" y="2.21669"/>
             </Dynamic>
           <Chord>
@@ -7285,6 +7184,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -7389,9 +7290,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.0907261" y="6.56265"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -7588,7 +7488,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="2.93177"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -7740,9 +7640,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.0492296" y="7.26243"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -7854,13 +7753,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -7996,9 +7890,8 @@
             <subtype>mf</subtype>
             <velocity>75</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.37837" y="7.6823"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -8353,9 +8246,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.230682" y="7.54234"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -9180,7 +9072,6 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -9540,7 +9431,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.21152"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -9803,9 +9694,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.54234"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10057,9 +9947,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="6.98252"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -10075,7 +9964,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139872" y="3.91088"/>
             <text><font size="11"></font><i>espress.</i></text>
             </StaffText>
           <Chord>
@@ -10222,9 +10111,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="7.12247"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -10369,9 +10257,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="6.40426"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -10465,7 +10352,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="2.51216"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -10632,7 +10519,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139872" y="2.23241"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -10672,9 +10559,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.201616" y="7.16941"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -10738,7 +10624,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139872" y="2.65203"/>
             <text><font size="11"></font><i>espress.</i></text>
             </StaffText>
           <Chord>
@@ -10881,7 +10767,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="-0.331436" y="13.8251"/>
+            <offset x="-0.331436" y="2.77519"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -10924,7 +10810,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -10989,7 +10874,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.49126"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -11082,15 +10967,16 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.238664" y="7.12022"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -11105,10 +10991,11 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>12.4703</vspacerFixed>
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139872" y="3.07164"/>
             <text><font size="11"></font><i>sempre</i></text>
             </StaffText>
           <Chord>
@@ -11287,7 +11174,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="3.62713"/>
             <text><font size="11"></font><i>dolce</i></text>
             </StaffText>
           <StaffText>
@@ -11401,9 +11288,8 @@
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <size>10</size>
-            <offset x="-0.313263" y="3.31568"/>
+            <minDistance>-999</minDistance>
+            <offset x="0.24656" y="-4.02073"/>
             <text><font size="12"></font><b>a tempo</b></text>
             </Tempo>
           <Chord>
@@ -11642,9 +11528,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="8.10216"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -11886,9 +11771,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="7.12247"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -12021,7 +11905,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="3.20726"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -12216,9 +12100,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.82225"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -12598,6 +12481,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>11.8703</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -12617,16 +12501,15 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="19.657"/>
+            <offset x="2.09934" y="19.797"/>
             <text><font size="11"></font><i>ritard.</i></text>
             </StaffText>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -12734,16 +12617,14 @@
             <subtype>fp</subtype>
             <velocity>96</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.98252"/>
             </Dynamic>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
-            <placement>below</placement>
-            <size>10</size>
-            <offset x="0.151301" y="2.30207"/>
+            <minDistance>-999</minDistance>
+            <offset x="0.291257" y="-5.59416"/>
             <text><font size="12"></font><b>a tempo</b></text>
             </Tempo>
           <Chord>
@@ -12825,7 +12706,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -12873,9 +12754,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="6.98252"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -13197,7 +13077,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.165"/>
+            <offset x="0" y="6.26655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -14159,9 +14039,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.37837" y="6.84256"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -14354,7 +14233,6 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -14521,9 +14399,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="5.86287"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -14569,7 +14446,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.02668"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -14733,7 +14610,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.50698" y="2.6723"/>
             </Dynamic>
           <Chord>
@@ -14835,7 +14711,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139956" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -15026,9 +14902,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.230682" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -15135,7 +15010,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139956" y="6.14633"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -15237,9 +15112,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.98252"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -15396,9 +15270,13 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="1.81942" y="2.72735"/>
             <text><font size="11"></font><i>dolce</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -16000,11 +15878,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -16202,9 +16075,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="6.70261"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -16241,6 +16113,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -16320,7 +16194,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.419867" y="4.04699"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Beam>
@@ -16548,9 +16422,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -16837,7 +16710,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.419867" y="6.5662"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -16897,9 +16770,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="8.10216"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -17115,9 +16987,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="8.80194"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -17304,7 +17175,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="3.34721"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Beam>
@@ -17497,9 +17368,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="8.24212"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -17547,9 +17417,15 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.141946" y="-5.11712"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -17694,7 +17570,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.483"/>
+            <offset x="0" y="3.27233"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -17743,6 +17619,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>11.1531</vspacerFixed>
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -17758,9 +17635,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.51667"/>
+            <offset x="-0.108938" y="8.16031"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -17831,7 +17707,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="18.528"/>
+            <offset x="-0.139872" y="2.86231"/>
             <text><font size="11"></font><i>espress.</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -17872,6 +17748,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -18150,13 +18028,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -18259,8 +18132,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.21767"/>
+            <offset x="0.220202" y="5.18631"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -18469,8 +18341,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.96367"/>
+            <offset x="0.220202" y="5.61399"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -18531,9 +18402,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -18645,9 +18515,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.79967"/>
+            <offset x="0.220202" y="8.44331"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -18665,6 +18534,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -18707,9 +18578,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -18726,12 +18596,11 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.85247"/>
+            <offset x="0.220202" y="3.03445"/>
             </Dynamic>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.511"/>
+            <offset x="-0.683796" y="5.98442"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Fermata>
@@ -18753,14 +18622,6 @@
         </Measure>
       <Measure len="1/4">
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.80667"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -18968,9 +18829,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -19035,8 +18895,14 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.64367"/>
+            <offset x="0.220202" y="5.28731"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="4.17749" y="-3.38668"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -19205,9 +19071,15 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.297101" y="-3.38668"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -19220,6 +19092,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>12.9639</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -19373,8 +19246,14 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.28467"/>
+            <offset x="0.220202" y="4.92831"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.356961" y="-2.36725"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -19610,13 +19489,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -19708,9 +19582,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.841733" y="-1.49103"/>
+            <offset x="-0.0162134" y="6.79146"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -19798,8 +19670,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="3.05361"/>
+            <offset x="0.220202" y="4.75818"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -20220,9 +20091,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -20421,6 +20291,13 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="1.82951" y="-8.10461"/>
+            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -20428,9 +20305,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20794,7 +20670,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="14.445"/>
+            <offset x="-0.139872" y="6.75203"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -20910,9 +20786,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21157,8 +21032,14 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.73267"/>
+            <offset x="0.220202" y="5.37631"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>101</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.293904" y="-1.89641"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -21240,9 +21121,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -21302,6 +21182,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.220202" y="-7.35468"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -21323,7 +21210,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.48"/>
+            <offset x="0" y="3.76613"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -21364,14 +21251,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -21578,9 +21457,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-0.573816" y="-7.32685"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -21600,7 +21478,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <minDistance>-0.101827</minDistance>
+            <offset x="0" y="3.49126"/>
             <text><font size="11"></font><i>ritard.</i></text>
             </StaffText>
           <Chord>
@@ -21671,12 +21550,11 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>fp</subtype>
+            <velocity>96</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.92667"/>
+            <offset x="0.220202" y="-8.16659"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22059,8 +21937,7 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.329141" y="2.37325"/>
+            <offset x="0.170973" y="3.65795"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -22217,8 +22094,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.179926" y="3.09725"/>
+            <offset x="-0.258153" y="4.65827"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -22270,7 +22146,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
-            <visible>0</visible>
             <offset x="-0.0678248" y="2.9742"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -22346,9 +22221,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="7.96221"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -22441,7 +22315,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="-0.373753" y="3.06845"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -22459,6 +22332,8 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -22475,6 +22350,8 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -22526,7 +22403,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="-1.30343" y="2.60997"/>
             </Dynamic>
           <Chord>
@@ -22578,7 +22454,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.164272" y="6.07393"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -22726,9 +22602,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.54234"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -22802,7 +22677,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.019"/>
+            <offset x="0.164272" y="6.10521"/>
             <text><font size="11"></font><i>ritardando. . .</i></text>
             </StaffText>
           <Chord>
@@ -22924,9 +22799,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.80667"/>
+            <offset x="0.37837" y="8.1453"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -22999,13 +22873,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -23119,9 +22988,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.238414" y="7.6823"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -23202,8 +23070,8 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.55867"/>
+            <minDistance>0.149842</minDistance>
+            <offset x="0.658281" y="5.03725"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -23360,9 +23228,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.00283"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -23504,7 +23371,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="2.8927"/>
             </Dynamic>
           <Chord>
@@ -23515,6 +23381,8 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -23915,9 +23783,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.238414" y="6.56265"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24339,7 +24206,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <minDistance>-0.0484254</minDistance>
+            <offset x="0" y="2.93177"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -24633,7 +24501,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="1.70267"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -24854,13 +24721,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -25087,7 +24949,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.78767"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -25467,9 +25328,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.230682" y="7.54234"/>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25528,7 +25388,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="2.12472"/>
             </Dynamic>
           <Chord>
@@ -26243,6 +26102,8 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -26526,7 +26387,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.21152"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -26759,9 +26620,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.54234"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -26879,9 +26739,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="8.38208"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -26956,7 +26815,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="1.46367"/>
             </Dynamic>
           <Chord>
@@ -26964,6 +26822,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -27003,8 +26863,8 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.15867"/>
+            <minDistance>0.32574</minDistance>
+            <offset x="0.148182" y="4.59103"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -27083,7 +26943,8 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.594"/>
+            <minDistance>-0.437991</minDistance>
+            <offset x="0" y="3.76116"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -27126,17 +26987,16 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
+            <offset x="0.153954" y="8.31713"/>
             </Dynamic>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -27179,7 +27039,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.094"/>
+            <offset x="-0.139872" y="5.52001"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -27226,9 +27086,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.44667"/>
+            <offset x="0.530756" y="7.01736"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -27270,17 +27129,16 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
+            <offset x="-0.447664" y="10.2484"/>
             </Dynamic>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -27328,7 +27186,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.00067"/>
             </Dynamic>
           <Chord>
@@ -27598,7 +27455,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.577"/>
+            <minDistance>0.227181</minDistance>
+            <offset x="0" y="3.72326"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -27694,7 +27552,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.47967"/>
             </Dynamic>
           <Chord>
@@ -27720,7 +27577,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139872" y="3.07164"/>
             <text><font size="11"></font><i>sempre</i></text>
             </StaffText>
           <Chord>
@@ -27739,6 +27596,8 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -27969,7 +27828,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.703"/>
+            <minDistance>0.383468</minDistance>
+            <offset x="0.139956" y="3.98513"/>
             <text><font size="11"></font><i>dolce</i></text>
             </StaffText>
           <Chord>
@@ -28243,9 +28103,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="8.10216"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -28404,7 +28263,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.27967"/>
             </Dynamic>
           <Chord>
@@ -28595,7 +28453,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="15.604"/>
+            <minDistance>-0.0222038</minDistance>
+            <offset x="0.139956" y="8.46626"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -28731,7 +28590,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="1.56167"/>
             </Dynamic>
           <Chord>
@@ -28825,9 +28683,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.0492296" y="7.40239"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29089,9 +28946,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -29167,9 +29023,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.37837" y="6.4227"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29416,7 +29271,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -29552,9 +29407,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="6.98252"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -29678,7 +29532,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.50698" y="2.21839"/>
             </Dynamic>
           <Chord>
@@ -29694,7 +29547,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -29729,9 +29582,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.70261"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -29752,9 +29604,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.70261"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -29890,7 +29741,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.80667"/>
             </Dynamic>
           <Beam>
@@ -30383,9 +30233,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="6.28274"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -30447,7 +30296,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.02668"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -30552,9 +30401,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.38267"/>
+            <offset x="0.238414" y="8.42108"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -30647,7 +30495,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.022"/>
+            <offset x="-0.139956" y="6.12355"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -30832,9 +30680,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.0984582" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -30927,7 +30774,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139956" y="6.14633"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -30969,7 +30816,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.50467"/>
             </Dynamic>
           <Chord>
@@ -31028,12 +30874,13 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-1.02119" y="5.86287"/>
             </Dynamic>
           <StaffText>
-            <offset x="0" y="-4.76519"/>
+            <placement>below</placement>
+            <minDistance>0.494789</minDistance>
+            <offset x="1.95938" y="4.11073"/>
             <text><font size="11"></font><i>tranquillo</i></text>
             </StaffText>
           <Chord>
@@ -31171,9 +31018,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-0.0414975" y="8.38208"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -31327,9 +31173,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -31353,9 +31198,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -31431,9 +31275,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -31482,9 +31325,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -31554,7 +31396,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.72646"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -31590,7 +31432,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.809582" y="2.9749"/>
             </Dynamic>
           <Chord>
@@ -31613,9 +31454,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.84256"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -31991,8 +31831,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
+                <subtype>1</subtype>
+                <offset x="0" y="2.15"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -32188,7 +32033,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.77667"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -32370,11 +32214,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -32671,7 +32510,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.14267"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -32857,7 +32695,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.536"/>
+            <offset x="0.419867" y="5.23799"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Beam>
@@ -33140,9 +32978,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.505938" y="3.34367"/>
+            <offset x="0.505938" y="7.26243"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -33632,7 +33469,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.533"/>
+            <offset x="-0.419867" y="9.7542"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Beam>
@@ -33791,7 +33628,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.36267"/>
             </Dynamic>
           <Beam>
@@ -34194,7 +34030,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.92067"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -34269,7 +34104,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.828"/>
+            <minDistance>0.0421346</minDistance>
+            <offset x="0.139956" y="4.83021"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -34345,9 +34181,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="8.24212"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -34395,9 +34230,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -34519,7 +34353,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.231"/>
+            <offset x="0" y="2.02033"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -34579,9 +34413,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -34843,13 +34676,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -34933,14 +34761,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
-            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -34968,6 +34788,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>8.01869</vspacerFixed>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -35151,9 +34972,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="8.90956"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -35200,9 +35020,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -35313,9 +35132,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -35333,6 +35151,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -35375,9 +35195,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -35405,12 +35224,11 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="1.35465" y="1.08459"/>
+            <offset x="0.779812" y="3.12981"/>
             </Dynamic>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.511"/>
+            <offset x="0" y="3.4402"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Fermata>
@@ -35444,9 +35262,15 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="7.98731"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.408364" y="-6.61126"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -35633,9 +35457,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -35729,6 +35552,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -35744,6 +35569,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>7.90875</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -35807,14 +35633,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -35907,14 +35725,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -36066,14 +35876,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -36181,13 +35983,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -36316,8 +36113,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.505457" y="2.0945"/>
+            <offset x="0.0673777" y="2.95934"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -36393,8 +36189,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.352634" y="2.24732"/>
+            <offset x="-0.0854453" y="3.39207"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -36790,9 +36585,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -37061,14 +36855,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -37526,7 +37312,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.692"/>
+            <offset x="-0.139872" y="5.99903"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -37642,9 +37428,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -37882,14 +37667,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>ff</subtype>
-            <velocity>101</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.48267"/>
-            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -37954,14 +37731,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -38025,7 +37794,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.63113"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -38062,9 +37831,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="-6.95078"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -38218,6 +37986,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>13.1068</vspacerFixed>
         <voice>
           <Spanner type="HairPin">
             <prev>
@@ -38301,16 +38070,22 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.49126"/>
             <text><font size="11"></font><i>ritard.</i></text>
             </StaffText>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="10.6465"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.220202" y="-7.32852"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -38359,6 +38134,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.400202" y="-7.027"/>
+            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -38371,9 +38153,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="9.24691"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -38582,14 +38363,15 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="1.73545"/>
+            <offset x="0.500113" y="3.02015"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -38758,9 +38540,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-0.199665" y="7.28753"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -38812,7 +38593,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="3.11942"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -38883,14 +38663,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -38993,7 +38765,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="0.237541" y="1.73786"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -39008,6 +38779,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -39021,6 +38794,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -39072,7 +38847,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.26667"/>
             </Dynamic>
           <Beam>
@@ -39170,7 +38944,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.164272" y="6.07393"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -39214,7 +38988,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -39322,17 +39095,16 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
+            <offset x="0.148602" y="6.4227"/>
             </Dynamic>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -39377,7 +39149,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.7423"/>
+            <offset x="0" y="4.87161"/>
             <text><font size="11"></font><i>ritardando. . .</i></text>
             </StaffText>
           <Chord>
@@ -39490,9 +39262,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="6.4227"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -39552,13 +39323,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -39795,9 +39561,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.238414" y="7.6823"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -39909,9 +39674,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -40021,9 +39785,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.00283"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -40174,7 +39937,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="-0.548439" y="3.15544"/>
             </Dynamic>
           <Chord>
@@ -40892,6 +40654,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -41030,7 +40794,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="1.22467"/>
             </Dynamic>
           <Spanner type="HairPin">
@@ -41469,7 +41232,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="2.93177"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -41690,9 +41453,8 @@
             <subtype>mf</subtype>
             <velocity>75</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="7.82225"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -41791,13 +41553,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -41916,9 +41673,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="6.98252"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -42114,6 +41870,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -42220,9 +41978,8 @@
             <subtype>ff</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="6.98252"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -42826,9 +42583,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="7.12247"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43242,7 +42998,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.21152"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Beam>
@@ -43471,9 +43227,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.54234"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -43646,17 +43401,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="6.98252"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -43735,9 +43481,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.46367"/>
+            <offset x="0.658281" y="8.78199"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -43747,6 +43492,8 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -43787,9 +43534,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-0.106867" y="7.16941"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -43869,7 +43615,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="2.51216"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -43909,17 +43655,16 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
+            <offset x="0.409004" y="7.04188"/>
             </Dynamic>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -43962,7 +43707,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139872" y="3.77101"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -43994,25 +43739,16 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
-            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.173755" y="8.18961"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -44057,9 +43793,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.530756" y="7.16941"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -44112,17 +43847,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="7.12247"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -44253,7 +43979,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.696"/>
+            <minDistance>0.114089</minDistance>
+            <offset x="0" y="3.84226"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -44353,9 +44080,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.378537" y="7.53984"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -44380,7 +44106,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139872" y="3.07164"/>
             <text><font size="11"></font><i>sempre</i></text>
             </StaffText>
           <Chord>
@@ -44396,6 +44122,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -44626,7 +44354,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="3.62713"/>
             <text><font size="11"></font><i>dolce</i></text>
             </StaffText>
           <Chord>
@@ -44884,9 +44612,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="8.10216"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -45042,7 +44769,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -45050,9 +44776,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="8.24212"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -45159,7 +44884,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="3.20726"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -45281,17 +45006,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.37837" y="6.00283"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -45312,9 +45028,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.37837" y="6.4227"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -45747,9 +45462,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -45852,9 +45566,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="6.14278"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -45896,7 +45609,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -45966,9 +45679,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.98252"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -46271,7 +45983,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -46312,9 +46024,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.70261"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -46334,9 +46045,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.70261"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -46441,7 +46151,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="0.329141" y="0.06167"/>
             </Dynamic>
           <Chord>
@@ -46722,9 +46431,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.0492296" y="6.70261"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -46875,9 +46583,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.12247"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -46901,7 +46608,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.8413"/>
+            <offset x="0" y="7.52298"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -47060,7 +46767,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.522"/>
+            <offset x="-0.139956" y="5.62355"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -47281,9 +46988,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.0984582" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -47376,7 +47082,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139956" y="6.14633"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -47415,9 +47121,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-0.0414975" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -47475,12 +47180,13 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-1.02119" y="7.12247"/>
             </Dynamic>
           <StaffText>
-            <offset x="-0.982773" y="-4.11001"/>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="1.39647" y="3.78622"/>
             <text><font size="11"></font><i>tranquillo</i></text>
             </StaffText>
           <Beam>
@@ -47813,9 +47519,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-0.0414975" y="8.38208"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -48096,9 +47801,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -48134,9 +47838,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -48195,9 +47898,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -48283,9 +47985,8 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -48374,9 +48075,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -48549,7 +48249,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.887"/>
+            <offset x="0" y="7.26846"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Beam>
@@ -48734,25 +48434,9 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.39167"/>
+            <offset x="0.0984582" y="7.87025"/>
             </Dynamic>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -48777,6 +48461,22 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.537397" y="3.66396"/>
+                <off2 x="-0.537397" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -48849,6 +48549,7 @@
             <prev>
               <location>
                 <measures>-1</measures>
+                <fractions>1/8</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -49097,8 +48798,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
+                <subtype>1</subtype>
+                <offset x="0" y="2.15"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -49305,9 +49011,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.505938" y="3.44967"/>
+            <offset x="0.505938" y="7.7883"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -49493,11 +49198,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -49802,9 +49502,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.44967"/>
+            <offset x="0.518325" y="6.80861"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -49992,7 +49691,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.967"/>
+            <offset x="0.419867" y="4.66899"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Beam>
@@ -50237,9 +49936,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="7.26243"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -50346,6 +50044,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -50363,7 +50063,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.413"/>
+            <offset x="-0.419867" y="6.6342"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -50421,17 +50121,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="8.10216"/>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -50796,9 +50487,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.0984582" y="6.56265"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -50848,7 +50538,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="3.34721"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -50924,9 +50614,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="8.24212"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -50974,9 +50663,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="9.30155"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -51139,7 +50827,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.303"/>
+            <offset x="0" y="6.00875"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -51194,14 +50882,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.505938" y="3.34367"/>
-            </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -51209,6 +50889,13 @@
             <harmonyType>1</harmonyType>
             <name>vi</name>
             </Harmony>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.558798" y="11.561"/>
+            </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -51405,6 +51092,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -51908,13 +51597,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -52021,14 +51705,20 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/V</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.43386" y="-0.643024"/>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -52294,9 +51984,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="-0.0103595" y="12.7138"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52381,9 +52070,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="7.98731"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -52472,9 +52160,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.104921" y="10.0624"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52489,6 +52176,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -52503,6 +52192,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -52525,6 +52216,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>17.1158</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -52564,9 +52256,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.54367"/>
+            <offset x="0.220202" y="8.18731"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52605,13 +52296,12 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.49372" y="9.62842"/>
             </Dynamic>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.511"/>
+            <offset x="-0.136759" y="8.02485"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -52658,13 +52348,14 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="-0.740625" y="-1.24104"/>
+            <minDistance>-999</minDistance>
+            <offset x="-0.221391" y="6.1038"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
+            <minDistance>-5.5174</minDistance>
+            <offset x="-0.136759" y="3.20174"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -52865,9 +52556,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.0834426" y="9.49166"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52884,6 +52574,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>14.4155</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52956,14 +52647,20 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.0278208" y="10.449"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(64)</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-3.92947" y="-4.07048"/>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -53055,14 +52752,20 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.382457" y="10.1755"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.108938" y="-4.07048"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -53285,9 +52988,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.0834426" y="9.49166"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53397,6 +53099,13 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.326835" y="-8.51491"/>
+            </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -53495,13 +53204,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -53662,8 +53366,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="1.49355"/>
+            <offset x="0.220202" y="3.05817"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53723,8 +53426,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.811105" y="3.16426"/>
+            <offset x="0.373026" y="3.46927"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53909,6 +53611,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>20.6372</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54201,9 +53904,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="10.3666"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54395,6 +54097,13 @@
             <harmonyType>1</harmonyType>
             <name>I\\</name>
             </Harmony>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.220202" y="-8.84925"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -54409,8 +54118,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.01267"/>
+            <offset x="0.220202" y="4.65631"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54505,6 +54213,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>16.9116</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54675,7 +54384,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="13.381"/>
+            <offset x="-0.139872" y="5.68803"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -54771,9 +54480,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="-0.108938" y="10.5065"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -55015,13 +54723,19 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.39567"/>
+            <offset x="0.220202" y="3.63975"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi</name>
             </Harmony>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>101</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.220202" y="-1.77515"/>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -55086,14 +54800,20 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.080246" y="10.2266"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio65/V</name>
             </Harmony>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.153949" y="-8.35211"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -55158,7 +54878,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="3.63113"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -55198,14 +54918,20 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.220202" y="9.94669"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[I</name>
             </Harmony>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.220202" y="-6.85806"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -55592,9 +55318,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.170973" y="11.0663"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -55640,7 +55365,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.328544" y="7.22383"/>
             <text><font size="11"></font><i>ritard.</i></text>
             </StaffText>
           <Harmony>
@@ -55810,9 +55535,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.170973" y="9.66678"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -55955,9 +55679,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.080246" y="10.5065"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56363,8 +56086,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.498829" y="3.1318"/>
+            <offset x="0.0607497" y="4.69642"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56435,7 +56157,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
-            <visible>0</visible>
             <offset x="0.222618" y="2.9742"/>
             </Dynamic>
           <Harmony>
@@ -56526,14 +56247,20 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="10.4814"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6/iv</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>88</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.518325" y="-0.431036"/>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -56646,7 +56373,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="-0.105837" y="4.35403"/>
             </Dynamic>
           <Harmony>
@@ -56665,6 +56391,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -56720,7 +56448,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.76667"/>
             </Dynamic>
           <Harmony>
@@ -56822,7 +56549,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.164272" y="6.07393"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -56884,7 +56611,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -57014,14 +56740,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
-            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -57029,6 +56747,13 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="-0.271265" y="9.92159"/>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -57095,7 +56820,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.35"/>
+            <offset x="0.164272" y="6.40747"/>
             <text><font size="11"></font><i>ritardando. . .</i></text>
             </StaffText>
           <Harmony>
@@ -57222,6 +56947,10 @@
             <harmonyType>1</harmonyType>
             <name>I.I6</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -57285,13 +57014,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -57407,9 +57131,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.0984582" y="9.08185"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -57531,9 +57254,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.749008" y="10.7613"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -57669,9 +57391,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.0492296" y="9.50172"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -57817,7 +57538,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.17567"/>
             </Dynamic>
           <Harmony>
@@ -57829,6 +57549,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -57994,6 +57716,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -58253,9 +57977,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="9.64168"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -58459,7 +58182,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.542"/>
+            <minDistance>0.326566</minDistance>
+            <offset x="0" y="7.06609"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -58694,7 +58418,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="1.20267"/>
             </Dynamic>
           <Harmony>
@@ -58934,13 +58657,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -59150,7 +58868,6 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
             <offset x="0.329141" y="0.84067"/>
             <text></text>
             </Dynamic>
@@ -59158,6 +58875,10 @@
             <harmonyType>1</harmonyType>
             <name>i6</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -59496,9 +59217,8 @@
             <subtype>ff</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.0615"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -60554,10 +60274,11 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>19.7819</vspacerFixed>
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.16973"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -60826,9 +60547,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="7.54234"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -60926,13 +60646,13 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.67567"/>
+            <offset x="0.658281" y="8.29421"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.V7(9)/iii</name>
+            <offset x="0" y="6.94127"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -61018,7 +60738,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.28867"/>
             </Dynamic>
           <Harmony>
@@ -61033,6 +60752,8 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -61046,6 +60767,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -61060,6 +60783,7 @@
           </voice>
         </Measure>
       <Measure>
+        <vspacerFixed>24.5996</vspacerFixed>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -61104,17 +60828,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="9.33733"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61194,7 +60909,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.72922"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -61230,14 +60945,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>75</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.533281" y="3.34367"/>
-            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -61245,6 +60952,13 @@
             <harmonyType>1</harmonyType>
             <name>iii64</name>
             </Harmony>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>75</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.606401" y="10.23"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -61279,7 +60993,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.58934"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -61322,9 +61036,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.74667"/>
+            <offset x="0.148182" y="10.5055"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61369,9 +61082,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.76667"/>
+            <offset x="0.275707" y="10.5255"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61425,9 +61137,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.77467"/>
+            <offset x="-0.881232" y="7.27356"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61626,7 +61337,7 @@
             <fractions>1/4</fractions>
             </location>
           <StaffText>
-            <offset x="3.44589" y="-0.84826"/>
+            <offset x="-0.750277" y="-1.54762"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -61734,9 +61445,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518409" y="10.1974"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61773,7 +61483,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <minDistance>0.260846</minDistance>
+            <offset x="0.419617" y="4.88998"/>
             <text><font size="11"></font><i>sempre</i></text>
             </StaffText>
           <Harmony>
@@ -61962,7 +61673,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.744"/>
+            <offset x="0.139956" y="6.14577"/>
             <text><font size="11"></font><i>dolce</i></text>
             </StaffText>
           <Harmony>
@@ -62297,9 +62008,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.189185" y="10.2015"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -62638,7 +62348,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.86467"/>
             </Dynamic>
           <Harmony>
@@ -62711,7 +62420,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="3.20726"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Chord>
@@ -62865,9 +62574,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.3415"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -63056,14 +62764,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.75" y="3.34367"/>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii</name>
@@ -63079,6 +62779,13 @@
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <autoplace>0</autoplace>
+            <placement>above</placement>
+            <offset x="0.834282" y="10.0615"/>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -63237,7 +62944,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.139956" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -63364,9 +63071,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="9.08185"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -63761,15 +63467,13 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <offset x="0.809582" y="1.46189"/>
             </Dynamic>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.689283" y="-3.24683"/>
+            <offset x="-0.0104955" y="-8.28524"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -63798,7 +63502,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -63844,13 +63548,13 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.70261"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/bVII</name>
+            <offset x="0" y="6.43907"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -63871,13 +63575,13 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="6.70261"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi64</name>
+            <offset x="-0.139956" y="6.15916"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -64002,9 +63706,8 @@
             <subtype>ff</subtype>
             <velocity>101</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.238414" y="10.6214"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -64320,9 +64023,8 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.329141" y="3.34367"/>
+            <offset x="0.329141" y="10.4814"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -64444,9 +64146,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.518325" y="9.64168"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -64488,7 +64189,8 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <minDistance>0.48529</minDistance>
+            <offset x="0" y="5.02668"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -64597,15 +64299,13 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.809582" y="2.52099"/>
             </Dynamic>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.931851" y="-2.33902"/>
+            <offset x="0.511984" y="-7.23747"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -64702,7 +64402,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="-0.139956" y="5.44655"/>
             <text><font size="11"></font><i>cresc.</i></text>
             </StaffText>
           <Harmony>
@@ -64901,21 +64601,13 @@
             <subtype>f</subtype>
             <velocity>88</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.96367"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>88</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.96367"/>
+            <offset x="0.0984582" y="7.88243"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2(4)/V</name>
+            <offset x="0" y="7.98078"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -65019,7 +64711,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="12.028"/>
+            <offset x="-0.139956" y="7.82933"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -65068,9 +64760,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.99667"/>
+            <offset x="-0.181453" y="11.2744"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -65125,9 +64816,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.95167"/>
+            <offset x="-2.70066" y="11.3693"/>
             </Dynamic>
           <StaffText>
             <placement>below</placement>
@@ -65246,6 +64936,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -65344,9 +65036,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.39167"/>
+            <offset x="0.238414" y="10.2495"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -65439,17 +65130,15 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.0615"/>
             </Dynamic>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.0615"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -65511,9 +65200,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.0615"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -65535,17 +65223,15 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.0615"/>
             </Dynamic>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.0615"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -65607,9 +65293,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="10.0615"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -65656,7 +65341,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <minDistance>0.35436</minDistance>
+            <offset x="0" y="5.72646"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -65693,7 +65379,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="2.06709"/>
             </Dynamic>
           <Chord>
@@ -65716,9 +65401,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="9.36177"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -65924,8 +65608,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
+                <subtype>1</subtype>
+                <offset x="0" y="2.15"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -66000,13 +65689,13 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.658281" y="7.6823"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii(13)</name>
+            <offset x="0" y="6.91842"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -66122,11 +65811,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -66260,7 +65944,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.28367"/>
             </Dynamic>
           <Harmony>
@@ -66440,7 +66123,7 @@
             </Rest>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="10.345"/>
+            <offset x="0.279911" y="6.14633"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -66544,9 +66227,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.238414" y="11.1812"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -66557,6 +66239,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -66750,6 +66434,8 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <TieSegment no="1">
+                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -66787,7 +66473,7 @@
             </Chord>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="11.761"/>
+            <offset x="-0.419867" y="7.9822"/>
             <text><font size="11"></font><i>dim.</i></text>
             </StaffText>
           <Harmony>
@@ -66905,9 +66591,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="9.78163"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -67130,9 +66815,8 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.0984582" y="9.78163"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -67261,9 +66945,8 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.658281" y="3.34367"/>
+            <offset x="0.798237" y="8.24212"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
