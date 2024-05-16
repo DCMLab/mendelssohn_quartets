@@ -8,7 +8,7 @@ Quartets nos. 1, 2, 4, 5 typeset by Tom Schreyer, as well as no. 3 mvts. 2 & 3
 |file_name|measures|labels|standard| annotators | reviewers  |
 |---------|-------:|-----:|--------|------------|------------|
 |01op12a  |     292|   673|2.1.0   |Adrian Nagel|            |
-|01op12b  |     129|   349|2.1.0   |Adrian Nagel|            |
+|01op12b  |     128|   349|2.1.0   |Adrian Nagel|            |
 |01op12c  |      65|   212|2.1.0   |Adrian Nagel|            |
 |01op12d  |     313|   771|2.1.0   |Adrian Nagel|            |
 |02op13a  |     251|   793|2.1.0   |Adrian Nagel|            |
