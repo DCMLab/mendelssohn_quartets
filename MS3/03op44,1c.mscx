@@ -154,7 +154,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.151</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -232,7 +231,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
@@ -243,7 +242,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -291,19 +290,13 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
-          <controller ctrl="32" value="17"/>
           </Channel>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="3">
@@ -352,7 +345,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
@@ -363,7 +356,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
@@ -416,7 +409,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
@@ -427,16 +420,23 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>25.4063</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -468,13 +468,13 @@
           <Tempo>
             <tempo>1.05</tempo>
             <followText>1</followText>
-            <offset x="-21.7264" y="-14.6936"/>
+            <offset x="0.489473" y="-5.80725"/>
             <text><sym>metNote8thUp</sym> = 126</text>
             </Tempo>
-          <StaffText>
-            <offset x="-12.3611" y="-15.7808"/>
-            <text>Andante espressivo ma con moto</text>
-            </StaffText>
+          <Tempo>
+            <tempo>1.5333300000000001</tempo>
+            <text>Andante espressivo ma con moto.</text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>

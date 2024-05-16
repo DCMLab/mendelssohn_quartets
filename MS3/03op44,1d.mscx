@@ -190,7 +190,7 @@
           <name></name>
           <xml>major</xml>
           <voicing>C E G</voicing>
-          <render/>
+          <render></render>
           </chord>
         <chord id="2">
           <name>Maj</name>
@@ -1582,6 +1582,8 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <StringData>
@@ -1608,7 +1610,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
@@ -1623,13 +1625,7 @@
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="2">
@@ -1638,6 +1634,8 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
+        <longName>Violin</longName>
+        <shortName>Vln.</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <StringData>
@@ -1664,23 +1662,14 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="3">
@@ -1690,8 +1679,11 @@
         </Staff>
       <trackName>Viola</trackName>
       <Instrument id="viola">
+        <longName>Viola</longName>
+        <shortName>Vla.</shortName>
         <trackName>Viola</trackName>
         <instrumentId>strings.viola</instrumentId>
+        <clef>C3</clef>
         <StringData>
           <frets>24</frets>
           <string>48</string>
@@ -1716,24 +1708,14 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="93" value="30"/>
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Viola</longName>
-        <shortName>Vla.</shortName>
-        <clef>C3</clef>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="4">
@@ -1743,8 +1725,11 @@
         </Staff>
       <trackName>Violoncello</trackName>
       <Instrument id="violoncello">
+        <longName>Violoncello</longName>
+        <shortName>Vc.</shortName>
         <trackName>Violoncello</trackName>
         <instrumentId>strings.cello</instrumentId>
+        <clef>F</clef>
         <StringData>
           <frets>24</frets>
           <string>36</string>
@@ -1769,7 +1754,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="93" value="30"/>
@@ -1784,17 +1769,20 @@
           <controller ctrl="91" value="30"/>
           <synti>Fluid</synti>
           </Channel>
-        <longName>Violoncello</longName>
-        <shortName>Vc.</shortName>
-        <clef>F</clef>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="93" value="30"/>
+          <controller ctrl="91" value="30"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Staff id="1">
       <VBox>
+        <height>15.9033</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>String Quartet No. 3 in D Major, Op. 44, No. 1</text>

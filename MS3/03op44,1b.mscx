@@ -147,7 +147,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.125</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -435,11 +434,17 @@
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>23.4861</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -467,7 +472,7 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
-            <offset x="-23.1371" y="-12.7526"/>
+            <offset x="0.198321" y="-6.53992"/>
             <text><sym>metNoteHalfUp</sym><sym>space</sym><sym>metAugmentationDot</sym> =60</text>
             </Tempo>
           <Dynamic>
@@ -477,6 +482,10 @@
             <placement>above</placement>
             <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
+          <Tempo>
+            <tempo>1.93333</tempo>
+            <text>Un poco Allegretto.</text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -489,11 +498,6 @@
         </Measure>
       <Measure>
         <voice>
-          <SystemText>
-            <offset x="-21.2066" y="-15.4587"/>
-            <text>Menuetto.
-Un poco Allegretto </text>
-            </SystemText>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
