@@ -233,6 +233,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
@@ -243,10 +244,10 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
-          <controller ctrl="32" value="17"/>
           </Channel>
         </Instrument>
       </Part>
@@ -292,19 +293,13 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
-          <controller ctrl="32" value="17"/>
           </Channel>
         </Instrument>
-      <Channel name="pizzicato">
-        <program value="45"/>
-        </Channel>
-      <Channel name="tremolo">
-        <program value="44"/>
-        <controller ctrl="32" value="17"/>
-        </Channel>
       </Part>
     <Part>
       <Staff id="3">
@@ -353,6 +348,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
@@ -363,10 +359,10 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
-          <controller ctrl="32" value="17"/>
           </Channel>
         </Instrument>
       </Part>
@@ -416,6 +412,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel name="arco">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
@@ -426,16 +423,23 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>23.6257</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -463,7 +467,7 @@
             </TimeSig>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-23.5106" y="-19.3469"/>
+            <offset x="-14.4761" y="-3.35147"/>
             <text>Molto Allegro con fuoco.</text>
             </SystemText>
           <Dynamic>
@@ -474,6 +478,7 @@
           <Tempo>
             <tempo>2.5333333333333332</tempo>
             <followText>1</followText>
+            <offset x="21.6234" y="-3.20461"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
             </Tempo>
           <Chord>
