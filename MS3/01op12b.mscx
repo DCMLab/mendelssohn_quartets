@@ -199,8 +199,9 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino I</longName>
+        <shortName>Vln. I
+</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Articulation>
@@ -254,8 +255,8 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino II</longName>
+        <shortName>Vln. II</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Articulation>
@@ -432,7 +433,7 @@
             <followText>1</followText>
             <minDistance>-0.593878</minDistance>
             <offset x="-4.21666" y="-5.53753"/>
-            <text><font size="12"/>Allegretto</text>
+            <text><font size="12"></font>Allegretto</text>
             </Tempo>
           <Tempo>
             <tempo>1.3999999999999999</tempo>
@@ -1174,7 +1175,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -1281,7 +1281,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -2004,7 +2003,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -3416,7 +3414,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -3666,7 +3663,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -3974,7 +3970,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -4336,7 +4331,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -5025,7 +5019,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -5692,7 +5685,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -6124,7 +6116,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -6898,7 +6889,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -7553,7 +7543,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -7812,14 +7801,12 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.616514" y="-2.65398"/>
             </Dynamic>
@@ -8525,7 +8512,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -8586,7 +8572,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -9368,7 +9353,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -9616,7 +9600,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="-0.84506" y="-3.12828"/>
             </Dynamic>
@@ -10688,7 +10671,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -10935,7 +10917,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -11556,7 +11537,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -12368,7 +12348,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -13076,7 +13055,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -13508,7 +13486,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -14250,7 +14227,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -14918,7 +14894,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -15176,7 +15151,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -15723,7 +15697,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -15790,7 +15763,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -16486,7 +16458,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -16724,7 +16695,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="-0.327324" y="-2.75581"/>
             </Dynamic>
@@ -16739,7 +16709,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -16979,7 +16948,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -17203,7 +17171,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -17363,7 +17330,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -17721,7 +17687,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -18275,7 +18240,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -18680,7 +18644,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -18835,7 +18798,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -19418,7 +19380,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -19622,7 +19583,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -19697,7 +19657,6 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -19716,7 +19675,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -20312,7 +20270,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -21046,7 +21003,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -21313,7 +21269,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -21909,7 +21864,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -21990,7 +21944,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -22907,7 +22860,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -23244,13 +23196,11 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.45967"/>
             </Dynamic>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
             <offset x="0.658281" y="0.45967"/>
             </Dynamic>
           <Harmony>
@@ -23559,7 +23509,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -23567,7 +23516,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -23760,7 +23708,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.65867"/>
             </Dynamic>
@@ -24182,7 +24129,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -24888,7 +24834,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -25437,7 +25382,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -25797,7 +25741,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.329141" y="3.34367"/>
             </Dynamic>
@@ -26287,7 +26230,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
@@ -26831,7 +26773,6 @@
             <subtype>sf</subtype>
             <velocity>112</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -26893,7 +26834,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.658281" y="3.34367"/>
             </Dynamic>
@@ -27446,7 +27386,6 @@
             <subtype>pp</subtype>
             <velocity>36</velocity>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <placement>above</placement>
             <offset x="0.505938" y="3.34367"/>
             </Dynamic>
