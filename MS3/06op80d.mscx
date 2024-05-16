@@ -150,9 +150,8 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.634</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -234,6 +233,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
@@ -242,6 +242,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -303,6 +304,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <synti>Fluid</synti>
           </Channel>
@@ -311,6 +313,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -370,6 +373,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <synti>Fluid</synti>
           </Channel>
@@ -378,6 +382,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -436,6 +441,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <synti>Fluid</synti>
           </Channel>
@@ -444,13 +450,20 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
+        <height>15.7662</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>String Quartet No. 6 in F Minor, Op. 80</text>
@@ -480,8 +493,14 @@
             </TimeSig>
           <Tempo>
             <tempo>3.1666699999999999</tempo>
-            <offset x="-25.9048" y="-10.8479"/>
+            <offset x="-10.3601" y="-2.81475"/>
             <text>Allegro molto</text>
+            </Tempo>
+          <Tempo>
+            <tempo>2.2999999999999998</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 69</b></text>
             </Tempo>
           <Rest>
             <durationType>quarter</durationType>
@@ -3132,9 +3151,14 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="1" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -4627,6 +4651,19 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <lineVisible>0</lineVisible>
+              </HairPin>
+            <next>
+              <location>
+                <measures>13</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
@@ -12952,8 +12989,13 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -23454,6 +23496,19 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <lineVisible>0</lineVisible>
+              </HairPin>
+            <next>
+              <location>
+                <measures>13</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
@@ -30193,8 +30248,13 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -39022,6 +39082,29 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>12</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
@@ -42211,8 +42294,13 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -50046,6 +50134,16 @@
         </Measure>
       <Measure>
         <voice>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -50067,14 +50165,7 @@
               </Tremolo>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -50768,6 +50859,16 @@
         </Measure>
       <Measure>
         <voice>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -50789,14 +50890,7 @@
               </Tremolo>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53831,9 +53925,6 @@
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/V</name>
@@ -53846,9 +53937,6 @@
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/V</name>
@@ -53861,9 +53949,6 @@
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/V</name>
@@ -53876,9 +53961,6 @@
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/V</name>
@@ -54054,9 +54136,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/V</name>
@@ -54105,9 +54184,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/V</name>
@@ -54149,14 +54225,24 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/V</name>
             <offset x="0" y="-8"/>
             </Harmony>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>3</subtype>
+              <endText></endText>
+              <lineVisible>0</lineVisible>
+              </HairPin>
+            <next>
+              <location>
+                <measures>10</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
@@ -54290,8 +54376,13 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -57984,8 +58075,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -59646,6 +59742,16 @@
         </Measure>
       <Measure>
         <voice>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -59667,14 +59773,7 @@
               </Tremolo>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61333,8 +61432,13 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="4.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
