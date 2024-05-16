@@ -187,7 +187,7 @@
           <name></name>
           <xml>major</xml>
           <voicing>C E G</voicing>
-          <render/>
+          <render></render>
           </chord>
         <chord id="2">
           <name>Maj</name>
@@ -1580,10 +1580,10 @@
       <trackName>Violin</trackName>
       <Instrument id="violin">
         <longName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </longName>
         <shortName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </shortName>
         <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
@@ -1615,6 +1615,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
@@ -1628,6 +1629,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <controller ctrl="93" value="30"/>
@@ -1651,10 +1653,10 @@
       <trackName>Violin</trackName>
       <Instrument id="violin">
         <longName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </longName>
         <shortName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </shortName>
         <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
@@ -1686,6 +1688,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="93" value="30"/>
@@ -1699,6 +1702,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <controller ctrl="93" value="30"/>
@@ -1717,10 +1721,10 @@
       <trackName>Viola</trackName>
       <Instrument id="viola">
         <longName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </longName>
         <shortName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </shortName>
         <trackName>Viola</trackName>
         <minPitchP>48</minPitchP>
@@ -1752,6 +1756,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="93" value="30"/>
@@ -1765,6 +1770,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <controller ctrl="93" value="30"/>
@@ -1783,10 +1789,10 @@
       <trackName>Violoncello</trackName>
       <Instrument id="violoncello">
         <longName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </longName>
         <shortName>
-          <font face="Times New Roman"/>
+          <font face="Times New Roman"></font>
           </shortName>
         <trackName>Violoncello</trackName>
         <minPitchP>36</minPitchP>
@@ -1818,6 +1824,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="93" value="30"/>
@@ -1831,6 +1838,7 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="44"/>
           <controller ctrl="93" value="30"/>
@@ -1847,7 +1855,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.0656</height>
         <bottomGap>8</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
