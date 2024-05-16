@@ -156,23 +156,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q46096</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1847.0</metaTag>
-    <metaTag name="composed_start">1847.0</metaTag>
+    <metaTag name="composed_end">1847</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/String_Quartet_No._6_(Mendelssohn)</metaTag>
+    <metaTag name="composed_start">1847</metaTag>
     <metaTag name="composer">Felix Mendelssohn</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-01-23</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/String_Quartet_No.6%2C_Op.80_(Mendelssohn%2C_Felix)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Allegro assai</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/c81c1bef-78ba-314f-ab06-c6399c6efef8</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/10976</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">191502272.0</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3413720</metaTag>
+    <metaTag name="workNumber">Op. 80</metaTag>
     <metaTag name="workTitle">String Quartet No. 6 in F Minor</metaTag>
     <Part>
       <Staff id="1">
@@ -443,6 +450,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>
