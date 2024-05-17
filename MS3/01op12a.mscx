@@ -1672,8 +1672,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2055,8 +2053,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -2072,7 +2068,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>6.49132</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2261,7 +2256,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.6455</vspacerFixed>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -3285,8 +3279,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -3746,8 +3738,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4226,8 +4216,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4589,8 +4577,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -4829,8 +4815,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -7184,8 +7168,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -10975,8 +10957,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -10991,7 +10971,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.4703</vspacerFixed>
         <voice>
           <StaffText>
             <placement>below</placement>
@@ -12481,7 +12460,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>11.8703</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -16113,8 +16091,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -17619,7 +17595,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>11.1531</vspacerFixed>
         <voice>
           <Rest>
             <durationType>whole</durationType>
@@ -17748,8 +17723,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -18534,8 +18507,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -19092,7 +19063,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.9639</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -22332,8 +22302,6 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -22350,8 +22318,6 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -23381,8 +23347,6 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -26102,8 +26066,6 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -26822,8 +26784,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -27596,8 +27556,6 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -34788,7 +34746,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>8.01869</vspacerFixed>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -35151,8 +35108,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -35552,8 +35507,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -35569,7 +35522,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>7.90875</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -37986,7 +37938,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>13.1068</vspacerFixed>
         <voice>
           <Spanner type="HairPin">
             <prev>
@@ -38370,8 +38321,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -38779,8 +38728,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -38794,8 +38741,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -40654,8 +40599,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -41870,8 +41813,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -43492,8 +43433,6 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -44122,8 +44061,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -50044,8 +49981,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -51092,8 +51027,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -52176,8 +52109,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -52192,8 +52123,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -52216,7 +52145,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>17.1158</vspacerFixed>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -52574,7 +52502,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>14.4155</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53611,7 +53538,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>20.6372</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54213,7 +54139,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>16.9116</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56391,8 +56316,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -57549,8 +57472,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -57716,8 +57637,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -60274,7 +60193,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>19.7819</vspacerFixed>
         <voice>
           <StaffText>
             <placement>below</placement>
@@ -60752,8 +60670,6 @@
                 </Accidental>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -60767,8 +60683,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -60783,7 +60697,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>24.5996</vspacerFixed>
         <voice>
           <Chord>
             <durationType>whole</durationType>
@@ -64936,8 +64849,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -66239,8 +66150,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
@@ -66434,8 +66343,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <TieSegment no="1">
-                    </TieSegment>
                   </Tie>
                 <next>
                   <location>
