@@ -1024,9 +1024,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1130,9 +1127,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -1852,9 +1846,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2113,6 +2104,10 @@
             <offset x="-1.03547" y="-1.23874"/>
             <text><font size="12"></font><b>piu mosso.</b></text>
             </Tempo>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3263,9 +3258,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3512,9 +3504,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -3819,9 +3808,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4180,9 +4166,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4868,9 +4851,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5534,9 +5514,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.025822" y="6.64058"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -5965,9 +5942,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="1.08908" y="6.91931"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -6738,9 +6712,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.025822" y="6.64058"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -7392,9 +7363,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <StaffText>
             <text>arco</text>
@@ -7650,16 +7618,10 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <placement>above</placement>
-            <minDistance>0.320823</minDistance>
-            <offset x="0.084754" y="-1.0587"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8362,9 +8324,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -8422,9 +8381,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <StaffText>
             <text>arco</text>
@@ -9203,9 +9159,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9451,8 +9404,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <placement>above</placement>
-            <offset x="-0.419652" y="-8.02047"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10521,9 +10472,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10767,9 +10715,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="7.49607"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -11387,9 +11332,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12198,9 +12140,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12905,9 +12844,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13336,9 +13272,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.265883" y="7.47675"/>
             </Dynamic>
           <StaffText>
             <text>arco</text>
@@ -14077,9 +14010,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.025822" y="6.64058"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -14744,9 +14674,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <StaffText>
             <text>arco</text>
@@ -15001,9 +14928,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <StaffText>
             <text>pizz.</text>
@@ -15547,9 +15471,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15613,9 +15534,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -16308,9 +16226,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.025822" y="6.64058"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -16543,12 +16458,6 @@
           <KeySig>
             <accidental>1</accidental>
             </KeySig>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <placement>above</placement>
-            <offset x="0.098084" y="-7.648"/>
-            </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -16795,9 +16704,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.85329"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -17018,9 +16924,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -17177,9 +17080,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17534,9 +17434,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18087,9 +17984,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -18491,9 +18385,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -18645,9 +18536,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19227,9 +19115,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="6.64058"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -19430,9 +19315,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.025822" y="6.64058"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -19504,9 +19386,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19522,9 +19401,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20117,9 +19993,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.025822" y="6.64058"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -20850,9 +20723,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="6.64058"/>
             </Dynamic>
           <StaffText>
             <text>arco</text>
@@ -21116,9 +20986,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="9.40573"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21711,9 +21578,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="9.40573"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21791,9 +21655,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="9.40573"/>
             </Dynamic>
           <StaffText>
             <text>arco</text>
@@ -23041,8 +22902,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <minDistance>0.349987</minDistance>
-            <offset x="0.020169" y="4.79314"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23349,16 +23208,10 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="9.40573"/>
             </Dynamic>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.340392" y="10.689"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23548,9 +23401,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="8.75831"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23969,9 +23819,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="9.40573"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24674,9 +24521,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.340392" y="10.4751"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25222,9 +25066,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="9.40573"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25581,9 +25422,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.202619" y="9.40573"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26070,9 +25908,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-4.06732" y="10.1025"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -26613,9 +26448,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="9.40573"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26674,9 +26506,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="0.126521" y="9.40573"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27236,9 +27065,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <autoplace>0</autoplace>
-            <placement>above</placement>
-            <offset x="-0.462227" y="10.2419"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
