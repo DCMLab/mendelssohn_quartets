@@ -37,7 +37,7 @@ To reproduce: frictionless validate 06op80d.harmonies.resource.json
             'bass_note'],
  'stats': {'errors': 6,
            'warnings': 0,
-           'seconds': 0.042,
+           'seconds': 0.036,
            'md5': '129eb78456a8c4a68020bdaf903c8acb',
            'sha256': '7dfc087af6f20ac304c491435bcf7479952ebb63d71da89d31ce374832d8550f',
            'bytes': 40621,
