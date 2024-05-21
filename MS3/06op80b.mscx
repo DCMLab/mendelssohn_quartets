@@ -7,18 +7,12 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.26771</pageWidth>
-      <pageHeight>11.6929</pageHeight>
-      <pagePrintableWidth>7.48031</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
       <concertPitch>1</concertPitch>
-      <Spatium>1.634</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -9409,14 +9403,9 @@
               <endText></endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="1.2" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="4"/>
-                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -14122,8 +14111,13 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
