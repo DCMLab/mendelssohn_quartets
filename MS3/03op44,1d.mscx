@@ -10,1543 +10,16 @@
       <pageWidth>8.26771</pageWidth>
       <pageHeight>11.6929</pageHeight>
       <pagePrintableWidth>7.48031</pagePrintableWidth>
+      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
+      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
+      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
-      <minSystemDistance>9.2</minSystemDistance>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashForce>0</lyricsDashForce>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <frameSystemDistance>1</frameSystemDistance>
-      <minMeasureWidth>4</minMeasureWidth>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <bracketDistance>0.2</bracketDistance>
-      <clefLeftMargin>0.5</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <stemWidth>0.11</stemWidth>
-      <minNoteDistance>0.4</minNoteDistance>
-      <noteBarDistance>0.8</noteBarDistance>
-      <measureSpacing>1</measureSpacing>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineWidth>0.12</ledgerLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <beamWidth>0.48</beamWidth>
-      <beamMinLen>1.25</beamMinLen>
-      <propertyDistanceStem>0.5</propertyDistanceStem>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyFretDist>0.5</harmonyFretDist>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolPosBelow x="0" y="-3"/>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolAFramePadding>0</chordSymbolAFramePadding>
-      <chordSymbolAFrameWidth>0</chordSymbolAFrameWidth>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <chordStyle>custom</chordStyle>
-      <chordsXmlFile>1</chordsXmlFile>
-      <chordDescriptionFile>stdchords.xml</chordDescriptionFile>
-      <hideInstrumentNameIfOneInstrument>0</hideInstrumentNameIfOneInstrument>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <keySigNaturals>1</keySigNaturals>
-      <tupletOufOfStaff>0</tupletOufOfStaff>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <defaultFramePadding>0.5</defaultFramePadding>
-      <defaultFrameWidth>0.2</defaultFrameWidth>
-      <defaultFrameRound>25</defaultFrameRound>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <titleFramePadding>0.5</titleFramePadding>
-      <titleFrameWidth>0.2</titleFrameWidth>
-      <titleFrameRound>25</titleFrameRound>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <subTitleFramePadding>0.5</subTitleFramePadding>
-      <subTitleFrameWidth>0.2</subTitleFrameWidth>
-      <subTitleFrameRound>25</subTitleFrameRound>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <composerFramePadding>0.5</composerFramePadding>
-      <composerFrameWidth>0.2</composerFrameWidth>
-      <composerFrameRound>25</composerFrameRound>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <lyricistFramePadding>0.5</lyricistFramePadding>
-      <lyricistFrameWidth>0.2</lyricistFrameWidth>
-      <lyricistFrameRound>25</lyricistFrameRound>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFramePadding>0.5</fingeringFramePadding>
-      <fingeringFrameWidth>0.2</fingeringFrameWidth>
-      <fingeringFrameRound>25</fingeringFrameRound>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
-      <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
-      <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFramePadding>0.5</tempoFramePadding>
-      <tempoFrameWidth>0.2</tempoFrameWidth>
-      <tempoFrameRound>25</tempoFrameRound>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <measureNumberFramePadding>0</measureNumberFramePadding>
-      <measureNumberFrameWidth>0</measureNumberFrameWidth>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <systemFramePadding>0.5</systemFramePadding>
-      <systemFrameWidth>0.2</systemFrameWidth>
-      <systemFrameRound>25</systemFrameRound>
-      <staffFontFace>Edwin</staffFontFace>
-      <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
-      <staffFramePadding>0.5</staffFramePadding>
-      <staffFrameWidth>0.2</staffFrameWidth>
-      <staffFrameRound>25</staffFrameRound>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
-      <repeatLeftFrameRound>25</repeatLeftFrameRound>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <repeatRightFramePadding>0.5</repeatRightFramePadding>
-      <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
-      <repeatRightFrameRound>25</repeatRightFrameRound>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <ChordList>
-        <font id="0" family="default">
-          <mag>1</mag>
-          <sym name="accidentales" code="0x266d"/>
-          <sym name="accidentalis" code="0x266f"/>
-          <sym name="accidentals" code="0x266d"/>
-          <sym name="notea" value="a"/>
-          <sym name="noteb" value="b"/>
-          <sym name="notec" value="c"/>
-          <sym name="noted" value="d"/>
-          <sym name="notee" value="e"/>
-          <sym name="notef" value="f"/>
-          <sym name="noteg" value="g"/>
-          <sym name="noteh" value="h"/>
-          </font>
-        <font id="1" family="FreeSerif">
-          <mag>1.2</mag>
-          <sym name="#" code="0x266f"/>
-          <sym name="b" code="0x266d"/>
-          </font>
-        <renderRoot>:n m:0:-1 :a m:0.5:1</renderRoot>
-        <renderFunction>:a m:0.5:0 :n</renderFunction>
-        <renderBase>m:-0.2:1 / m:0.2:1 :n :a m:0:-2</renderBase>
-        <chord id="1">
-          <name></name>
-          <name></name>
-          <xml>major</xml>
-          <voicing>C E G</voicing>
-          <render></render>
-          </chord>
-        <chord id="2">
-          <name>Maj</name>
-          <xml>major</xml>
-          <voicing>C E G</voicing>
-          <render>Maj</render>
-          </chord>
-        <chord id="3">
-          <name>5b</name>
-          <xml>major</xml>
-          <voicing>C E Gb</voicing>
-          <degree>altb5</degree>
-          <render>5 b</render>
-          </chord>
-        <chord id="4">
-          <name>+</name>
-          <xml>augmented</xml>
-          <voicing>C E Ab</voicing>
-          <render>+</render>
-          </chord>
-        <chord id="5">
-          <name>6</name>
-          <xml>major-sixth</xml>
-          <voicing>C E G A</voicing>
-          <render>6</render>
-          </chord>
-        <chord id="6">
-          <name>Maj7</name>
-          <xml>major-seventh</xml>
-          <voicing>C E G B</voicing>
-          <render>Maj 7</render>
-          </chord>
-        <chord id="7">
-          <name>Maj9</name>
-          <xml>major-ninth</xml>
-          <voicing>C D E G B</voicing>
-          <render>Maj 9</render>
-          </chord>
-        <chord id="8">
-          <name>Maj9#11</name>
-          <xml>major-ninth</xml>
-          <voicing>C D E Gb G B</voicing>
-          <degree>add#11</degree>
-          <render>Maj 9 # 11</render>
-          </chord>
-        <chord id="9">
-          <name>Maj13#11</name>
-          <xml>major-13th</xml>
-          <voicing>C D E Gb G A B</voicing>
-          <degree>add#11</degree>
-          <render>Maj 13 # 11</render>
-          </chord>
-        <chord id="10">
-          <name>Maj13</name>
-          <xml>major-13th</xml>
-          <voicing>C D E Gb G A B</voicing>
-          <render>Maj 13</render>
-          </chord>
-        <chord id="11">
-          <name>Maj9(no 3)</name>
-          <xml>major-ninth</xml>
-          <voicing>C D G B</voicing>
-          <degree>sub3</degree>
-          <render>Maj 9 (no 3)</render>
-          </chord>
-        <chord id="12">
-          <name>+</name>
-          <xml>augmented</xml>
-          <voicing>C E Ab</voicing>
-          <render>+</render>
-          </chord>
-        <chord id="13">
-          <name>Maj7#5</name>
-          <xml>major-seventh</xml>
-          <voicing>C E Ab B</voicing>
-          <degree>alt#5</degree>
-          <render>Maj 7 # 5</render>
-          </chord>
-        <chord id="14">
-          <name>69</name>
-          <xml>major-sixth</xml>
-          <voicing>C D E G A</voicing>
-          <degree>add9</degree>
-          <render>69</render>
-          </chord>
-        <chord id="15">
-          <name>2</name>
-          <xml>major</xml>
-          <voicing>C D E G</voicing>
-          <degree>add2</degree>
-          <render>2</render>
-          </chord>
-        <chord id="16">
-          <name>m</name>
-          <xml>minor</xml>
-          <voicing>C Eb G</voicing>
-          <render>m</render>
-          </chord>
-        <chord id="17">
-          <name>m+</name>
-          <xml>minor</xml>
-          <voicing>C Eb Ab</voicing>
-          <degree>alt#5</degree>
-          <render>m+</render>
-          </chord>
-        <chord id="18">
-          <name>mMaj7</name>
-          <xml>major-minor</xml>
-          <voicing>C Eb G B</voicing>
-          <render>m Maj 7</render>
-          </chord>
-        <chord id="19">
-          <name>m7</name>
-          <xml>minor-seventh</xml>
-          <voicing>C Eb G Bb</voicing>
-          <render>m7</render>
-          </chord>
-        <chord id="20">
-          <name>m9</name>
-          <xml>minor-ninth</xml>
-          <voicing>C D Eb G Bb</voicing>
-          <render>m9</render>
-          </chord>
-        <chord id="21">
-          <name>m11</name>
-          <xml>minor-11th</xml>
-          <voicing>C D Eb F G Bb</voicing>
-          <render>m11</render>
-          </chord>
-        <chord id="22">
-          <name>m13</name>
-          <xml>minor-13th</xml>
-          <voicing>C D Eb F G A Bb</voicing>
-          <render>m13</render>
-          </chord>
-        <chord id="23">
-          <name>m6</name>
-          <xml>minor-sixth</xml>
-          <voicing>C Eb G A</voicing>
-          <render>m6</render>
-          </chord>
-        <chord id="24">
-          <name>m#5</name>
-          <xml>minor</xml>
-          <voicing>C Eb Ab</voicing>
-          <degree>alt#5</degree>
-          <render>m # 5</render>
-          </chord>
-        <chord id="25">
-          <name>m7#5</name>
-          <xml>minor-seventh</xml>
-          <voicing>C Eb Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <render>m 7 # 5</render>
-          </chord>
-        <chord id="26">
-          <name>m69</name>
-          <xml>minor-sixth</xml>
-          <voicing>C D Eb G A</voicing>
-          <degree>add9</degree>
-          <render>m69</render>
-          </chord>
-        <chord id="27">
-          <name>Lyd</name>
-          <xml>major</xml>
-          <voicing>C E Gb G</voicing>
-          <degree>add#11</degree>
-          <render>Lyd</render>
-          </chord>
-        <chord id="28">
-          <name>Maj7Lyd</name>
-          <xml>major-seventh</xml>
-          <voicing>C D E G A</voicing>
-          <degree>add#11</degree>
-          <render>Maj 7 Lyd</render>
-          </chord>
-        <chord id="29">
-          <name>Maj7b5</name>
-          <xml>major-seventh</xml>
-          <voicing>C E Gb B</voicing>
-          <degree>altb5</degree>
-          <render>Maj 7 b 5</render>
-          </chord>
-        <chord id="32">
-          <name>m7b5</name>
-          <xml>half-diminished</xml>
-          <voicing>C Eb Gb Bb</voicing>
-          <render>m7 b 5</render>
-          </chord>
-        <chord id="33">
-          <name>dim</name>
-          <xml>diminished</xml>
-          <voicing>C Eb Gb</voicing>
-          <render>dim</render>
-          </chord>
-        <chord id="34">
-          <name>m9b5</name>
-          <xml>minor-ninth</xml>
-          <voicing>C D Eb Gb Bb</voicing>
-          <degree>altb5</degree>
-          <render>m9 b 5</render>
-          </chord>
-        <chord id="40">
-          <name>5</name>
-          <xml>power</xml>
-          <voicing>C G</voicing>
-          <render>5</render>
-          </chord>
-        <chord id="56">
-          <name>7+</name>
-          <xml>augmented-seventh</xml>
-          <voicing>C E Ab</voicing>
-          <render>7+</render>
-          </chord>
-        <chord id="57">
-          <name>9+</name>
-          <xml>augmented-ninth</xml>
-          <voicing>C D E Ab Bb</voicing>
-          <render>9+</render>
-          </chord>
-        <chord id="58">
-          <name>13+</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <render>13+</render>
-          </chord>
-        <chord id="59">
-          <name>(blues)</name>
-          <xml>major</xml>
-          <voicing>C Eb E G</voicing>
-          <degree>add#9</degree>
-          <render>(blues)</render>
-          </chord>
-        <chord id="60">
-          <name>7(Blues)</name>
-          <xml>dominant</xml>
-          <voicing>C E G Bb</voicing>
-          <degree>add#9</degree>
-          <render>7(blues)</render>
-          </chord>
-        <chord id="64">
-          <name>7</name>
-          <xml>dominant</xml>
-          <voicing>C E G Bb</voicing>
-          <render>7</render>
-          </chord>
-        <chord id="65">
-          <name>13</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E F G A Bb</voicing>
-          <render>13</render>
-          </chord>
-        <chord id="66">
-          <name>7b13</name>
-          <xml>dominant</xml>
-          <voicing>C E G Ab Bb</voicing>
-          <degree>addb13</degree>
-          <render>7 b 13</render>
-          </chord>
-        <chord id="67">
-          <name>7#11</name>
-          <xml>dominant</xml>
-          <voicing>C E Gb G Bb</voicing>
-          <degree>add#11</degree>
-          <render>7 # 11</render>
-          </chord>
-        <chord id="68">
-          <name>13#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E F Gb G A Bb</voicing>
-          <degree>add#11</degree>
-          <render>13 # 11</render>
-          </chord>
-        <chord id="69">
-          <name>7#11b13</name>
-          <xml>dominant</xml>
-          <voicing>C E Gb G Ab Bb</voicing>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>7 # 11 b 13</render>
-          </chord>
-        <chord id="70">
-          <name>9</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E G Bb</voicing>
-          <render>9</render>
-          </chord>
-        <chord id="72">
-          <name>9b13</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E G Ab Bb</voicing>
-          <degree>addb13</degree>
-          <render>9 b 13</render>
-          </chord>
-        <chord id="73">
-          <name>9#11</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E Gb G Bb</voicing>
-          <degree>add#11</degree>
-          <render>9 # 11</render>
-          </chord>
-        <chord id="74">
-          <name>13#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E Gb G A Bb</voicing>
-          <degree>alt#11</degree>
-          <render>13 # 11</render>
-          </chord>
-        <chord id="75">
-          <name>9#11b13</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E Gb G Ab Bb</voicing>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>9 # 11 b 13</render>
-          </chord>
-        <chord id="76">
-          <name>7b9</name>
-          <xml>dominant</xml>
-          <voicing>C Db E G Bb</voicing>
-          <degree>addb9</degree>
-          <render>7 b 9</render>
-          </chord>
-        <chord id="77">
-          <name>13b9</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Db E F G A Bb</voicing>
-          <degree>altb9</degree>
-          <render>13 b 9</render>
-          </chord>
-        <chord id="78">
-          <name>7b9b13</name>
-          <xml>dominant</xml>
-          <voicing>C Db E G Ab Bb</voicing>
-          <degree>addb9</degree>
-          <degree>addb13</degree>
-          <render>7 b 9 b 13</render>
-          </chord>
-        <chord id="79">
-          <name>7b9#11</name>
-          <xml>dominant</xml>
-          <voicing>C Db E Gb G Bb</voicing>
-          <degree>addb9</degree>
-          <degree>alt#11</degree>
-          <render>7 b 9 # 11</render>
-          </chord>
-        <chord id="80">
-          <name>13b9#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Db E Gb G A Bb</voicing>
-          <degree>altb9</degree>
-          <degree>alt#11</degree>
-          <render>13 b 9 # 11</render>
-          </chord>
-        <chord id="81">
-          <name>7b9#11b13</name>
-          <xml>dominant</xml>
-          <voicing>C Db E Gb G Ab Bb</voicing>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>7 b 9 # 11 b 13</render>
-          </chord>
-        <chord id="82">
-          <name>7#9</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E G Bb</voicing>
-          <degree>add#9</degree>
-          <render>7 # 9</render>
-          </chord>
-        <chord id="83">
-          <name>13#9</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Eb E F G A Bb</voicing>
-          <degree>alt#9</degree>
-          <render>13 # 9</render>
-          </chord>
-        <chord id="84">
-          <name>7#9b13</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E G Ab Bb</voicing>
-          <degree>add#9</degree>
-          <degree>addb13</degree>
-          <render>7 # 9 b 13</render>
-          </chord>
-        <chord id="85">
-          <name>9#11</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E Gb G Bb</voicing>
-          <degree>add#11</degree>
-          <render>9 # 11</render>
-          </chord>
-        <chord id="86">
-          <name>13#9#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Eb E Gb G A Bb</voicing>
-          <degree>alt#9</degree>
-          <degree>alt#11</degree>
-          <render>13 # 9 # 11</render>
-          </chord>
-        <chord id="87">
-          <name>7#9#11b13</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E Gb G Ab Bb</voicing>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>7 # 9 # 11 b 13</render>
-          </chord>
-        <chord id="88">
-          <name>7b5</name>
-          <xml>dominant</xml>
-          <voicing>C E Gb Bb</voicing>
-          <degree>altb5</degree>
-          <render>7 b 5</render>
-          </chord>
-        <chord id="89">
-          <name>13b5</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E F Gb A Bb</voicing>
-          <degree>altb5</degree>
-          <render>13 b 5</render>
-          </chord>
-        <chord id="90">
-          <name>7b5b13</name>
-          <xml>dominant</xml>
-          <voicing>C E Gb A Bb</voicing>
-          <degree>altb5</degree>
-          <degree>addb13</degree>
-          <render>7 b 5 b 13</render>
-          </chord>
-        <chord id="91">
-          <name>9b5</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E Gb Bb</voicing>
-          <degree>altb5</degree>
-          <render>9 b 5</render>
-          </chord>
-        <chord id="92">
-          <name>9b5b13</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E Gb Ab Bb</voicing>
-          <degree>altb5</degree>
-          <degree>addb13</degree>
-          <render>9 b 5 b 13</render>
-          </chord>
-        <chord id="93">
-          <name>7b5b9</name>
-          <xml>dominant</xml>
-          <voicing>C Db E Gb Bb</voicing>
-          <degree>altb5</degree>
-          <degree>addb9</degree>
-          <render>7 b 5 b 9</render>
-          </chord>
-        <chord id="94">
-          <name>13b5b9</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Db E F Gb A Bb</voicing>
-          <degree>altb5</degree>
-          <degree>addb9</degree>
-          <render>13 b 5 b 9</render>
-          </chord>
-        <chord id="95">
-          <name>7b5b9b13</name>
-          <xml>dominant</xml>
-          <voicing>C Db E Gb Ab Bb</voicing>
-          <degree>altb5</degree>
-          <degree>addb9</degree>
-          <degree>addb13</degree>
-          <render>7 b 5 b 9 b 13</render>
-          </chord>
-        <chord id="96">
-          <name>7b5#9</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E Gb Bb</voicing>
-          <degree>altb5</degree>
-          <degree>add#9</degree>
-          <render>7 b 5 # 9</render>
-          </chord>
-        <chord id="97">
-          <name>13b5#9</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Eb E F Gb A Bb</voicing>
-          <degree>altb5</degree>
-          <degree>alt#9</degree>
-          <render>13 b 5 # 9</render>
-          </chord>
-        <chord id="98">
-          <name>7b5#9b13</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E Gb Ab Bb</voicing>
-          <degree>altb5</degree>
-          <degree>add#9</degree>
-          <degree>addb13</degree>
-          <render>7 b 5 # 9 b 13</render>
-          </chord>
-        <chord id="99">
-          <name>7#5</name>
-          <xml>augmented-seventh</xml>
-          <voicing>C E Ab Bb</voicing>
-          <render>7 # 5</render>
-          </chord>
-        <chord id="100">
-          <name>13#5</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E F Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <render>13 # 5</render>
-          </chord>
-        <chord id="101">
-          <name>7#5#11</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add#11</degree>
-          <render>7 # 5 # 11</render>
-          </chord>
-        <chord id="102">
-          <name>13#5#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>alt#11</degree>
-          <render>13 # 5 # 11</render>
-          </chord>
-        <chord id="103">
-          <name>9#5</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <render>9 # 5</render>
-          </chord>
-        <chord id="104">
-          <name>9#5#11</name>
-          <xml>dominant-ninth</xml>
-          <voicing>C D E Gb Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add#11</degree>
-          <render>9 # 5 # 11</render>
-          </chord>
-        <chord id="105">
-          <name>7#5b9</name>
-          <xml>dominant</xml>
-          <voicing>C Db E Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>addb9</degree>
-          <render>7 # 5 b 9</render>
-          </chord>
-        <chord id="106">
-          <name>13#5b9</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Db E F Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>altb9</degree>
-          <render>13 # 5 b 9</render>
-          </chord>
-        <chord id="107">
-          <name>7#5b9#11</name>
-          <xml>dominant</xml>
-          <voicing>C Db E Gb Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>addb9</degree>
-          <degree>add#11</degree>
-          <render>7 # 5 b 9 # 11</render>
-          </chord>
-        <chord id="108">
-          <name>13#5b9#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Db E Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>altb9</degree>
-          <degree>alt#11</degree>
-          <render>13 # 5 b 9 # 11</render>
-          </chord>
-        <chord id="109">
-          <name>7#5#9</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add#9</degree>
-          <render>7 # 5 # 9</render>
-          </chord>
-        <chord id="110">
-          <name>13#5#9#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Eb E Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>alt#9</degree>
-          <degree>alt#11</degree>
-          <render>13 # 5 # 9 # 11</render>
-          </chord>
-        <chord id="111">
-          <name>7#5#9#11</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E Gb Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <render>7 # 5 # 9 # 11</render>
-          </chord>
-        <chord id="112">
-          <name>13#5#9#11</name>
-          <xml>dominant-13th</xml>
-          <voicing>C Eb E Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>alt#9</degree>
-          <degree>alt#11</degree>
-          <render>13 # 5 # 9 # 11</render>
-          </chord>
-        <chord id="113">
-          <name>7alt</name>
-          <xml>dominant</xml>
-          <voicing>C Eb E Gb Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <render>7 alt</render>
-          </chord>
-        <chord id="128">
-          <name>7sus</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F G Bb</voicing>
-          <degree>add7</degree>
-          <render>7 sus</render>
-          </chord>
-        <chord id="129">
-          <name>13sus</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F G A Bb</voicing>
-          <degree>add7</degree>
-          <degree>add13</degree>
-          <render>13 sus</render>
-          </chord>
-        <chord id="130">
-          <name>7susb13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>addb13</degree>
-          <render>7 sus b 13</render>
-          </chord>
-        <chord id="131">
-          <name>7sus#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F G Bb</voicing>
-          <degree>add7</degree>
-          <degree>add#11</degree>
-          <render>7 sus # 11</render>
-          </chord>
-        <chord id="132">
-          <name>13sus#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb G A Bb</voicing>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 11</render>
-          </chord>
-        <chord id="133">
-          <name>7sus#11b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F Gb G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>7 sus # 11 b 13</render>
-          </chord>
-        <chord id="134">
-          <name>9sus</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F G Bb</voicing>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <render>9 sus</render>
-          </chord>
-        <chord id="135">
-          <name>9susb13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>addb13</degree>
-          <render>9 sus b 13</render>
-          </chord>
-        <chord id="136">
-          <name>9sus#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb G Bb</voicing>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <render>9 sus # 11</render>
-          </chord>
-        <chord id="137">
-          <name>13sus#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb G A Bb</voicing>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 11</render>
-          </chord>
-        <chord id="138">
-          <name>13sus#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb G A Bb</voicing>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 11</render>
-          </chord>
-        <chord id="139">
-          <name>9sus#11b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>9 sus # 11 b 13</render>
-          </chord>
-        <chord id="140">
-          <name>7susb9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F G Bb</voicing>
-          <degree>add7</degree>
-          <degree>addb9</degree>
-          <render>7 sus b 9</render>
-          </chord>
-        <chord id="141">
-          <name>13susb9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F G A Bb</voicing>
-          <degree>add7</degree>
-          <degree>addb9</degree>
-          <degree>add11</degree>
-          <degree>add13</degree>
-          <render>13 sus b 9</render>
-          </chord>
-        <chord id="142">
-          <name>7susb9b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>addb9</degree>
-          <degree>addb13</degree>
-          <render>7 sus b 9 b 13</render>
-          </chord>
-        <chord id="143">
-          <name>7susb9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Gb G Bb</voicing>
-          <degree>add7</degree>
-          <degree>addb9</degree>
-          <degree>add#11</degree>
-          <render>7 sus b 9 # 11</render>
-          </chord>
-        <chord id="144">
-          <name>13susb9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F Gb G A Bb</voicing>
-          <degree>add7</degree>
-          <degree>addb9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus b 9 # 11</render>
-          </chord>
-        <chord id="145">
-          <name>7susb9#11b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Gb G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>addb9</degree>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>7 sus b 9 # 11 b 13</render>
-          </chord>
-        <chord id="146">
-          <name>7sus#9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F G Bb</voicing>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <render>7 sus # 9</render>
-          </chord>
-        <chord id="147">
-          <name>13sus#9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F G A Bb</voicing>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <degree>add13</degree>
-          <render>13 sus # 9</render>
-          </chord>
-        <chord id="148">
-          <name>7sus#9b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <degree>addb13</degree>
-          <render>7 sus # 9 b 13</render>
-          </chord>
-        <chord id="149">
-          <name>9sus#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb G Bb</voicing>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <render>9 sus # 11</render>
-          </chord>
-        <chord id="150">
-          <name>13sus#9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb G A Bb</voicing>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 9 # 11</render>
-          </chord>
-        <chord id="151">
-          <name>7sus#9#11b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb G Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <degree>addb13</degree>
-          <render>7 sus # 9 # 11 b 13</render>
-          </chord>
-        <chord id="152">
-          <name>7susb5</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F Gb Bb</voicing>
-          <degree>add7</degree>
-          <degree>altb5</degree>
-          <render>7 sus b 5</render>
-          </chord>
-        <chord id="153">
-          <name>13susb5</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb A Bb</voicing>
-          <degree>alt5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add13</degree>
-          <render>13 sus b 5</render>
-          </chord>
-        <chord id="154">
-          <name>7susb5b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F Gb Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>altb5</degree>
-          <degree>addb13</degree>
-          <render>7 sus b 5 b 13</render>
-          </chord>
-        <chord id="155">
-          <name>9susb5</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb Bb</voicing>
-          <degree>alt5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <render>9 sus b 5</render>
-          </chord>
-        <chord id="156">
-          <name>9susb5b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb Ab Bb</voicing>
-          <degree>alt5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add13</degree>
-          <render>9 sus b 5 b 13</render>
-          </chord>
-        <chord id="157">
-          <name>7susb5b9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Gb Bb</voicing>
-          <degree>add7</degree>
-          <degree>altb5</degree>
-          <degree>addb9</degree>
-          <render>7 sus b 5 b 9</render>
-          </chord>
-        <chord id="158">
-          <name>13susb5b9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb A Bb</voicing>
-          <degree>alt5</degree>
-          <degree>add7</degree>
-          <degree>altb9</degree>
-          <degree>add13</degree>
-          <render>13 sus b 5 b 9</render>
-          </chord>
-        <chord id="159">
-          <name>7susb5b9b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Gb Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>altb5</degree>
-          <degree>addb9</degree>
-          <degree>addb13</degree>
-          <render>7 sus b 5 b 9 b 13</render>
-          </chord>
-        <chord id="160">
-          <name>7susb5#9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb Bb</voicing>
-          <degree>add7</degree>
-          <degree>altb5</degree>
-          <degree>add#9</degree>
-          <render>7 sus b 5 # 9</render>
-          </chord>
-        <chord id="161">
-          <name>13susb5#9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb A Bb</voicing>
-          <degree>altb5</degree>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <degree>add13</degree>
-          <render>13 sus b 5 # 9</render>
-          </chord>
-        <chord id="162">
-          <name>7susb5#9b13</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>altb5</degree>
-          <degree>add#9</degree>
-          <degree>addb13</degree>
-          <render>7 sus b 5 # 9 b 13</render>
-          </chord>
-        <chord id="163">
-          <name>7sus#5</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>alt#5</degree>
-          <render>7 sus # 5</render>
-          </chord>
-        <chord id="164">
-          <name>13sus#5</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add13</degree>
-          <render>13 sus # 5</render>
-          </chord>
-        <chord id="165">
-          <name>7sus#5#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>alt#5</degree>
-          <degree>add#11</degree>
-          <render>7 sus # 5 # 11</render>
-          </chord>
-        <chord id="166">
-          <name>13sus#5#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 5 # 11</render>
-          </chord>
-        <chord id="167">
-          <name>9sus#5</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <render>9 sus # 5</render>
-          </chord>
-        <chord id="168">
-          <name>9sus#5#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C D F Gb Ab Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <render>9 sus # 5 # 11</render>
-          </chord>
-        <chord id="169">
-          <name>7sus#5b9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>alt#5</degree>
-          <degree>addb9</degree>
-          <render>7 sus # 5 b 9</render>
-          </chord>
-        <chord id="170">
-          <name>13sus#5b9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add13</degree>
-          <render>13 sus # 5 b 9</render>
-          </chord>
-        <chord id="171">
-          <name>7sus#5b9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Gb Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>alt#5</degree>
-          <degree>addb9</degree>
-          <degree>add#11</degree>
-          <render>7 sus # 5 b 9 # 11</render>
-          </chord>
-        <chord id="172">
-          <name>13sus#5b9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 5 b 9 # 11</render>
-          </chord>
-        <chord id="173">
-          <name>7sus#5#9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>alt#5</degree>
-          <degree>add#9</degree>
-          <render>7 sus # 5 # 9</render>
-          </chord>
-        <chord id="174">
-          <name>13sus#5#9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 5 # 9 # 11</render>
-          </chord>
-        <chord id="175">
-          <name>7sus#5#9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb Ab Bb</voicing>
-          <degree>add7</degree>
-          <degree>alt#5</degree>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <render>7 sus # 5 # 9 # 11</render>
-          </chord>
-        <chord id="176">
-          <name>13sus#5#9#11</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Eb F Gb Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <degree>add7</degree>
-          <degree>add#9</degree>
-          <degree>add#11</degree>
-          <degree>add13</degree>
-          <render>13 sus # 5 # 9 # 11</render>
-          </chord>
-        <chord id="177">
-          <name>4</name>
-          <xml>major</xml>
-          <voicing>C E F G</voicing>
-          <degree>add4</degree>
-          <render>4</render>
-          </chord>
-        <chord id="184">
-          <name>sus</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F G</voicing>
-          <render>sus</render>
-          </chord>
-        <chord id="185">
-          <name>dim7</name>
-          <xml>diminished-seventh</xml>
-          <voicing>C Eb Gb</voicing>
-          <render>dim 7</render>
-          </chord>
-        <chord id="186">
-          <name>sus2</name>
-          <xml>suspended-second</xml>
-          <voicing>C D G</voicing>
-          <render>sus 2</render>
-          </chord>
-        <chord id="187">
-          <name>maddb13</name>
-          <xml>minor</xml>
-          <voicing>C Eb Ab</voicing>
-          <degree>addb13</degree>
-          <render>m add b 13</render>
-          </chord>
-        <chord id="188">
-          <name>add#13</name>
-          <xml>major</xml>
-          <voicing>C E G Bb</voicing>
-          <degree>add#13</degree>
-          <render># 13</render>
-          </chord>
-        <chord id="189">
-          <name>add#11#13</name>
-          <xml>major</xml>
-          <voicing>C E Gb G Bb</voicing>
-          <degree>add#11</degree>
-          <degree>add#13</degree>
-          <render>add # 11 # 13</render>
-          </chord>
-        <chord id="190">
-          <name>add#13</name>
-          <xml>major</xml>
-          <voicing>C E G Bb</voicing>
-          <degree>add#13</degree>
-          <render>add # 13</render>
-          </chord>
-        <chord id="191">
-          <name>6add9</name>
-          <xml>major-sixth</xml>
-          <voicing>C D E G A</voicing>
-          <degree>add9</degree>
-          <render>6 add 9</render>
-          </chord>
-        <chord id="192">
-          <name>sus4</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C F G</voicing>
-          <render>sus 4</render>
-          </chord>
-        <chord id="193">
-          <name>11</name>
-          <xml>dominant-11th</xml>
-          <voicing>C D E F G Bb</voicing>
-          <render>11</render>
-          </chord>
-        <chord id="194">
-          <name>Maj11</name>
-          <xml>major-11th</xml>
-          <voicing>C D E F G B</voicing>
-          <render>Maj 11</render>
-          </chord>
-        <chord id="195">
-          <name>Tristan</name>
-          <xml>Tristan</xml>
-          <voicing>C D Gb Bb</voicing>
-          <render>Tristan</render>
-          </chord>
-        <chord id="196">
-          <name>m7add11</name>
-          <xml>minor-seventh</xml>
-          <voicing>C Eb F G Bb</voicing>
-          <degree>add11</degree>
-          <render>m 7 add 11</render>
-          </chord>
-        <chord id="197">
-          <name>Maj7add13</name>
-          <xml>major-seventh</xml>
-          <voicing>C E G A B</voicing>
-          <degree>add13</degree>
-          <render>Maj 7 add 13</render>
-          </chord>
-        <chord id="198">
-          <name>madd9</name>
-          <xml>minor</xml>
-          <voicing>C D Eb G</voicing>
-          <degree>add9</degree>
-          <render>m add 9</render>
-          </chord>
-        <chord id="199">
-          <name>m9Maj7</name>
-          <xml>major-minor</xml>
-          <voicing>C D Eb G B</voicing>
-          <degree>add9</degree>
-          <render>m 9 Maj 7</render>
-          </chord>
-        <chord id="200">
-          <name>5</name>
-          <xml>pedal</xml>
-          <voicing>C G</voicing>
-          <degree>add5</degree>
-          <render>5</render>
-          </chord>
-        <chord id="201">
-          <name>m11b5</name>
-          <xml>minor-11th</xml>
-          <voicing>C D Eb F Gb Bb</voicing>
-          <degree>altb5</degree>
-          <render>m 11 b 5</render>
-          </chord>
-        <chord id="202">
-          <name>dim7add#7</name>
-          <xml>diminished-seventh</xml>
-          <voicing>C Eb Gb A B</voicing>
-          <degree>add#7</degree>
-          <render>dim 7 add # 7</render>
-          </chord>
-        <chord id="203">
-          <name>aug9</name>
-          <xml>augmented-seventh</xml>
-          <voicing>C D E Ab</voicing>
-          <degree>add9</degree>
-          <render># 5 9</render>
-          </chord>
-        <chord id="204">
-          <name>omit5</name>
-          <xml>major</xml>
-          <voicing>C E</voicing>
-          <degree>sub5</degree>
-          <render>omit 5</render>
-          </chord>
-        <chord id="205">
-          <name>aug7</name>
-          <xml>augmented-seventh</xml>
-          <voicing>C E Ab</voicing>
-          <render>aug 7</render>
-          </chord>
-        <chord id="206">
-          <name>aug9</name>
-          <xml>augmented-ninth</xml>
-          <voicing>C D E Ab Bb</voicing>
-          <render>aug 9</render>
-          </chord>
-        <chord id="207">
-          <name>aug13</name>
-          <xml>dominant-13th</xml>
-          <voicing>C D E Ab A Bb</voicing>
-          <degree>alt#5</degree>
-          <render>aug 13</render>
-          </chord>
-        <chord id="210">
-          <name>Maj7#11</name>
-          <xml>major-seventh</xml>
-          <voicing>C E Gb G B</voicing>
-          <degree>add#11</degree>
-          <render>Maj 7 # 11</render>
-          </chord>
-        <chord id="211">
-          <name>Maj9#5</name>
-          <xml>major-ninth</xml>
-          <voicing>C D E Ab B</voicing>
-          <degree>alt#5</degree>
-          <render>Maj 9 # 5</render>
-          </chord>
-        <chord id="212">
-          <name>Maj7#9</name>
-          <xml>major-seventh</xml>
-          <voicing>C Eb E G B</voicing>
-          <degree>add#9</degree>
-          <render>Maj 7 # 9</render>
-          </chord>
-        <chord id="213">
-          <name>add2</name>
-          <xml>major</xml>
-          <voicing>C D E G</voicing>
-          <degree>add2</degree>
-          <render>add 2</render>
-          </chord>
-        <chord id="214">
-          <name>add9</name>
-          <xml>major</xml>
-          <voicing>C D E G</voicing>
-          <degree>add9</degree>
-          <render>add 9</render>
-          </chord>
-        <chord id="215">
-          <name>susb9</name>
-          <xml>suspended-fourth</xml>
-          <voicing>C Db F G</voicing>
-          <degree>addb9</degree>
-          <render>sus b 9</render>
-          </chord>
-        <chord id="216">
-          <name>Maj7sus</name>
-          <xml>major-seventh</xml>
-          <voicing>C F G B</voicing>
-          <degree>sub3</degree>
-          <degree>add4</degree>
-          <render>Maj 7 sus</render>
-          </chord>
-        <chord id="217">
-          <name>Maj9sus</name>
-          <xml>major-ninth</xml>
-          <voicing>C D F G B</voicing>
-          <degree>sub3</degree>
-          <degree>add4</degree>
-          <render>Maj 9 sus</render>
-          </chord>
-        <chord id="220">
-          <name>m7b9</name>
-          <xml>minor-seventh</xml>
-          <voicing>C Db Eb G Bb</voicing>
-          <degree>addb9</degree>
-          <render>m 7 b 9</render>
-          </chord>
-        <chord id="221">
-          <name>m7b13</name>
-          <xml>minor-seventh</xml>
-          <voicing>C Eb G Ab Bb</voicing>
-          <degree>addb13</degree>
-          <render>m 7 b 13</render>
-          </chord>
-        <chord id="222">
-          <name>Phryg</name>
-          <xml>minor-seventh</xml>
-          <voicing>C Db Eb F G Bb</voicing>
-          <degree>addb9</degree>
-          <degree>add4</degree>
-          <render>Phryg</render>
-          </chord>
-        <chord id="223">
-          <name>madd2</name>
-          <xml>minor</xml>
-          <voicing>C D Eb G</voicing>
-          <degree>add9</degree>
-          <render>m add 2</render>
-          </chord>
-        <chord id="230">
-          <name>7b9#9</name>
-          <xml>dominant</xml>
-          <voicing>C Db Eb E G Bb</voicing>
-          <degree>addb9</degree>
-          <degree>add#9</degree>
-          <render>7 b 9 # 9</render>
-          </chord>
-        <chord id="240">
-          <name>sus#4</name>
-          <xml>major</xml>
-          <voicing>C Gb G</voicing>
-          <degree>sub3</degree>
-          <degree>add#4</degree>
-          <render>sus # 4</render>
-          </chord>
-        <chord id="241">
-          <name>Maj7b13</name>
-          <xml>major-seventh</xml>
-          <voicing>C E G Ab B</voicing>
-          <degree>addb13</degree>
-          <render>Maj 7 b 13</render>
-          </chord>
-        </ChordList>
+      <enableVerticalSpread>1</enableVerticalSpread>
       <Spatium>1.764</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -1582,8 +55,8 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino I</longName>
+        <shortName>Vln. I</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <StringData>
@@ -1634,8 +107,8 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino II</longName>
+        <shortName>Vln. II</shortName>
         <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <StringData>
@@ -1808,7 +281,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Tempo>
             <tempo>5.2000000000000002</tempo>
@@ -2175,7 +647,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2242,7 +713,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2651,7 +1121,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2713,7 +1182,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2811,7 +1279,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -3169,7 +1636,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -3258,7 +1724,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -3392,7 +1857,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -3473,7 +1937,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -3650,7 +2113,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -3827,7 +2289,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -3916,7 +2377,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4010,7 +2470,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4146,7 +2605,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4495,7 +2953,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4542,7 +2999,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -5262,7 +3718,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -5341,8 +3796,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
-            <offset x="-1.61733" y="1.89511"/>
             </Dynamic>
           <Beam>
             </Beam>
@@ -5367,8 +3820,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
-            <offset x="0.534032" y="2.31712"/>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5733,7 +4184,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -5890,7 +4340,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -5907,7 +4356,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -5977,7 +4425,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -6144,7 +4591,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -6305,7 +4751,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -6359,7 +4804,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -6520,7 +4964,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -6560,7 +5003,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -6626,7 +5068,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -6679,7 +5120,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -6745,7 +5185,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -6794,7 +5233,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -6843,7 +5281,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -6942,7 +5379,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -7399,7 +5835,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -7595,7 +6030,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -7682,7 +6116,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -7943,7 +6376,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -8100,12 +6532,10 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -8262,7 +6692,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -8398,7 +6827,6 @@
           <Dynamic>
             <subtype>fp</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -8552,7 +6980,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -8822,7 +7249,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -9119,7 +7545,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -9394,7 +7819,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -9711,7 +8135,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -10274,7 +8697,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -10293,7 +8715,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10576,7 +8997,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -11069,7 +9489,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11152,7 +9571,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -11316,7 +9734,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -11370,7 +9787,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -11525,7 +9941,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -11568,7 +9983,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -11679,7 +10093,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -11786,7 +10199,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11839,7 +10251,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -12568,7 +10979,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -12698,7 +11108,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -12757,7 +11166,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -13333,7 +11741,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -13691,7 +12098,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -13780,7 +12186,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -13869,7 +12274,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -14016,7 +12420,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -14105,7 +12508,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -14158,7 +12560,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -14611,7 +13012,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -14711,7 +13111,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -15001,7 +13400,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -15444,7 +13842,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -15691,7 +14088,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -15822,7 +14218,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -16116,7 +14511,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -16183,7 +14577,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -16468,7 +14861,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -16537,7 +14929,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -17228,7 +15619,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -17313,7 +15703,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -17384,7 +15773,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -17458,7 +15846,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -17573,7 +15960,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -17603,7 +15989,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -17751,7 +16136,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -17934,7 +16318,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -18248,7 +16631,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -18667,7 +17049,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -18838,7 +17219,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19024,7 +17404,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19201,7 +17580,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19290,7 +17668,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19521,7 +17898,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19610,7 +17986,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19663,7 +18038,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19929,7 +18303,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20379,7 +18752,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20556,7 +18928,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20687,7 +19058,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20818,7 +19188,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20994,7 +19363,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -21125,7 +19493,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -21271,7 +19638,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -21517,7 +19883,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -21671,7 +20036,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -21825,7 +20189,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -22113,7 +20476,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -22380,7 +20742,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -22686,7 +21047,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -22956,7 +21316,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -23262,7 +21621,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -24122,7 +22480,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -24631,7 +22988,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -24770,7 +23126,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -25145,7 +23500,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -25714,7 +24068,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -25871,7 +24224,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -25907,7 +24259,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -25955,7 +24306,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -25969,7 +24319,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -25987,7 +24336,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26001,7 +24349,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26019,7 +24366,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26033,7 +24379,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26051,7 +24396,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26575,7 +24919,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26620,7 +24963,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26713,7 +25055,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -26867,7 +25208,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -27016,7 +25356,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -27291,7 +25630,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -28053,7 +26391,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28427,7 +26764,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28485,7 +26821,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28893,7 +27228,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28943,7 +27277,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29033,7 +27366,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29319,7 +27651,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29424,7 +27755,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29473,7 +27803,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29529,7 +27858,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -29632,7 +27960,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29985,7 +28312,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30060,7 +28386,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30232,7 +28557,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30421,7 +28745,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30607,7 +28930,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30621,7 +28943,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30691,7 +29012,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30849,7 +29169,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -30946,7 +29265,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -30983,7 +29301,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -31101,7 +29418,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -31146,7 +29462,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -31243,7 +29558,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -31318,7 +29632,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -31390,7 +29703,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -31465,7 +29777,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -31572,7 +29883,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -32186,7 +30496,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -32452,7 +30761,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -32541,7 +30849,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -32635,7 +30942,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -32771,7 +31077,6 @@
           <Dynamic>
             <subtype>fp</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -32907,7 +31212,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -32959,7 +31263,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33027,7 +31330,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33123,7 +31425,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33187,7 +31488,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33234,7 +31534,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33442,7 +31741,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33456,7 +31754,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33474,7 +31771,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33830,7 +32126,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33903,7 +32198,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -34014,7 +32308,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -34062,7 +32355,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -34170,7 +32462,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -34206,7 +32497,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -34299,7 +32589,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -34471,7 +32760,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -34506,7 +32794,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -34575,7 +32862,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -34945,7 +33231,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -34995,7 +33280,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -35281,7 +33565,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -35783,7 +34066,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -35834,7 +34116,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -35892,7 +34173,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -36265,7 +34545,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -36362,7 +34641,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -36573,7 +34851,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -37064,7 +35341,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -37221,7 +35497,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -37283,7 +35558,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -37467,7 +35741,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -37771,7 +36044,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -37830,7 +36102,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -38122,7 +36393,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -38296,7 +36566,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -39014,7 +37283,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -39192,7 +37460,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -39265,7 +37532,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -39337,7 +37603,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -39685,7 +37950,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -39720,7 +37984,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -39902,7 +38165,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -39956,7 +38218,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -39992,7 +38253,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -40165,7 +38425,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -40237,7 +38496,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -40305,7 +38563,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -40534,7 +38791,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -40926,7 +39182,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -40977,7 +39232,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41035,7 +39289,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -41230,7 +39483,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41677,7 +39929,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41854,7 +40105,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41932,7 +40182,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -42019,7 +40268,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -42496,7 +40744,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -42791,7 +41038,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -42891,7 +41137,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -42976,7 +41221,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43108,7 +41352,6 @@
           <Dynamic>
             <subtype>fp</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43190,7 +41433,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43298,7 +41540,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -43365,7 +41606,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43412,7 +41652,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43520,7 +41759,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -43587,7 +41825,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43634,7 +41871,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43918,7 +42154,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -44023,7 +42258,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -44710,7 +42944,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -45254,7 +43487,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -45369,7 +43601,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -45788,7 +44019,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -45844,7 +44074,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -45906,7 +44135,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -46183,7 +44411,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -46316,7 +44543,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -46442,7 +44668,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -46663,7 +44888,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -46799,7 +45023,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -46953,7 +45176,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -48179,7 +46401,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -48456,7 +46677,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -48549,7 +46769,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -48601,7 +46820,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -48672,7 +46890,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -49046,7 +47263,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -49130,7 +47346,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -49222,7 +47437,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -49441,7 +47655,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -49863,7 +48076,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -49888,7 +48100,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -49929,7 +48140,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -50047,7 +48257,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -50181,7 +48390,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -50212,7 +48420,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -50341,7 +48548,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -50368,7 +48574,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -50471,7 +48676,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -50559,7 +48763,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -50634,7 +48837,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -50709,7 +48911,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -50774,7 +48975,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -51272,7 +49472,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -51701,7 +49900,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -51790,7 +49988,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -51922,7 +50119,6 @@
           <Dynamic>
             <subtype>fp</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52004,7 +50200,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52056,7 +50251,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52114,7 +50308,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52210,7 +50403,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52268,7 +50460,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52315,7 +50506,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52648,7 +50838,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52850,7 +51039,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -52921,7 +51109,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -53060,7 +51247,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -53096,7 +51282,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -53226,7 +51411,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -53257,7 +51441,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -53361,7 +51544,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -53449,7 +51631,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -53524,7 +51705,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -53596,7 +51776,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -53624,7 +51803,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -53693,7 +51871,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -54955,7 +53132,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -55476,7 +53652,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -55537,7 +53712,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -55617,7 +53791,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -55901,7 +54074,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -55998,7 +54170,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -56151,7 +54322,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -56638,7 +54808,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -56727,7 +54896,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -56786,7 +54954,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -57019,7 +55186,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -57228,7 +55394,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -57414,7 +55579,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -57643,7 +55807,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -58072,7 +56235,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -58435,7 +56597,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -58463,7 +56624,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -58675,7 +56835,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -58726,7 +56885,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -58757,7 +56915,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -58954,7 +57111,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -59030,7 +57186,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -59102,7 +57257,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -59331,7 +57485,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -59729,7 +57882,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -59783,7 +57935,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -59856,7 +58007,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -59959,7 +58109,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -60409,7 +58558,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -60586,7 +58734,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -60695,7 +58842,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -60804,7 +58950,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -61235,7 +59380,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -61396,7 +59540,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -61507,7 +59650,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -61592,7 +59734,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -61686,7 +59827,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -61940,7 +60080,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -62054,7 +60193,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -62131,7 +60269,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -62178,7 +60315,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -62283,7 +60419,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -62366,7 +60501,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -62413,7 +60547,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -62684,7 +60817,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -62757,7 +60889,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -63228,7 +61359,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -63513,7 +61643,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -64039,7 +62168,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -64251,7 +62379,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -64670,7 +62797,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -64726,7 +62852,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -64788,7 +62913,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -65076,7 +63200,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -65316,7 +63439,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -65556,7 +63678,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -65825,7 +63946,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -65957,7 +64077,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -66107,7 +64226,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -67348,7 +65466,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -67957,7 +66074,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -68014,7 +66130,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -68153,7 +66268,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -68479,7 +66593,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -68542,7 +66655,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -68880,7 +66992,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -68953,7 +67064,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -69265,7 +67375,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -69642,7 +67751,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -69818,7 +67926,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -69988,7 +68095,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -70170,7 +68276,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -70286,7 +68391,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -70402,7 +68506,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -70481,7 +68584,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -70557,7 +68659,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -70706,7 +68807,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -71057,7 +69157,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -71341,7 +69440,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -71561,10 +69659,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="-3.1749" y="2.39749"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -71695,7 +69789,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -71788,7 +69881,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -71881,7 +69973,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72034,7 +70125,6 @@
           <Dynamic>
             <subtype>fp</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72177,7 +70267,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -72235,7 +70324,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72297,7 +70385,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -72468,7 +70555,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -72496,7 +70582,6 @@
           <Dynamic>
             <subtype>mp</subtype>
             <velocity>64</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72555,7 +70640,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72810,7 +70894,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72828,7 +70911,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72907,12 +70989,10 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -72972,7 +71052,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -73026,7 +71105,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -73152,7 +71230,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -73215,7 +71292,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -73252,7 +71328,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -73411,7 +71486,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -73434,7 +71508,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -73471,7 +71544,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -73683,7 +71755,6 @@
           <Dynamic>
             <subtype>fp</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -73807,7 +71878,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -73920,7 +71990,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -73996,7 +72065,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -74075,7 +72143,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -74107,7 +72174,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -74210,7 +72276,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -74584,7 +72649,6 @@
           <Dynamic>
             <subtype>mp</subtype>
             <velocity>64</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>end</BeamMode>
@@ -75508,7 +73572,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -75981,7 +74044,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -76045,7 +74107,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -76343,7 +74404,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -76459,7 +74519,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -76575,7 +74634,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -76706,7 +74764,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -76892,7 +74949,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -76918,7 +74974,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -77269,7 +75324,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -77396,7 +75450,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -77963,7 +76016,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -78496,7 +76548,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -78967,7 +77018,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -78999,7 +77049,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -79256,7 +77305,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -79325,7 +77373,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -79669,7 +77716,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -79960,7 +78006,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -80057,7 +78102,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -80184,7 +78228,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -80556,7 +78599,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -80615,7 +78657,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -80757,12 +78798,10 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -81045,7 +79084,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -81261,7 +79299,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -81372,7 +79409,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -81453,7 +79489,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -81819,7 +79854,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -82189,7 +80223,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -82282,7 +80315,6 @@
           <Dynamic>
             <subtype>sfp</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -82375,7 +80407,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -82651,7 +80682,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -82713,7 +80743,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -82789,7 +80818,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -82901,7 +80929,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -82983,7 +81010,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -83068,7 +81094,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -83387,7 +81412,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -83476,7 +81500,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -83682,7 +81705,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -83882,7 +81904,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -84207,7 +82228,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -84948,7 +82968,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -85180,7 +83199,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             </Beam>
@@ -85639,7 +83657,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -85721,7 +83738,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -85812,7 +83828,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -85978,7 +83993,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -86077,7 +84091,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -86170,7 +84183,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -86513,7 +84525,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -86629,7 +84640,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
