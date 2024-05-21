@@ -39,6 +39,7 @@
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="typesetter">Tom Schreyer</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3413722</metaTag>
     <metaTag name="workNumber">Op. 13</metaTag>
     <metaTag name="workTitle">String Quartet No. 2 in A Minor</metaTag>
@@ -35456,7 +35457,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <text><i></i><font face="ScoreText"/></text>
+            <text><i></i><font face="ScoreText"></font></text>
             </Dynamic>
           <StaffText>
             <text><font face="Plantin MT Std"></font><i>dim.</i></text>

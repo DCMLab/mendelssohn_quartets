@@ -39,6 +39,7 @@
     <metaTag name="poet"></metaTag>
     <metaTag name="source">Scanned sheet music</metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="typesetter">Tom Schreyer</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3413716</metaTag>
     <metaTag name="workNumber">Op. 12</metaTag>
     <metaTag name="workTitle">String Quartet No. 1 in E-flat Major</metaTag>
