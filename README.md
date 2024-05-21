@@ -1,8 +1,14 @@
 # Mendelssohn's 6 String Quartets
 
-Quartets nos. 1, 2, 4, 5 typeset by Tom Schreyer, as well as no. 3 mvts. 2 & 3
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It represents the five string quartets published during Felix Mendelssohn's lifetime, plus the posthumous Op. 80. These works span the prodigious composer's entire adult career from age 18 until his untimely death at age 38. These are among the composer's most intensely personal works, and particularly so the memorials to Beethoven (op. 13) and to Mendelssohn's sister Fanny Hensel (op. 80). The three string quartets of Op. 44 were dedicated to the Crown Prince of Sweden and constitute an expansive centrepiece for this group of works. Our annotations, though reflecting an older version of the DCML standard, nonetheless provide an intriguing summary of the vertical logic serving Mendelssohn's elegant contrapuntal technique.
 
 *Note: The workflow currently extracts facets from `MS3/alternative_file`. On the next run, all folders are therefore wrongly identified as corpora without `metadata.tsv`, so nothing will happen. Should a workaround be required, it would be enough to remove the folders `MS3/notes` and `MS3/measures`. But fixing the root of the problem by making ms3 properly ignore the alternative files would be preferable.*
+
+##Scores
+
+Quartets nos. 1, 2, 4, 5, as well as no. 3 mvts. 2 & 3, were specially typeset for this project by Tom Schreyer. The remainder of Quartet no. 3 was typeset by MuseScore Pro contributor Nicolas Froment and Quartet no. 6 was typeset by MuseScore contributor Quasi Cantando. The scores correspond to volume 12 of the 1874-1882 Breitkopf und Härtel critical edition, though from that volume they exclude the *Four Pieces for String Quartet*, a collection of separate movements included in the volume as Op. 81.
 
 ## Overview
 |file_name|measures|labels|standard| annotators | reviewers  |
