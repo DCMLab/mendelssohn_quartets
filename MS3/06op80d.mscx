@@ -50000,16 +50000,10 @@
         </Measure>
       <Measure>
         <voice>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -50725,16 +50719,10 @@
         </Measure>
       <Measure>
         <voice>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -59613,16 +59601,10 @@
         </Measure>
       <Measure>
         <voice>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
