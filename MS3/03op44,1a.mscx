@@ -37,8 +37,9 @@
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Adrian Nagel</metaTag>
-    <metaTag name="source">http://musescore.com/score/86458</metaTag>
+    <metaTag name="source">https://musescore.com/user/5/scores/86458</metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="typesetter">https://musescore.com/nicolas</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q6502965</metaTag>
     <metaTag name="workNumber">Op. 44, No. 1</metaTag>
     <metaTag name="workTitle">String Quartet No. 3 in D Major</metaTag>
