@@ -292,6 +292,10 @@
             <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 84</b></text>
             </Tempo>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -3806,10 +3810,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3828,6 +3828,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -5445,6 +5449,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -5477,6 +5482,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -5512,13 +5518,13 @@
           <KeySig>
             <accidental>-2</accidental>
             </KeySig>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -7616,10 +7622,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -10994,6 +10996,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -12779,6 +12785,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -12812,6 +12819,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -19313,13 +19321,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -19332,9 +19340,10 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
               <pitch>62</pitch>
@@ -19371,6 +19380,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>62</pitch>
@@ -19385,7 +19395,7 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>sf</subtype>
+            <subtype>sfp</subtype>
             <velocity>112</velocity>
             </Dynamic>
           <Beam>
@@ -19399,10 +19409,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -23386,9 +23392,10 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
               <pitch>50</pitch>
@@ -25252,9 +25259,10 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
               <pitch>55</pitch>
@@ -25906,10 +25914,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -25917,6 +25921,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            <offset x="0" y="4.20619"/>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>

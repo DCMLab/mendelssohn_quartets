@@ -7380,13 +7380,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -8039,13 +8039,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -12661,13 +12661,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -13377,13 +13377,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -16759,7 +16759,7 @@
               </Note>
             </Chord>
           <StaffText>
-            <text><font size="11"></font><i>dolce.</i></text>
+            <text><i><font size="11"/>dolce</i></text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -17842,10 +17842,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
@@ -17853,6 +17849,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -20911,6 +20911,10 @@
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>101</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
