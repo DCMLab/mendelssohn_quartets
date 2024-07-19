@@ -38,7 +38,7 @@
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Adrian Nagel</metaTag>
-    <metaTag name="source">Scanned sheet music</metaTag>
+    <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Tom Schreyer</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q6502965</metaTag>
