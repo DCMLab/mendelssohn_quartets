@@ -3254,8 +3254,10 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>pp</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>33</velocity>
+            <offset x="3" y="2.5"/>
+            <text><i></i><font face="ScoreText"/><i><font face="Edwin"/> espress.</i></text>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -3269,9 +3271,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text><i>espress.</i></text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -12213,6 +12212,10 @@
           <StaffText>
             <text>arco</text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -18678,10 +18681,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -26380,10 +26379,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -26435,7 +26430,7 @@
           </voice>
         <voice>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>

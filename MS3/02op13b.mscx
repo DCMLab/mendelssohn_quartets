@@ -630,7 +630,13 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <offset x="0" y="3.802"/>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.0828647" y="-1.60637"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -1477,8 +1483,18 @@
       <Measure>
         <voice>
           <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <text></text>
+            </Dynamic>
+          <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <offset x="-0.282213" y="-1.67983"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -3348,7 +3364,7 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
                 <up>up</up>
@@ -3365,9 +3381,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -5325,9 +5338,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text><i>sempre</i></text>
-            </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -5375,7 +5385,14 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
+            <minDistance>0.217787</minDistance>
+            <offset x="0" y="4.96852"/>
             </Dynamic>
+          <StaffText>
+            <placement>below</placement>
+            <offset x="-6.97311" y="5.17267"/>
+            <text><i>sempre</i></text>
+            </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -6980,9 +6997,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <text><i>sempre piu</i></text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <text><i>sempre più </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -7036,10 +7055,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9921,6 +9936,12 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <offset x="-0.6" y="2.5"/>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10292,6 +10313,9 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-1.69442"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11157,6 +11181,9 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-1.69442"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -12758,6 +12785,13 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.0828647" y="-1.60637"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13398,6 +13432,12 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <offset x="-0.282213" y="-1.67983"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -16654,6 +16694,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -17739,8 +17783,9 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18971,9 +19016,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <text><i>sempre</i></text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <minDistance>0.493503</minDistance>
+            <offset x="-2.91102" y="2.31806"/>
+            <text><i>sempre </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -18984,10 +19033,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -21541,12 +21586,15 @@
             <durationType>eighth</durationType>
             </Rest>
           <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
-          <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-1.69442"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22312,12 +22360,15 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
-          <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-1.69442"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -24119,6 +24170,13 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.0828647" y="-1.60637"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -24675,8 +24733,28 @@
       <Measure>
         <voice>
           <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <text></text>
+            </Dynamic>
+          <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <offset x="-0.282213" y="-1.67983"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <text></text>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <offset x="-0.282213" y="-1.67983"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -27458,10 +27536,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -27533,10 +27607,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <StaffText>
             <text><i>poco ritard.</i></text>
             </StaffText>
@@ -28593,8 +28663,9 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -32597,12 +32668,15 @@
             <durationType>eighth</durationType>
             </Rest>
           <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
-          <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-1.69442"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -33205,12 +33279,15 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
-          <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-1.69442"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -33333,13 +33410,13 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -33875,6 +33952,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -34861,14 +34942,21 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Dynamic>
-            <subtype>sf</subtype>
-            <velocity>112</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.0828647" y="-1.60637"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -35466,6 +35554,13 @@
             <harmonyType>1</harmonyType>
             <name>vi7</name>
             </Harmony>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-2.18324"/>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -38823,10 +38918,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -38834,6 +38925,10 @@
             <harmonyType>1</harmonyType>
             <name>V(134)</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -39054,10 +39149,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
-            </Dynamic>
           <StaffText>
             <text><i>poco ritard.</i></text>
             </StaffText>
@@ -40095,9 +40186,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <text><i>piu.</i></text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio64/iv</name>
@@ -40128,8 +40216,9 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"/></text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -41413,13 +41502,17 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <text><i>sempre</i></text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6/v</name>
             </Harmony>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <minDistance>0.493503</minDistance>
+            <offset x="-2.91102" y="2.31806"/>
+            <text><i>sempre </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -41427,10 +41520,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio/v</name>
@@ -43488,18 +43577,21 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
-          <Dynamic>
-            <subtype>sf</subtype>
-            <velocity>112</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="-1.69442"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -44099,14 +44191,17 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
-          <Dynamic>
-            <subtype>sf</subtype>
-            <velocity>112</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi7</name>
             </Harmony>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
+            <placement>above</placement>
+            <minDistance>0.108446</minDistance>
+            <offset x="-0.213877" y="-1.74688"/>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
