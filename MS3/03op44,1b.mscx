@@ -518,6 +518,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -794,8 +796,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.292063" y="2.28411"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -910,10 +912,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -933,7 +931,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -1520,7 +1519,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -2027,7 +2027,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -3176,11 +3177,11 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0.796535" y="1.66016"/>
-            <text>sempre</text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>36</velocity>
+            <text><i>sempre </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3221,10 +3222,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -3670,6 +3667,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>espressivo</text>
             </StaffText>
           <Beam>
@@ -4062,7 +4061,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -4491,8 +4491,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -5125,8 +5125,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -6458,7 +6458,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -6800,8 +6801,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.423491" y="2.38633"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -7152,8 +7153,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -7435,8 +7436,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -7553,8 +7554,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -7881,6 +7882,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -8137,8 +8142,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.963808" y="1.5659"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -8646,8 +8651,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -9121,9 +9126,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="3.08997"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9865,8 +9867,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -10415,8 +10417,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -10730,6 +10732,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -11025,8 +11029,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.292063" y="2.7222"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -11131,10 +11135,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -11147,7 +11147,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -11634,7 +11635,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="-0.132756" y="-3.63276"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -12138,7 +12140,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -12965,7 +12968,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -13883,8 +13887,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -14426,7 +14430,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.398268" y="-3.89827"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -14565,8 +14570,8 @@
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -14753,8 +14758,8 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -15474,7 +15479,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -15916,8 +15922,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.2257"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -16213,8 +16219,8 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.905395" y="3.67141"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -16504,8 +16510,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -16806,8 +16812,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -16927,8 +16933,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -17172,10 +17178,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -17424,8 +17426,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.642539" y="1.40526"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -17912,8 +17914,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -18859,8 +18861,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -19181,8 +19183,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.905395" y="3.83204"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -19579,6 +19581,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -19843,8 +19847,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -19972,7 +19976,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -20307,6 +20312,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -20319,10 +20328,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -20560,7 +20565,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="-0.398268" y="-2.83622"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -21016,7 +21022,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -21910,7 +21917,8 @@
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -22525,7 +22533,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -23070,8 +23079,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -23622,7 +23631,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.398268" y="-3.89827"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -23775,8 +23785,8 @@
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -23974,8 +23984,8 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -24756,7 +24766,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-0.160635" y="-3.59028"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -25198,8 +25209,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.744761" y="1.90443"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -25410,8 +25421,8 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.38633"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -25507,6 +25518,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -25718,8 +25733,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -25984,8 +25999,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -26116,8 +26131,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -26454,6 +26469,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -26466,10 +26485,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -26707,8 +26722,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.963808" y="2.0478"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -27164,8 +27179,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -28138,8 +28153,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -28474,8 +28489,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.744761" y="2.7076"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -28896,13 +28911,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -29201,14 +29218,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="-0.292063" y="-1.89365"/>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -29341,14 +29359,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0" y="-2.3052"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -29823,14 +29842,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0" y="-2.3052"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iii6</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -30270,14 +30290,15 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -31458,15 +31479,16 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii[ii</name>
             <offset x="-1" y="-8.07654"/>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -31883,7 +31905,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.398268" y="-3.89827"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -32899,7 +32922,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-5.22583"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -33105,8 +33129,8 @@
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -33227,8 +33251,8 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -34010,8 +34034,8 @@
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -34448,8 +34472,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -34535,6 +34559,10 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <offset x="0.481904" y="-2.53619"/>
+            <text>pizz.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -34553,10 +34581,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0.481904" y="-2.53619"/>
-            <text>pizz.</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -34610,8 +34634,8 @@
             <text>arco.</text>
             </StaffText>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -34673,10 +34697,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -34884,15 +34904,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -35191,15 +35211,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -35335,15 +35355,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -35820,15 +35840,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iii6</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -36250,15 +36270,15 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -37409,15 +37429,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv[iv</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>

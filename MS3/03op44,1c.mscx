@@ -4487,13 +4487,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4580,13 +4580,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4673,13 +4673,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -5702,9 +5702,11 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <StaffText>
-            <text>piu</text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"/></text>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -5737,10 +5739,6 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -7230,6 +7228,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Chord>
             <BeamMode>begin32</BeamMode>
             <durationType>16th</durationType>
@@ -7504,9 +7506,11 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <StaffText>
-            <text>piu</text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -7528,11 +7532,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <offset x="0.665287" y="4.34472"/>
-            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9308,6 +9307,16 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -9326,22 +9335,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.30502"/>
-                <off2 x="11.2112" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -9375,7 +9368,6 @@
             <prev>
               <location>
                 <measures>-1</measures>
-                <fractions>1/4</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -10058,6 +10050,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -10255,6 +10251,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -16220,6 +16220,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -17279,13 +17283,10 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text>piu</text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <offset x="2.3575" y="2.71072"/>
+            <text><i>più </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -18799,6 +18800,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -19055,7 +19060,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <offset x="1.43741" y="3.15626"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -19230,9 +19234,11 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <StaffText>
-            <text>piu</text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -19249,11 +19255,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <offset x="0.72739" y="3.0265"/>
-            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -20074,13 +20075,13 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -20893,6 +20894,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -21437,11 +21442,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <offset x="0.658281" y="3.72802"/>
-            </Dynamic>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -21515,7 +21515,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <offset x="1.00528" y="3.13108"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -21530,13 +21529,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
-          <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <offset x="0.683553" y="3.03359"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -23141,6 +23135,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -26435,10 +26433,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -26453,6 +26447,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -27763,13 +27761,10 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text>piu</text>
-            </StaffText>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <offset x="2.22774" y="2.72105"/>
+            <text><i>più </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -29232,9 +29227,11 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
-          <StaffText>
-            <text>piu</text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -32655,7 +32652,8 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="0.0535644" y="2.67768"/>
+            <minDistance>-8.80969</minDistance>
+            <offset x="-0.547061" y="2.38884"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -32670,7 +32668,7 @@
               </Spanner>
             <Articulation>
               <subtype>guitarVolumeSwell</subtype>
-              <offset x="0.858109" y="10.0898"/>
+              <offset x="2.20952" y="3.03245"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -37399,13 +37397,10 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>f</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <offset x="2.40525" y="2.97024"/>
+            <text><i>più </i><font face="ScoreText"></font></text>
             </Dynamic>
-          <StaffText>
-            <text>piu</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -38312,6 +38307,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <offset x="-1.35141" y="-3.83089"/>
             <text>arco</text>
             </StaffText>
           <Harmony>
@@ -38926,12 +38922,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <placement>above</placement>
-            <offset x="-0.113255" y="-1.90609"/>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio65</name>
@@ -38960,11 +38950,6 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             </Rest>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <offset x="1.29342" y="4.9935"/>
-            </Dynamic>
           <StaffText>
             <text>piu</text>
             </StaffText>
@@ -38973,6 +38958,11 @@
             <name>iv2</name>
             <offset x="0.7073" y="-7.79873"/>
             </Harmony>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>96</velocity>
+            <text><i>più </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -40316,6 +40306,16 @@
             <harmonyType>1</harmonyType>
             <name>V65/iv</name>
             </Harmony>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -40340,22 +40340,6 @@
             <harmonyType>1</harmonyType>
             <name>viio2/V</name>
             </Harmony>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="9.94382" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -40410,7 +40394,6 @@
             <prev>
               <location>
                 <measures>-1</measures>
-                <fractions>1/4</fractions>
                 </location>
               </prev>
             </Spanner>
