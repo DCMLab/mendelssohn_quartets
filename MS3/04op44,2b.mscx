@@ -39135,11 +39135,10 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-1.40069"/>
-                <off2 x="-16.6218" y="0"/>
+                <offset x="0" y="2"/>
+                <off2 x="-27.4903" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -39151,11 +39150,10 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-1.29345"/>
-                <off2 x="-15.0132" y="0"/>
+                <offset x="6.53235" y="2"/>
+                <off2 x="-24.0881" y="0"/>
                 </Segment>
               </HairPin>
             <next>
