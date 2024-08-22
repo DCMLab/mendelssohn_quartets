@@ -560,6 +560,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -7070,6 +7071,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="3.07694" y="-2.25978"/>
             <text>sempre cresc.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -9562,6 +9564,8 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>-3.71054</minDistance>
+            <offset x="0.647776" y="-1.24276"/>
             <text>cresc.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -14627,6 +14631,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -20258,6 +20263,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.0404882</minDistance>
+            <offset x="3.07694" y="-2.62543"/>
             <text>sempre cresc.</text>
             </StaffText>
           <Beam>
@@ -20689,6 +20696,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="2.42916" y="2"/>
+                <off2 x="-2.42916" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -27546,6 +27558,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -30230,6 +30243,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.338056</minDistance>
+            <offset x="1.61944" y="-2.65075"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -32726,6 +32741,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="3.07694" y="-1.9479"/>
             <text>sempre cresc.</text>
             </StaffText>
           <Beam>
@@ -35429,6 +35445,9 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="1.13361" y="2.6175"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -38410,6 +38429,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -39961,36 +39981,6 @@
             <subtype>pp</subtype>
             <velocity>33</velocity>
             </Dynamic>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.66889"/>
-                <off2 x="-29.5908" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.59564"/>
-                <off2 x="-29.2246" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -40022,20 +40012,6 @@
             <harmonyType>1</harmonyType>
             <name>V(b64)</name>
             </Harmony>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -40956,6 +40932,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.338056</minDistance>
+            <offset x="1.61944" y="-0.800814"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -43855,6 +43833,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="0.647776" y="-1.00137"/>
             <text>dim.</text>
             </StaffText>
           <Spanner type="HairPin">

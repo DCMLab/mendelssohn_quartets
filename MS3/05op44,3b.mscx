@@ -2421,6 +2421,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.263588</minDistance>
+            <offset x="1.46117" y="-1.12319"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -3482,6 +3484,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.07152" y="-1.29481"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -4029,10 +4032,14 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <minDistance>-999</minDistance>
+            <offset x="-0.389645" y="-1.35607"/>
             </Dynamic>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            <placement>above</placement>
+            <offset x="0.194823" y="-2.46798"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -8902,6 +8909,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.379806</minDistance>
+            <offset x="8.55118" y="-1.63271"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -9115,14 +9124,26 @@
             </Rest>
           <SystemText>
             <style>Tempo</style>
-            <placement>below</placement>
-            <offset x="-0.27445" y="4.00384"/>
+            <minDistance>-999</minDistance>
+            <offset x="-0.129515" y="-1.70879"/>
             <text> a tempo</text>
             </SystemText>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <SystemText>
+            <style>Tempo</style>
+            <minDistance>-999</minDistance>
+            <offset x="-0.129515" y="-1.70879"/>
+            <text> a tempo</text>
+            </SystemText>
+          <SystemText>
+            <style>Tempo</style>
+            <minDistance>-999</minDistance>
+            <offset x="-0.129515" y="-1.70879"/>
+            <text> a tempo</text>
+            </SystemText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -9576,6 +9597,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-0.877628"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -10343,6 +10365,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -15144,6 +15170,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="4.63793" y="-1.31243"/>
             <text>molto cresc.</text>
             </StaffText>
           <Beam>
@@ -17726,6 +17753,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.5</minDistance>
+            <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -18828,6 +18857,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.07152" y="-1.07481"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -19329,10 +19359,15 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.292234" y="-1.39032"/>
             </Dynamic>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            <minDistance>0.480619</minDistance>
+            <offset x="0.292234" y="2.30518"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -23748,6 +23783,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="8.55118" y="-1.81271"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -24482,6 +24518,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-0.877628"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -25491,6 +25528,9 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="1.44935" y="2.45505"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -29767,6 +29807,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="4.63793" y="-1.31243"/>
             <text>molto cresc.</text>
             </StaffText>
           <Beam>
@@ -32290,6 +32331,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.035</minDistance>
+            <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -38549,6 +38592,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="8.55118" y="-2.18771"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -39198,6 +39242,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-2.48316"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -40207,7 +40252,7 @@
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
-            <offset x="8.2422" y="3.1"/>
+            <offset x="8.2422" y="2.52026"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -43940,16 +43985,6 @@
                 </location>
               </next>
             </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -44014,13 +44049,6 @@
             <style>Dynamics</style>
             <text>dim.</text>
             </StaffText>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -44424,6 +44452,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="4.63793" y="-1.31243"/>
             <text>molto cresc.</text>
             </StaffText>
           <Chord>
@@ -46872,6 +46901,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.5</minDistance>
+            <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -46985,6 +47016,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.5</minDistance>
+            <offset x="1.16894" y="-0.587758"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -47803,6 +47836,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.487057</minDistance>
+            <offset x="1.07152" y="-3.53981"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -48350,6 +48385,9 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.584468" y="-1.76064"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53320,6 +53358,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="8.55118" y="-1.88271"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -54019,6 +54058,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-0.877628"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -54954,6 +54994,9 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="2.17403" y="2.32805"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -59942,14 +59985,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <style>Dynamics</style>
-            <text>molto cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v2</name>
             </Harmony>
+          <StaffText>
+            <style>Dynamics</style>
+            <offset x="4.63793" y="-2.75212"/>
+            <text>molto cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
