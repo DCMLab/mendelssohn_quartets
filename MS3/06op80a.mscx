@@ -15893,6 +15893,11 @@
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -20235,11 +20240,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>other-dynamics</subtype>
-            <velocity>112</velocity>
-            <text>sempre più <sym>dynamicForte</sym><sym>dynamicForte</sym></text>
-            </Dynamic>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>sempre</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -20316,6 +20321,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>più</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -20354,6 +20364,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -21000,8 +21014,7 @@
         <voice>
           <Tempo>
             <tempo>4.6666699999999999</tempo>
-            <placement>below</placement>
-            <offset x="-0.25019" y="1.38251"/>
+            <offset x="-0.928436" y="-5.34172"/>
             <text>Presto</text>
             </Tempo>
           <Spanner type="TextLine">
@@ -26231,6 +26244,11 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -29668,6 +29686,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
+            <offset x="2.26082" y="2.5"/>
             <text>sempre <sym>dynamicPiano</sym></text>
             </Dynamic>
           <Chord>
@@ -30200,6 +30219,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -37958,11 +37981,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>other-dynamics</subtype>
-            <velocity>112</velocity>
-            <text>sempre più <sym>dynamicForte</sym><sym>dynamicForte</sym></text>
-            </Dynamic>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>sempre</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -37993,6 +38016,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>più</text>
+            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -38011,6 +38039,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -45208,6 +45240,8 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
+            <minDistance>0.5</minDistance>
+            <offset x="2.26082" y="3.40092"/>
             <text>sempre <sym>dynamicPiano</sym></text>
             </Dynamic>
           <Chord>
@@ -52776,11 +52810,11 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>other-dynamics</subtype>
-            <velocity>112</velocity>
-            <text>sempre più <sym>dynamicForte</sym><sym>dynamicForte</sym></text>
-            </Dynamic>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>sempre</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -52821,6 +52855,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>più</text>
+            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -52832,6 +52871,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -55390,10 +55433,6 @@
           <location>
             <fractions>1/4</fractions>
             </location>
-          <Dynamic>
-            <subtype>sf</subtype>
-            <velocity>112</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6]</name>
@@ -61240,6 +61279,8 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
+            <minDistance>0.378667</minDistance>
+            <offset x="2.26082" y="2.76206"/>
             <text>sempre <sym>dynamicPiano</sym></text>
             </Dynamic>
           <Harmony>
@@ -66697,6 +66738,16 @@
             <harmonyType>1</harmonyType>
             <name>V2/IV</name>
             </Harmony>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -66757,6 +66808,13 @@
             <harmonyType>1</harmonyType>
             <name>ii65</name>
             </Harmony>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -69641,15 +69699,15 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>other-dynamics</subtype>
-            <velocity>112</velocity>
-            <text>sempre più <sym>dynamicForte</sym><sym>dynamicForte</sym></text>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio2/V</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>sempre</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -69689,6 +69747,11 @@
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>più</text>
+            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -69704,6 +69767,10 @@
             <harmonyType>1</harmonyType>
             <name>viio7/VII</name>
             </Harmony>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -70084,6 +70151,10 @@
             <harmonyType>1</harmonyType>
             <name>V65/iv</name>
             </Harmony>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
