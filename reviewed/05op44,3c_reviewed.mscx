@@ -7,180 +7,44 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>11.6929</pageWidth>
-      <pageHeight>16.5354</pageHeight>
-      <pagePrintableWidth>10.515</pagePrintableWidth>
-      <pageEvenLeftMargin>0.588976</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.588976</pageOddLeftMargin>
-      <pageEvenTopMargin>0.588976</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.588976</pageEvenBottomMargin>
-      <pageOddTopMargin>0.588976</pageOddTopMargin>
-      <pageOddBottomMargin>0.588976</pageOddBottomMargin>
-      <pageTwosided>0</pageTwosided>
-      <minSystemDistance>15.2</minSystemDistance>
-      <maxSystemDistance>20</maxSystemDistance>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashForce>0</lyricsDashForce>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsOddFramePadding>0</lyricsOddFramePadding>
-      <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <lyricsEvenFramePadding>0</lyricsEvenFramePadding>
-      <lyricsEvenFrameWidth>0</lyricsEvenFrameWidth>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <clefLeftMargin>0.64</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <stemWidth>0.11</stemWidth>
-      <barNoteDistance>1.2</barNoteDistance>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyFretDist>0.5</harmonyFretDist>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolPosBelow x="0" y="-5"/>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <defaultFramePadding>0.5</defaultFramePadding>
-      <defaultFrameWidth>0.2</defaultFrameWidth>
-      <defaultFrameRound>25</defaultFrameRound>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <titleFramePadding>0.5</titleFramePadding>
-      <titleFrameWidth>0.2</titleFrameWidth>
-      <titleFrameRound>25</titleFrameRound>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <subTitleFramePadding>0.5</subTitleFramePadding>
-      <subTitleFrameWidth>0.2</subTitleFrameWidth>
-      <subTitleFrameRound>25</subTitleFrameRound>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <composerFramePadding>0.5</composerFramePadding>
-      <composerFrameWidth>0.2</composerFrameWidth>
-      <composerFrameRound>25</composerFrameRound>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <lyricistFramePadding>0.5</lyricistFramePadding>
-      <lyricistFrameWidth>0.2</lyricistFrameWidth>
-      <lyricistFrameRound>25</lyricistFrameRound>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFramePadding>0.5</fingeringFramePadding>
-      <fingeringFrameWidth>0.2</fingeringFrameWidth>
-      <fingeringFrameRound>25</fingeringFrameRound>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
-      <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
-      <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <dynamicsFramePadding>0</dynamicsFramePadding>
-      <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFramePadding>0.5</tempoFramePadding>
-      <tempoFrameWidth>0.2</tempoFrameWidth>
-      <tempoFrameRound>25</tempoFrameRound>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <systemFramePadding>0.5</systemFramePadding>
-      <systemFrameWidth>0.2</systemFrameWidth>
-      <systemFrameRound>25</systemFrameRound>
-      <staffFontFace>Edwin</staffFontFace>
-      <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
-      <staffFramePadding>0.5</staffFramePadding>
-      <staffFrameWidth>0.2</staffFrameWidth>
-      <staffFrameRound>25</staffFrameRound>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
-      <repeatLeftFrameRound>25</repeatLeftFrameRound>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <repeatRightFramePadding>0.5</repeatRightFramePadding>
-      <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
-      <repeatRightFrameRound>25</repeatRightFrameRound>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.151</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q46096</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1838.0</metaTag>
-    <metaTag name="composed_start">1837.0</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1838</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/String_Quartet_No._5_(Mendelssohn)</metaTag>
+    <metaTag name="composed_start">1837</metaTag>
+    <metaTag name="composer">Felix Mendelssohn</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-07-12</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/String_Quartet_No.5%2C_Op.44_No.3_(Mendelssohn%2C_Felix)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Adagio non troppo</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/06008b6e-ad99-394b-83da-0d73f8dae2cf</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/10975</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Tom Schreyer</metaTag>
+    <metaTag name="viaf">174395023.0</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3413866</metaTag>
+    <metaTag name="workNumber">Op. 44, No. 3</metaTag>
+    <metaTag name="workTitle">String Quartet No. 5 in E-flat Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -188,11 +52,11 @@
         <bracket type="0" span="4" col="0"/>
         <barLineSpan>3</barLineSpan>
         </Staff>
-      <trackName>Violine I</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violine I</longName>
-        <shortName>Vl. I</shortName>
-        <trackName>Violin I</trackName>
+        <longName>Violino I</longName>
+        <shortName>Vln. I</shortName>
+        <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
         <maxPitchP>103</maxPitchP>
         <minPitchA>55</minPitchA>
@@ -226,7 +90,7 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
@@ -243,13 +107,6 @@
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <controller ctrl="0" value="0"/>
-          <controller ctrl="32" value="17"/>
-          <program value="0"/>
-          <controller ctrl="10" value="63"/>
-          <synti>Fluid</synti>
-          </Channel>
         </Instrument>
       </Part>
     <Part>
@@ -258,12 +115,12 @@
           </StaffType>
         <barLineSpan>2</barLineSpan>
         </Staff>
-      <trackName>Violine II</trackName>
-      <Instrument id="piano">
-        <longName>Violine II</longName>
-        <shortName>Vl. II</shortName>
-        <trackName>Violin II</trackName>
-        <instrumentId>keyboard.piano</instrumentId>
+      <trackName>Violin</trackName>
+      <Instrument id="violin">
+        <longName>Violino II</longName>
+        <shortName>Vln. II</shortName>
+        <trackName>Violin</trackName>
+        <instrumentId>strings.violin</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -292,8 +149,10 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <program value="0"/>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
@@ -310,7 +169,7 @@
       <Instrument id="viola">
         <longName>Viola</longName>
         <shortName>Vla.</shortName>
-        <trackName>Viola (2)</trackName>
+        <trackName>Viola</trackName>
         <minPitchP>48</minPitchP>
         <maxPitchP>93</maxPitchP>
         <minPitchA>48</minPitchA>
@@ -345,7 +204,7 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
@@ -374,7 +233,7 @@
       <Instrument id="violoncello">
         <longName>Violoncello</longName>
         <shortName>Vc.</shortName>
-        <trackName>Violoncello (2)</trackName>
+        <trackName>Violoncello</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>90</maxPitchP>
         <minPitchA>36</minPitchA>
@@ -409,7 +268,7 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
@@ -426,16 +285,30 @@
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.6854</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="0.777719" y="-10.507"/>
-          <text>Mendelssohn String Quartet No.5_3</text>
+          <text>String Quartet No. 5 in E-flat Major, Op. 44, No. 3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Adagio non troppo</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
           </Text>
         </VBox>
       <Measure>
@@ -449,9 +322,15 @@
             </TimeSig>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-24.4827" y="-22.0689"/>
-            <text>Adagio non troppo <sym>unicodeNoteQuarterUp</sym>=54</text>
+            <offset x="-14.1153" y="-3.70378"/>
+            <text>Adagio non troppo.</text>
             </SystemText>
+          <Tempo>
+            <tempo>0.90000000000000002</tempo>
+            <followText>1</followText>
+            <offset x="14.5144" y="-3.55979"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 54</b></text>
+            </Tempo>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
@@ -466,7 +345,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -522,7 +400,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -686,6 +563,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -772,7 +650,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -871,7 +748,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -932,7 +808,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -988,7 +863,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1260,7 +1134,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1463,7 +1336,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1556,7 +1428,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1704,7 +1575,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -1831,7 +1701,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -1878,7 +1747,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -2032,7 +1900,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -2443,7 +2310,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -2553,7 +2419,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -3182,7 +3047,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3564,7 +3428,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -3680,7 +3543,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3805,7 +3667,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -3950,7 +3811,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -4368,7 +4228,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -4777,7 +4636,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6001,7 +5859,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6257,7 +6114,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -6293,7 +6149,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <style>Dynamics</style>
@@ -6432,7 +6287,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -6958,7 +6812,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -7107,7 +6960,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -7278,6 +7130,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="3.07694" y="-2.25978"/>
             <text>sempre cresc.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -7351,7 +7204,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -7590,7 +7442,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7736,7 +7587,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -7869,7 +7719,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -7911,7 +7760,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8351,7 +8199,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8944,7 +8791,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9397,7 +9243,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -9788,6 +9633,8 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>-3.71054</minDistance>
+            <offset x="0.647776" y="-1.24276"/>
             <text>cresc.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -9856,7 +9703,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -10363,7 +10209,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -10425,7 +10270,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -10631,7 +10475,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -10687,7 +10530,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10786,7 +10628,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -10848,7 +10689,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -10906,7 +10746,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -11178,7 +11017,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11383,7 +11221,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11479,7 +11316,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -11879,7 +11715,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -11918,7 +11753,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -11940,7 +11774,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -12246,7 +12079,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -12666,7 +12498,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12989,7 +12820,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13587,7 +13417,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -13709,7 +13538,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -13825,7 +13653,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -14190,7 +14017,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -14327,7 +14153,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14595,7 +14420,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14656,7 +14480,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -14717,7 +14540,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14764,7 +14586,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14908,6 +14729,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -15082,7 +14904,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15172,7 +14993,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -15233,7 +15053,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15280,7 +15099,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15441,7 +15259,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -15568,7 +15385,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15661,7 +15477,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15793,7 +15608,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15829,7 +15643,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15897,7 +15710,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15968,7 +15780,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -16287,7 +16098,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -16325,7 +16135,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -16489,7 +16298,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -16562,7 +16370,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17003,7 +16810,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -17146,7 +16952,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -17240,7 +17045,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -17507,7 +17311,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -17566,7 +17369,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -17877,7 +17679,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18043,7 +17844,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -18525,7 +18325,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -19109,7 +18908,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19602,7 +19400,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -20241,7 +20038,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20559,7 +20355,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20584,6 +20379,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.0404882</minDistance>
+            <offset x="3.07694" y="-2.62543"/>
             <text>sempre cresc.</text>
             </StaffText>
           <Beam>
@@ -20658,7 +20455,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20692,7 +20488,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -20840,7 +20635,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -20962,7 +20756,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21021,6 +20814,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="2.42916" y="2"/>
+                <off2 x="-2.42916" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -21050,7 +20848,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -21480,7 +21277,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -22055,7 +21851,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22317,7 +22112,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -22691,7 +22485,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -22928,7 +22721,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23569,7 +23361,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -23975,7 +23766,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -24099,7 +23889,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -24218,7 +24007,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -24271,7 +24059,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -24429,7 +24216,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24599,7 +24385,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -24693,7 +24478,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -25040,7 +24824,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -25082,7 +24865,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -25104,7 +24886,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -25411,7 +25192,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -25484,7 +25264,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25597,7 +25376,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -25862,7 +25640,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -25973,7 +25750,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -26107,7 +25883,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -26355,7 +26130,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -26722,7 +26496,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -27407,7 +27180,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -27500,7 +27272,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -27648,7 +27419,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -27702,7 +27472,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -27763,7 +27532,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -27807,7 +27575,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -27925,6 +27692,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -28089,7 +27857,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28152,7 +27919,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -28213,7 +27979,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28257,7 +28022,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28418,7 +28182,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -28544,7 +28307,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -28614,7 +28376,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28749,7 +28510,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28811,7 +28571,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28880,7 +28639,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28909,7 +28667,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -29102,7 +28859,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -29126,7 +28882,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -29189,7 +28944,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -29315,7 +29069,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -29387,7 +29140,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -29830,7 +29582,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -29915,7 +29666,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -30009,7 +29759,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -30276,7 +30025,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -30335,7 +30083,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -30642,6 +30389,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.338056</minDistance>
+            <offset x="1.61944" y="-2.65075"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -30775,7 +30524,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -30959,7 +30707,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -31889,7 +31636,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -32463,7 +32209,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <style>Dynamics</style>
@@ -32588,7 +32333,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -32605,7 +32349,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -33128,7 +32871,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33153,6 +32895,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="3.07694" y="-1.9479"/>
             <text>sempre cresc.</text>
             </StaffText>
           <Beam>
@@ -33231,7 +32974,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33323,7 +33065,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -33349,7 +33090,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -33723,7 +33463,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -34132,7 +33871,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -34536,7 +34274,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -34767,7 +34504,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -34858,7 +34594,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -34917,7 +34652,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -35046,7 +34780,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -35108,7 +34841,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -35156,7 +34888,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -35327,7 +35058,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -35464,7 +35194,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -35608,7 +35337,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -35639,7 +35367,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -35801,7 +35528,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -35876,6 +35602,9 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="1.13361" y="2.6175"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -35927,7 +35656,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -35997,7 +35725,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -36771,8 +36498,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
-            <offset x="0.569655" y="3.18863"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -36866,7 +36591,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -36978,7 +36702,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -37263,7 +36986,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -37396,7 +37118,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -37514,7 +37235,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -37594,7 +37314,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -38311,7 +38030,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -38416,7 +38134,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -38594,7 +38311,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -38647,7 +38363,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -38712,7 +38427,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -38774,7 +38488,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -38893,6 +38606,7 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.65599" y="-0.782581"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -39071,7 +38785,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39123,7 +38836,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39188,7 +38900,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39250,7 +38961,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39445,7 +39155,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39542,7 +39251,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39645,7 +39353,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39779,7 +39486,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39850,7 +39556,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -39932,7 +39637,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40033,7 +39737,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40172,7 +39875,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40200,7 +39902,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40291,7 +39992,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40354,7 +40054,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40458,39 +40157,7 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
-            <offset x="0.0361627" y="5.66356"/>
             </Dynamic>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.66889"/>
-                <off2 x="-29.5908" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.59564"/>
-                <off2 x="-29.2246" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -40517,26 +40184,11 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(b64)</name>
             </Harmony>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -40691,7 +40343,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40752,7 +40403,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -41469,6 +41119,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.338056</minDistance>
+            <offset x="1.61944" y="-0.800814"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -41541,7 +41193,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -41728,7 +41379,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42305,7 +41955,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42355,7 +42004,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42662,7 +42310,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <style>Dynamics</style>
@@ -42806,7 +42453,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42851,7 +42497,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42897,7 +42542,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42927,7 +42571,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -43335,7 +42978,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -43473,7 +43115,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -44068,7 +43709,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -44346,7 +43986,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -44388,6 +44027,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="0.647776" y="-1.00137"/>
             <text>dim.</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -44472,7 +44112,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -44538,7 +44177,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -44592,7 +44230,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -44763,7 +44400,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -44902,7 +44538,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45015,7 +44650,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45061,7 +44695,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45249,7 +44882,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45343,7 +44975,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45446,7 +45077,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45721,7 +45351,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45749,7 +45378,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -46246,7 +45874,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -46324,7 +45951,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -46453,7 +46079,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -46898,7 +46523,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47037,7 +46661,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47155,7 +46778,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47500,7 +47122,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47656,7 +47277,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>

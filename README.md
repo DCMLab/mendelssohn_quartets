@@ -27,7 +27,7 @@ Quartets nos. 1, 2, 4, 5, as well as no. 3 mvts. 2 & 3, were specially typeset f
 |02op13b  |     125|   544|2.1.0   |Adrian Nagel|            |
 |02op13c  |     163|   415|2.1.0   |Adrian Nagel|            |
 |02op13d  |     397|   805|2.1.0   |Adrian Nagel|            |
-|03op44,1a|     375|   751|2.1.0   |Uli Kneisel |Adrian Nagel|
+|03op44,1a|     374|   751|2.1.0   |Uli Kneisel |Adrian Nagel|
 |03op44,1b|     225|   393|2.1.0   |Uli Kneisel |Adrian Nagel|
 |03op44,1c|     155|   438|2.1.0   |Uli Kneisel |Adrian Nagel|
 |03op44,1d|     316|   819|2.1.0   |Uli Kneisel |Adrian Nagel|
