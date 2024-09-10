@@ -7,180 +7,44 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>11.6929</pageWidth>
-      <pageHeight>16.5354</pageHeight>
-      <pagePrintableWidth>10.515</pagePrintableWidth>
-      <pageEvenLeftMargin>0.588976</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.588976</pageOddLeftMargin>
-      <pageEvenTopMargin>0.588976</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.588976</pageEvenBottomMargin>
-      <pageOddTopMargin>0.588976</pageOddTopMargin>
-      <pageOddBottomMargin>0.588976</pageOddBottomMargin>
-      <pageTwosided>0</pageTwosided>
-      <minSystemDistance>15.2</minSystemDistance>
-      <maxSystemDistance>20</maxSystemDistance>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashForce>0</lyricsDashForce>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsOddFramePadding>0</lyricsOddFramePadding>
-      <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <lyricsEvenFramePadding>0</lyricsEvenFramePadding>
-      <lyricsEvenFrameWidth>0</lyricsEvenFrameWidth>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <clefLeftMargin>0.64</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <stemWidth>0.11</stemWidth>
-      <barNoteDistance>1.2</barNoteDistance>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyFretDist>0.5</harmonyFretDist>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolPosBelow x="0" y="-5"/>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <defaultFramePadding>0.5</defaultFramePadding>
-      <defaultFrameWidth>0.2</defaultFrameWidth>
-      <defaultFrameRound>25</defaultFrameRound>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <titleFramePadding>0.5</titleFramePadding>
-      <titleFrameWidth>0.2</titleFrameWidth>
-      <titleFrameRound>25</titleFrameRound>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <subTitleFramePadding>0.5</subTitleFramePadding>
-      <subTitleFrameWidth>0.2</subTitleFrameWidth>
-      <subTitleFrameRound>25</subTitleFrameRound>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <composerFramePadding>0.5</composerFramePadding>
-      <composerFrameWidth>0.2</composerFrameWidth>
-      <composerFrameRound>25</composerFrameRound>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <lyricistFramePadding>0.5</lyricistFramePadding>
-      <lyricistFrameWidth>0.2</lyricistFrameWidth>
-      <lyricistFrameRound>25</lyricistFrameRound>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFramePadding>0.5</fingeringFramePadding>
-      <fingeringFrameWidth>0.2</fingeringFrameWidth>
-      <fingeringFrameRound>25</fingeringFrameRound>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
-      <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
-      <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <dynamicsFramePadding>0</dynamicsFramePadding>
-      <dynamicsFrameWidth>0</dynamicsFrameWidth>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFramePadding>0.5</tempoFramePadding>
-      <tempoFrameWidth>0.2</tempoFrameWidth>
-      <tempoFrameRound>25</tempoFrameRound>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <systemFramePadding>0.5</systemFramePadding>
-      <systemFrameWidth>0.2</systemFrameWidth>
-      <systemFrameRound>25</systemFrameRound>
-      <staffFontFace>Edwin</staffFontFace>
-      <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
-      <staffFramePadding>0.5</staffFramePadding>
-      <staffFrameWidth>0.2</staffFrameWidth>
-      <staffFrameRound>25</staffFrameRound>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
-      <repeatLeftFrameRound>25</repeatLeftFrameRound>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <repeatRightFramePadding>0.5</repeatRightFramePadding>
-      <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
-      <repeatRightFrameRound>25</repeatRightFrameRound>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.151</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q46096</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1838.0</metaTag>
-    <metaTag name="composed_start">1837.0</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1838</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/String_Quartet_No._5_(Mendelssohn)</metaTag>
+    <metaTag name="composed_start">1837</metaTag>
+    <metaTag name="composer">Felix Mendelssohn</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-07-12</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/String_Quartet_No.5%2C_Op.44_No.3_(Mendelssohn%2C_Felix)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Scherzo: Assai leggiero vivace</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/ff97bdd4-2ce7-317c-b8d6-9c1b9f15ae76</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/10975</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Tom Schreyer</metaTag>
+    <metaTag name="viaf">174395023.0</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3413866</metaTag>
+    <metaTag name="workNumber">Op. 44, No. 3</metaTag>
+    <metaTag name="workTitle">String Quartet No. 5 in E-flat Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -188,11 +52,11 @@
         <bracket type="0" span="4" col="0"/>
         <barLineSpan>3</barLineSpan>
         </Staff>
-      <trackName>Violine I</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violine I</longName>
-        <shortName>Vl. I</shortName>
-        <trackName>Violin I</trackName>
+        <longName>Violino I</longName>
+        <shortName>Vln. I</shortName>
+        <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
         <maxPitchP>103</maxPitchP>
         <minPitchA>55</minPitchA>
@@ -226,7 +90,9 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -236,12 +102,9 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
-          <synti>Fluid</synti>
-          </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -252,12 +115,12 @@
           </StaffType>
         <barLineSpan>2</barLineSpan>
         </Staff>
-      <trackName>Violine II</trackName>
-      <Instrument id="piano">
-        <longName>Violine II</longName>
-        <shortName>Vl. II</shortName>
-        <trackName>Violin II</trackName>
-        <instrumentId>keyboard.piano</instrumentId>
+      <trackName>Violin</trackName>
+      <Instrument id="violin">
+        <longName>Violino II</longName>
+        <shortName>Vln. II</shortName>
+        <trackName>Violin</trackName>
+        <instrumentId>strings.violin</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -286,8 +149,10 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <program value="0"/>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
@@ -304,7 +169,7 @@
       <Instrument id="viola">
         <longName>Viola</longName>
         <shortName>Vla.</shortName>
-        <trackName>Viola (2)</trackName>
+        <trackName>Viola</trackName>
         <minPitchP>48</minPitchP>
         <maxPitchP>93</maxPitchP>
         <minPitchA>48</minPitchA>
@@ -339,7 +204,9 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="41"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -349,6 +216,8 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
@@ -364,7 +233,7 @@
       <Instrument id="violoncello">
         <longName>Violoncello</longName>
         <shortName>Vc.</shortName>
-        <trackName>Violoncello (2)</trackName>
+        <trackName>Violoncello</trackName>
         <minPitchP>36</minPitchP>
         <maxPitchP>90</maxPitchP>
         <minPitchA>36</minPitchA>
@@ -399,7 +268,9 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
@@ -409,19 +280,35 @@
           <synti>Fluid</synti>
           </Channel>
         <Channel name="tremolo">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
           <program value="44"/>
+          <synti>Fluid</synti>
+          </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>20.2193</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="0" y="-10.3126"/>
-          <text>Mendelssohn String Quartet No.5_2</text>
+          <text>String Quartet No. 5 in E-flat Major, Op. 44, No. 3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Scherzo: Assai leggiero vivace</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
           </Text>
         </VBox>
       <Measure len="1/8">
@@ -437,13 +324,12 @@
           <Tempo>
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
-            <offset x="-31.4835" y="-23.6374"/>
-            <text>Scherzo Assai leggiero vivace <sym>metNoteQuarterUp</sym>. = 152</text>
+            <offset x="-12.0816" y="-4.38364"/>
+            <text><b>Assai leggiero vivace </b><font face="ScoreText"></font><b><font face="Edwin"></font>. = 152</b></text>
             </Tempo>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -916,7 +802,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -994,7 +879,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -1481,7 +1365,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1943,7 +1826,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2565,6 +2447,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.263588</minDistance>
+            <offset x="1.46117" y="-1.12319"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -2672,7 +2556,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2845,7 +2728,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -3076,7 +2958,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -3309,7 +3190,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -3641,6 +3521,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.07152" y="-1.29481"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -3799,7 +3680,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -3816,7 +3696,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4004,7 +3883,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4195,14 +4073,14 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
+            <minDistance>-999</minDistance>
+            <offset x="-0.389645" y="-1.35607"/>
             </Dynamic>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             <placement>above</placement>
-            <offset x="0.543615" y="-1.37174"/>
+            <offset x="0.194823" y="-2.46798"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -4395,7 +4273,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4536,7 +4413,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -4815,7 +4691,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5403,7 +5278,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -5601,7 +5475,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -6058,8 +5931,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.329141" y="2.2226"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -6115,7 +5986,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6471,7 +6341,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -6919,7 +6788,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -7148,7 +7016,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -7165,6 +7032,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -7820,7 +7692,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8048,7 +7919,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8290,7 +8160,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8549,7 +8418,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -8781,7 +8649,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -9135,6 +9002,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.379806</minDistance>
+            <offset x="8.55118" y="-1.63271"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -9354,15 +9223,26 @@
             </Rest>
           <SystemText>
             <style>Tempo</style>
-            <placement>below</placement>
-            <offset x="-0.27445" y="4.00384"/>
+            <minDistance>-999</minDistance>
+            <offset x="-0.129515" y="-1.70879"/>
             <text> a tempo</text>
             </SystemText>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
+          <SystemText>
+            <style>Tempo</style>
+            <minDistance>-999</minDistance>
+            <offset x="-0.129515" y="-1.70879"/>
+            <text> a tempo</text>
+            </SystemText>
+          <SystemText>
+            <style>Tempo</style>
+            <minDistance>-999</minDistance>
+            <offset x="-0.129515" y="-1.70879"/>
+            <text> a tempo</text>
+            </SystemText>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -9535,7 +9415,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -9580,7 +9459,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -9760,7 +9638,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -9819,6 +9696,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-0.877628"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -9980,7 +9858,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -10040,7 +9917,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <style>Dynamics</style>
@@ -10581,7 +10457,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -10595,6 +10470,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>sf</subtype>
+            <velocity>112</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -10778,7 +10657,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -10962,7 +10840,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -11019,7 +10896,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11033,7 +10909,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11051,7 +10926,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11101,7 +10975,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11115,7 +10988,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11133,7 +11005,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11171,7 +11042,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -11418,7 +11288,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11468,7 +11337,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11518,7 +11386,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11568,7 +11435,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11582,7 +11448,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -11600,7 +11465,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12022,7 +11886,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -12693,7 +12556,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -12945,7 +12807,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -13051,7 +12912,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13467,7 +13327,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -13551,7 +13410,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -13758,7 +13616,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -13981,7 +13838,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -14581,7 +14437,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14623,7 +14478,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14723,7 +14577,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -14753,7 +14606,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14993,7 +14845,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15149,7 +15000,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -15307,7 +15157,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -15492,6 +15341,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="4.63793" y="-1.31243"/>
             <text>molto cresc.</text>
             </StaffText>
           <Beam>
@@ -15694,7 +15544,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -15727,7 +15576,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15763,7 +15611,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15795,7 +15642,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15926,7 +15772,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -16034,7 +15879,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -16502,7 +16346,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -16565,7 +16408,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -17059,7 +16901,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17228,6 +17069,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -17512,7 +17358,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -17613,6 +17458,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -18095,6 +17945,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.5</minDistance>
+            <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -18206,7 +18058,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -18379,7 +18230,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -18626,7 +18476,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -18855,7 +18704,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -19211,6 +19059,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.07152" y="-1.07481"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -19363,7 +19212,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -19380,7 +19228,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19570,7 +19417,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19718,15 +19564,15 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.292234" y="-1.39032"/>
             </Dynamic>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.229332" y="0.129579"/>
+            <minDistance>0.480619</minDistance>
+            <offset x="0.292234" y="2.30518"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19910,7 +19756,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -20051,7 +19896,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -20289,7 +20133,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -21124,7 +20967,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21316,7 +21158,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -21752,7 +21593,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <offset x="1.85228" y="-3.40251"/>
@@ -21816,7 +21656,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -21848,8 +21687,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
-            <offset x="0.289923" y="2.64915"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22130,7 +21967,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -22508,7 +22344,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -22529,6 +22364,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -23000,7 +22840,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -23244,7 +23083,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -23267,6 +23105,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -23413,7 +23256,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -23434,6 +23276,12 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <lineWidth>0.228063</lineWidth>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -23584,7 +23432,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -23808,7 +23655,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -24176,6 +24022,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="8.55118" y="-1.81271"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -24398,7 +24245,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -24589,7 +24435,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -24637,7 +24482,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -24832,8 +24676,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.844821" y="2.80432"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -24923,6 +24765,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-0.877628"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -25088,7 +24931,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -25161,7 +25003,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <style>Dynamics</style>
@@ -25629,7 +25470,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -25948,6 +25788,9 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="1.44935" y="2.45505"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -26028,7 +25871,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26325,7 +26167,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -26362,7 +26203,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -26379,6 +26219,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -26726,7 +26571,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -26764,7 +26608,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26992,7 +26835,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -27661,7 +27503,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -27737,7 +27578,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28029,7 +27869,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28143,7 +27982,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28360,7 +28198,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28416,7 +28253,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -28629,7 +28465,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -28799,7 +28634,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -29389,7 +29223,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -29431,7 +29264,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -29531,7 +29363,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -29560,7 +29391,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29800,7 +29630,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -29953,7 +29782,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -30114,7 +29942,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -30301,6 +30128,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="4.63793" y="-1.31243"/>
             <text>molto cresc.</text>
             </StaffText>
           <Beam>
@@ -30498,7 +30326,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -30616,7 +30443,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -30654,7 +30480,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -30759,7 +30584,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -31249,7 +31073,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -31359,7 +31182,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -31860,7 +31682,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -32262,7 +32083,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -32854,6 +32674,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.035</minDistance>
+            <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -32973,7 +32795,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -33198,7 +33019,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -33383,7 +33203,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -33572,7 +33391,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -33865,7 +33683,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -34122,7 +33939,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -34326,8 +34142,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
-            <offset x="0.613819" y="2.8703"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -34580,7 +34394,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -34808,7 +34621,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -35006,7 +34818,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -35989,7 +35800,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -36189,7 +35999,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -36682,7 +36491,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -36720,7 +36528,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -36933,7 +36740,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -37497,7 +37303,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -37725,7 +37530,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -37748,6 +37552,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -37910,7 +37719,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -38088,7 +37896,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -38339,7 +38146,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -38356,6 +38162,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -38502,7 +38313,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -38522,6 +38332,12 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <lineWidth>0.228063</lineWidth>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -38662,7 +38478,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -38683,6 +38498,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -38903,7 +38723,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -39195,6 +39014,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="8.55118" y="-2.18771"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -39360,7 +39180,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -39558,7 +39377,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -39603,7 +39421,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -39800,7 +39617,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -39856,6 +39672,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-2.48316"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -40047,7 +39864,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -40107,7 +39923,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <style>Dynamics</style>
@@ -40626,7 +40441,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -40880,7 +40694,7 @@
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
-            <offset x="8.2422" y="3.1"/>
+            <offset x="8.2422" y="2.52026"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -40950,7 +40764,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -41129,7 +40942,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41143,7 +40955,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41173,7 +40984,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -41193,11 +41003,20 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -41320,7 +41139,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41370,7 +41188,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41420,7 +41237,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -41492,7 +41308,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -41527,7 +41342,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -41806,7 +41620,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -42357,7 +42170,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -42484,7 +42296,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -42901,7 +42712,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43026,7 +42836,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -43072,7 +42881,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -43377,7 +43185,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -43696,7 +43503,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -44255,7 +44061,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -44294,7 +44099,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -44394,7 +44198,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -44424,7 +44227,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -44654,7 +44456,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -44666,16 +44467,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
               </HairPin>
             <next>
               <location>
@@ -44758,13 +44549,6 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -44826,7 +44610,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -44992,7 +44775,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -45176,6 +44958,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="4.63793" y="-1.31243"/>
             <text>molto cresc.</text>
             </StaffText>
           <Chord>
@@ -45337,7 +45120,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -45369,7 +45151,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -45404,7 +45185,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -45433,7 +45213,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -45468,7 +45247,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -45506,7 +45284,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -45610,7 +45387,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -46069,7 +45845,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -46669,7 +46444,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47111,7 +46885,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47472,7 +47245,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47649,6 +47421,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.5</minDistance>
+            <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -47731,7 +47505,6 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -47763,6 +47536,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.5</minDistance>
+            <offset x="1.16894" y="-0.587758"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -47825,7 +47600,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -48055,7 +47829,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -48276,7 +48049,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -48586,6 +48358,8 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <minDistance>0.487057</minDistance>
+            <offset x="1.07152" y="-3.53981"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -48787,7 +48561,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -48955,7 +48728,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -49135,14 +48907,13 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="1.51618" y="-0.513845"/>
             </Dynamic>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.584468" y="-1.76064"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -49313,7 +49084,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -49490,7 +49260,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -50330,7 +50099,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -50942,8 +50710,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
-            <offset x="0.170839" y="4.85479"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -51022,7 +50788,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -51252,7 +51017,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -51483,7 +51247,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -51937,7 +51700,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52169,7 +51931,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52533,7 +52294,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52743,7 +52503,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -52990,7 +52749,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53239,7 +52997,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53269,6 +53026,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -53419,7 +53181,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53448,6 +53209,12 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <lineWidth>0.228063</lineWidth>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -53598,7 +53365,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -53622,6 +53388,11 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -53789,7 +53560,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54144,6 +53914,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="8.55118" y="-1.88271"/>
             <text>ritard. poco a poco</text>
             </StaffText>
           <Chord>
@@ -54361,7 +54132,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54553,7 +54323,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54609,7 +54378,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54782,7 +54550,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -54849,6 +54616,7 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
+            <offset x="1.15948" y="-0.877628"/>
             <text>cresc.</text>
             </StaffText>
           <Harmony>
@@ -55002,7 +54770,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -55068,7 +54835,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <StaffText>
             <style>Dynamics</style>
@@ -55350,7 +55116,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -55798,6 +55563,9 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="2.17403" y="2.32805"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -55906,7 +55674,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -55960,7 +55727,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -55978,7 +55744,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -56045,7 +55810,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56063,7 +55827,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -56097,7 +55860,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56121,11 +55883,20 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </Trill>
             <next>
               <location>
@@ -56247,7 +56018,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56305,7 +56075,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56364,7 +56133,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56489,7 +56257,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -56531,7 +56298,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -57167,7 +56933,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -57572,7 +57337,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -57694,7 +57458,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -58077,7 +57840,6 @@
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -58127,7 +57889,6 @@
           <Dynamic>
             <subtype>fp</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -58532,7 +58293,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -58931,7 +58691,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -59914,7 +59673,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -59960,7 +59718,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -60070,7 +59827,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -60106,7 +59862,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -60356,7 +60111,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -60514,7 +60268,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -60677,7 +60430,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -60875,14 +60627,15 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <style>Dynamics</style>
-            <text>molto cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v2</name>
             </Harmony>
+          <StaffText>
+            <style>Dynamics</style>
+            <offset x="4.63793" y="-2.75212"/>
+            <text>molto cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -61083,7 +60836,6 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61124,7 +60876,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -61159,7 +60910,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61198,7 +60948,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61237,7 +60986,6 @@
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -61279,7 +61027,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
