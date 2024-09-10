@@ -1,0 +1,2 @@
+VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 80) ms3.Parse.mendelssohn_quartets.01op12b -- /Users/ameliabrey/anaconda3/lib/python3.11/site-packages/ms3/bs4_measures.py (line 565) treat_group():
+	Volta group of MC 80 contains voltas with different lengths: [3, 2] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.

@@ -7,172 +7,43 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>11.6929</pageWidth>
-      <pageHeight>16.5354</pageHeight>
-      <pagePrintableWidth>10.5906</pagePrintableWidth>
-      <pageEvenLeftMargin>0.551181</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.551181</pageOddLeftMargin>
-      <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddBottomMargin>0.787403</pageOddBottomMargin>
-      <minSystemDistance>13.5</minSystemDistance>
-      <maxSystemDistance>20</maxSystemDistance>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashForce>0</lyricsDashForce>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <clefLeftMargin>0.64</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <stemWidth>0.11</stemWidth>
-      <barNoteDistance>1.2</barNoteDistance>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyFretDist>0.5</harmonyFretDist>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolPosBelow x="0" y="-5"/>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <defaultFramePadding>0.5</defaultFramePadding>
-      <defaultFrameWidth>0.2</defaultFrameWidth>
-      <defaultFrameRound>25</defaultFrameRound>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <titleFramePadding>0.5</titleFramePadding>
-      <titleFrameWidth>0.2</titleFrameWidth>
-      <titleFrameRound>25</titleFrameRound>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <subTitleFramePadding>0.5</subTitleFramePadding>
-      <subTitleFrameWidth>0.2</subTitleFrameWidth>
-      <subTitleFrameRound>25</subTitleFrameRound>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <composerFramePadding>0.5</composerFramePadding>
-      <composerFrameWidth>0.2</composerFrameWidth>
-      <composerFrameRound>25</composerFrameRound>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <lyricistFramePadding>0.5</lyricistFramePadding>
-      <lyricistFrameWidth>0.2</lyricistFrameWidth>
-      <lyricistFrameRound>25</lyricistFrameRound>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFramePadding>0.5</fingeringFramePadding>
-      <fingeringFrameWidth>0.2</fingeringFrameWidth>
-      <fingeringFrameRound>25</fingeringFrameRound>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
-      <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
-      <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFramePadding>0.5</tempoFramePadding>
-      <tempoFrameWidth>0.2</tempoFrameWidth>
-      <tempoFrameRound>25</tempoFrameRound>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <systemFramePadding>0.5</systemFramePadding>
-      <systemFrameWidth>0.2</systemFrameWidth>
-      <systemFrameRound>25</systemFrameRound>
-      <staffFontFace>Edwin</staffFontFace>
-      <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
-      <staffFramePadding>0.5</staffFramePadding>
-      <staffFrameWidth>0.2</staffFrameWidth>
-      <staffFrameRound>25</staffFrameRound>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
-      <repeatLeftFrameRound>25</repeatLeftFrameRound>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <repeatRightFramePadding>0.5</repeatRightFramePadding>
-      <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
-      <repeatRightFrameRound>25</repeatRightFrameRound>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.125</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q46096</metaTag>
     <metaTag name="annotators">Uli Kneisel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1838.0</metaTag>
-    <metaTag name="composed_start">1838.0</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1838</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/String_Quartet_No._3_(Mendelssohn)</metaTag>
+    <metaTag name="composed_start">1838</metaTag>
+    <metaTag name="composer">Felix Mendelssohn</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-07-12</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/String_Quartet_No.3%2C_Op.44_No.1_(Mendelssohn%2C_Felix)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Menuetto: Un poco Allegretto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/953d6313-5a40-34ea-8af8-06110b829b26</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/10973</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Adrian Nagel</metaTag>
-    <metaTag name="source">Scanned sheet music</metaTag>
+    <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Tom Schreyer</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q6502965</metaTag>
+    <metaTag name="workNumber">Op. 44, No. 1</metaTag>
+    <metaTag name="workTitle">String Quartet No. 3 in D Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -181,8 +52,8 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino I</longName>
+        <shortName>Vln. I</shortName>
         <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
         <maxPitchP>103</maxPitchP>
@@ -249,8 +120,8 @@
         </Staff>
       <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violin</longName>
-        <shortName>Vln.</shortName>
+        <longName>Violino II</longName>
+        <shortName>Vln. II</shortName>
         <trackName>Violin</trackName>
         <minPitchP>55</minPitchP>
         <maxPitchP>103</maxPitchP>
@@ -429,16 +300,29 @@
           <program value="44"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>16.3594</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="-1.39246" y="-4.6095"/>
-          <text>Mendelssohn String Quartet No 3_2</text>
+          <text>String Quartet No. 3 in D Major, Op. 44, No. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Menuetto: Un poco Allegretto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
           </Text>
         </VBox>
       <Measure len="1/4">
@@ -454,16 +338,17 @@
           <Tempo>
             <tempo>3</tempo>
             <followText>1</followText>
-            <offset x="-23.1371" y="-12.7526"/>
+            <offset x="0.198321" y="-6.53992"/>
             <text><sym>metNoteHalfUp</sym><sym>space</sym><sym>metAugmentationDot</sym> =60</text>
             </Tempo>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
+          <Tempo>
+            <tempo>1.93333</tempo>
+            <text>Un poco Allegretto.</text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -476,11 +361,6 @@
         </Measure>
       <Measure>
         <voice>
-          <SystemText>
-            <offset x="-21.2066" y="-15.4587"/>
-            <text>Menuetto.
-Un poco Allegretto </text>
-            </SystemText>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -638,6 +518,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -914,8 +796,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.292063" y="2.28411"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -1030,10 +912,6 @@ Un poco Allegretto </text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -1053,7 +931,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -1268,9 +1147,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -1393,8 +1269,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.132599" y="2.31318"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -1613,9 +1487,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -1648,7 +1519,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -1788,9 +1660,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -1872,8 +1741,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-1.216" y="3.04467"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -1968,9 +1835,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -2163,7 +2027,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -2370,9 +2235,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -2565,9 +2427,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -2782,9 +2641,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -2876,8 +2732,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.0837749" y="2.47318"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3323,11 +3177,11 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="0.796535" y="1.66016"/>
-            <text>sempre</text>
-            </StaffText>
+          <Dynamic>
+            <subtype>other-dynamics</subtype>
+            <velocity>36</velocity>
+            <text><i>sempre </i><font face="ScoreText"></font></text>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -3368,12 +3222,6 @@ Un poco Allegretto </text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.196385" y="2.90814"/>
-            </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -3819,6 +3667,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>espressivo</text>
             </StaffText>
           <Beam>
@@ -3890,9 +3740,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4214,7 +4061,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -4316,9 +4164,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.796748" y="-6.96543"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4646,8 +4491,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -4860,9 +4705,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.136757" y="-6.50864"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -4969,9 +4811,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -5100,8 +4939,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.0636292" y="3.30641"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5288,8 +5125,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -5634,9 +5471,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.505938" y="-1.72099"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -6624,7 +6458,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -6774,8 +6609,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.111209" y="2.03739"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -6968,8 +6801,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.423491" y="2.38633"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -7037,8 +6870,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="-0.394982" y="2.72711"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -7149,9 +6980,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -7325,8 +7153,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -7608,8 +7436,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -7726,8 +7554,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -7942,9 +7770,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -8057,6 +7882,10 @@ Un poco Allegretto </text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -8234,8 +8063,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.0396204" y="2.6179"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -8315,8 +8142,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.963808" y="1.5659"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -8452,8 +8279,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.329141" y="2.79265"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -8535,8 +8360,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-1.29796" y="2.71782"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -8636,8 +8459,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.818916" y="2.79265"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -8830,8 +8651,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -9038,8 +8859,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.168506" y="2.79265"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -9232,8 +9051,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.329141" y="2.63201"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -9309,9 +9126,6 @@ Un poco Allegretto </text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="3.08997"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9436,9 +9250,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -9488,9 +9299,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10059,8 +9867,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Beam>
@@ -10198,9 +10006,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10332,9 +10137,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="3.37902" y="-7.31358"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -10615,8 +10417,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -10740,9 +10542,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -10933,6 +10732,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -11228,8 +11029,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.292063" y="2.7222"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -11334,10 +11135,6 @@ Un poco Allegretto </text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure len="1/4">
@@ -11350,7 +11147,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -11599,9 +11397,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.392769" y="-1.9865"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -11808,9 +11603,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="-0.201883" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -11843,7 +11635,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="-0.132756" y="-3.63276"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -11974,9 +11767,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -12053,8 +11843,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-1.216" y="3.04467"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -12163,9 +11951,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -12355,7 +12140,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -12547,9 +12333,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -12727,9 +12510,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -12919,9 +12699,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -12982,9 +12759,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -13194,7 +12968,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -13429,9 +13204,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -13480,9 +13252,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13788,9 +13557,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="1.07405" y="-1.75391"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13905,8 +13671,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="-0.403766" y="3.0409"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14043,8 +13807,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="-0.432792" y="3.00798"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14125,8 +13887,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -14412,9 +14174,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14551,9 +14310,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -14674,7 +14430,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.398268" y="-3.89827"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -14717,8 +14474,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.338964" y="1.62767"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -14815,8 +14570,8 @@ Un poco Allegretto </text>
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -15003,8 +14758,8 @@ Un poco Allegretto </text>
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -15119,8 +14874,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="-0.752255" y="3.03523"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -15726,7 +15479,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -15838,8 +15592,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.732962" y="1.93815"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -16003,8 +15755,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="1.03861" y="2.51992"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16172,8 +15922,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.2257"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -16373,8 +16123,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="-0.186529" y="2.00299"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16471,8 +16219,8 @@ Un poco Allegretto </text>
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.905395" y="3.67141"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -16569,9 +16317,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -16765,8 +16510,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -17067,8 +16812,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -17188,8 +16933,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -17433,13 +17178,6 @@ Un poco Allegretto </text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="1.86634" y="-2.75765"/>
-            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -17450,8 +17188,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.519193" y="2.71979"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -17611,8 +17347,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.842794" y="3.20169"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -17692,8 +17426,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.642539" y="1.40526"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -17824,8 +17558,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.0157424" y="2.31074"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -17902,8 +17634,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-1.61923" y="2.98034"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -18017,8 +17747,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.0199275" y="3.46224"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -18186,8 +17914,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -18379,8 +18107,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.337012" y="2.47138"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -18558,8 +18284,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="-0.305527" y="2.15011"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -18749,9 +18473,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -18800,8 +18521,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="-1.57935" y="2.84123"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19142,8 +18861,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -19325,9 +19044,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19467,8 +19183,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.905395" y="3.83204"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -19613,8 +19329,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="-1.10646" y="2.45924"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19711,8 +19425,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.0896469" y="2.60634"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -19869,6 +19581,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -20133,8 +19847,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -20262,7 +19976,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0" y="-2.3052"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -20481,9 +20196,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -20600,6 +20312,10 @@ Un poco Allegretto </text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -20612,13 +20328,6 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.392769" y="-1.9865"/>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -20824,9 +20533,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="-0.201883" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -20859,7 +20565,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="-0.398268" y="-2.83622"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -20946,9 +20653,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -21004,8 +20708,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-0.950486" y="3.16515"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -21116,9 +20818,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -21323,7 +21022,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -21524,9 +21224,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -21717,9 +21414,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -21954,9 +21648,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -22017,9 +21708,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -22229,7 +21917,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -22471,9 +22160,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -22522,9 +22208,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -22850,7 +22533,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -23059,9 +22743,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="1.07405" y="-1.75391"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -23182,8 +22863,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.566401" y="2.9957"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -23320,8 +22999,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.363744" y="1.66814"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -23402,8 +23079,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -23954,7 +23631,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.398268" y="-3.89827"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -24006,8 +23684,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.0734518" y="3.19617"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -24109,8 +23785,8 @@ Un poco Allegretto </text>
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -24308,8 +23984,8 @@ Un poco Allegretto </text>
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -24491,8 +24167,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.973572" y="2.62467"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -25092,7 +24766,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="-0.160635" y="-3.59028"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -25204,8 +24879,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.176377" y="2.15011"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -25369,8 +25042,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.555861" y="3.00246"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25538,8 +25209,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.744761" y="1.90443"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -25750,8 +25421,8 @@ Un poco Allegretto </text>
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.38633"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -25847,6 +25518,10 @@ Un poco Allegretto </text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -25990,8 +25665,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.612984" y="1.62214"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -26060,8 +25733,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -26326,8 +25999,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -26458,8 +26131,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -26678,9 +26351,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -26799,6 +26469,10 @@ Un poco Allegretto </text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>36</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -26811,12 +26485,6 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.679828" y="2.66104"/>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -26975,8 +26643,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.36089" y="2.50041"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -27056,8 +26722,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.963808" y="2.0478"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -27144,8 +26810,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.65041" y="3.59582"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -27201,8 +26865,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-1.61923" y="2.43969"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -27311,8 +26973,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="-0.474032" y="1.50757"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -27519,8 +27179,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -27721,8 +27381,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.510791" y="2.3613"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -27913,8 +27571,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.176377" y="1.98947"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -28144,9 +27800,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28202,15 +27855,10 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.830171" y="1.65804"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -28505,8 +28153,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -28659,9 +28307,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -28844,8 +28489,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.744761" y="2.7076"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -28990,8 +28635,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.337012" y="3.43518"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -29093,8 +28736,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.807844" y="3.09125"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -29270,13 +28911,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -29575,14 +29218,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="-0.292063" y="-1.89365"/>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -29715,14 +29359,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0" y="-2.3052"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -30029,9 +29674,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.33561" y="-2.61832"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -30149,9 +29791,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -30203,14 +29842,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0" y="-2.3052"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iii6</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -30244,9 +29884,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -30294,8 +29931,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-1.08324" y="3.55113"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -30399,9 +30034,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -30658,14 +30290,15 @@ Un poco Allegretto </text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -30969,9 +30602,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -31190,8 +30820,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="1.1893" y="3.17366"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -31497,9 +31125,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -31572,9 +31197,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -31857,15 +31479,16 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0.132756" y="-2.70347"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii[ii</name>
             <offset x="-1" y="-8.07654"/>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -32044,9 +31667,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -32109,9 +31729,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -32288,7 +31905,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.398268" y="-3.89827"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -32551,8 +32169,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.0119981" y="2.31964"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -32710,8 +32326,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.210711" y="2.85066"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -32929,8 +32543,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="1.6241" y="3.19617"/>
             </Dynamic>
           <Rest>
             <durationType>eighth</durationType>
@@ -32989,8 +32601,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="-0.454192" y="3.72719"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -33133,8 +32743,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="-0.276442" y="4.65649"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -33314,7 +32922,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.132756" y="-5.22583"/>
+            <style>Expression</style>
+            <placement>below</placement>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -33363,8 +32972,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.0734518" y="3.19617"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -33522,8 +33129,8 @@ Un poco Allegretto </text>
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -33644,8 +33251,8 @@ Un poco Allegretto </text>
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -33744,8 +33351,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.306714" y="4.20546"/>
             </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -34320,8 +33925,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.176377" y="2.79265"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -34390,8 +33993,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.489776" y="4.72026"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -34433,8 +34034,8 @@ Un poco Allegretto </text>
               </Note>
             </Chord>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
             <text>cresc.</text>
             </StaffText>
           <Chord>
@@ -34539,8 +34140,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.329141" y="5.20217"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -34619,8 +34218,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.570515" y="6.227"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -34875,8 +34472,8 @@ Un poco Allegretto </text>
       <Measure>
         <voice>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -34962,6 +34559,10 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <offset x="0.481904" y="-2.53619"/>
+            <text>pizz.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -34980,10 +34581,6 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <offset x="0.481904" y="-2.53619"/>
-            <text>pizz.</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -35037,8 +34634,8 @@ Un poco Allegretto </text>
             <text>arco.</text>
             </StaffText>
           <StaffText>
+            <style>Expression</style>
             <placement>below</placement>
-            <offset x="-0.584126" y="1.26189"/>
             <text>dim.</text>
             </StaffText>
           <Beam>
@@ -35100,13 +34697,6 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -35144,8 +34734,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.333701" y="3.07018"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -35316,15 +34904,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -35623,15 +35211,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.584126" y="2.06506"/>
-            <text>dim.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>dim.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -35767,15 +35355,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -36084,8 +35672,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.818916" y="2.95328"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -36186,8 +35772,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.842794" y="2.12039"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -36256,15 +35840,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iii6</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -36298,8 +35882,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>sf</subtype>
             <velocity>112</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="3.59582"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -36347,8 +35929,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="-2.10113" y="4.20667"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
@@ -36452,8 +36032,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="-1.10451" y="3.34475"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -36692,15 +36270,15 @@ Un poco Allegretto </text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.481904" y="2.5297"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -36986,8 +36564,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
-            <visible>0</visible>
-            <offset x="0.510791" y="2.3613"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -37198,8 +36774,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="1.78272" y="3.75645"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -37511,9 +37085,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -37570,8 +37141,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="3.59582"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -37860,15 +37429,15 @@ Un poco Allegretto </text>
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <placement>below</placement>
-            <offset x="-0.160635" y="4.45732"/>
-            <text>cresc.</text>
-            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv[iv</name>
             </Harmony>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <text>cresc.</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -38055,9 +37624,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="-1.72099"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -38224,8 +37790,6 @@ Un poco Allegretto </text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
-            <visible>0</visible>
-            <offset x="1.29295" y="3.59582"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>

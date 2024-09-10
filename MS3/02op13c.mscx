@@ -7,193 +7,42 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>11.6902</pageWidth>
-      <pageHeight>16.5402</pageHeight>
-      <pagePrintableWidth>10.9028</pagePrintableWidth>
-      <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddBottomMargin>0.787403</pageOddBottomMargin>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashForce>0</lyricsDashForce>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsOddFramePadding>0</lyricsOddFramePadding>
-      <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <lyricsEvenFramePadding>0</lyricsEvenFramePadding>
-      <lyricsEvenFrameWidth>0</lyricsEvenFrameWidth>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <clefLeftMargin>0.64</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
-      <stemWidth>0.11</stemWidth>
-      <barNoteDistance>1.2</barNoteDistance>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyFretDist>0.5</harmonyFretDist>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolPosBelow x="0" y="-5"/>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <textLineFramePadding>0</textLineFramePadding>
-      <textLineFrameWidth>0</textLineFrameWidth>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <defaultFramePadding>0.5</defaultFramePadding>
-      <defaultFrameWidth>0.2</defaultFrameWidth>
-      <defaultFrameRound>25</defaultFrameRound>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <titleFramePadding>0</titleFramePadding>
-      <titleFrameWidth>0</titleFrameWidth>
-      <titleFrameRound>25</titleFrameRound>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <subTitleFramePadding>0</subTitleFramePadding>
-      <subTitleFrameWidth>0</subTitleFrameWidth>
-      <subTitleFrameRound>25</subTitleFrameRound>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <composerFramePadding>0</composerFramePadding>
-      <composerFrameWidth>0</composerFrameWidth>
-      <composerFrameRound>25</composerFrameRound>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <lyricistFramePadding>0</lyricistFramePadding>
-      <lyricistFrameWidth>0</lyricistFrameWidth>
-      <lyricistFrameRound>25</lyricistFrameRound>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFramePadding>0.5</fingeringFramePadding>
-      <fingeringFrameWidth>0.2</fingeringFrameWidth>
-      <fingeringFrameRound>25</fingeringFrameRound>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
-      <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
-      <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
-      <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
-      <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <longInstrumentFramePadding>0</longInstrumentFramePadding>
-      <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <shortInstrumentFramePadding>0</shortInstrumentFramePadding>
-      <shortInstrumentFrameWidth>0</shortInstrumentFrameWidth>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <partInstrumentFramePadding>0</partInstrumentFramePadding>
-      <partInstrumentFrameWidth>0</partInstrumentFrameWidth>
-      <partInstrumentFrameRound>25</partInstrumentFrameRound>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFontSize>10</tempoFontSize>
-      <tempoFramePadding>0</tempoFramePadding>
-      <tempoFrameWidth>0</tempoFrameWidth>
-      <tempoFrameRound>25</tempoFrameRound>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontSize>10</metronomeFontSize>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <metronomeFramePadding>0</metronomeFramePadding>
-      <metronomeFrameWidth>0</metronomeFrameWidth>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <translatorAlign>center,top</translatorAlign>
-      <translatorFramePadding>0</translatorFramePadding>
-      <translatorFrameWidth>0</translatorFrameWidth>
-      <systemFontFace>Edwin</systemFontFace>
-      <systemFramePadding>0.5</systemFramePadding>
-      <systemFrameWidth>0.2</systemFrameWidth>
-      <systemFrameRound>25</systemFrameRound>
-      <staffFontFace>Edwin</staffFontFace>
-      <staffAlign>left,top</staffAlign>
-      <staffPosAbove x="0" y="-4"/>
-      <staffFramePadding>0.5</staffFramePadding>
-      <staffFrameWidth>0.2</staffFrameWidth>
-      <staffFrameRound>25</staffFrameRound>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatLeftFramePadding>0</repeatLeftFramePadding>
-      <repeatLeftFrameWidth>0</repeatLeftFrameWidth>
-      <repeatLeftFrameRound>25</repeatLeftFrameRound>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <repeatRightFramePadding>0</repeatRightFramePadding>
-      <repeatRightFrameWidth>0</repeatRightFrameWidth>
-      <repeatRightFrameRound>25</repeatRightFrameRound>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <textLineFontSize>10</textLineFontSize>
-      <glissandoFontSize>10</glissandoFontSize>
-      <glissandoAlign>center,baseline</glissandoAlign>
-      <glissandoFramePadding>0</glissandoFramePadding>
-      <glissandoFrameWidth>0</glissandoFrameWidth>
-      <instrumentChangeFontSize>10</instrumentChangeFontSize>
-      <instrumentChangeAlign>left,bottom</instrumentChangeAlign>
-      <instrumentChangeFramePadding>0</instrumentChangeFramePadding>
-      <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.1</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
-    <showInvisible>0</showInvisible>
+    <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q46096</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1827.0</metaTag>
-    <metaTag name="composed_start">1827.0</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1827</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/String_Quartet_No._2_(Mendelssohn)</metaTag>
+    <metaTag name="composed_start">1827</metaTag>
+    <metaTag name="composer">Felix Mendelssohn</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-07-11</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/String_Quartet_No.2%2C_Op.13_(Mendelssohn%2C_Felix)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Intermezzo: Allegretto con moto – Allegro di molto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/15609550-1b15-3669-b0cf-c989615214f2</metaTag>
     <metaTag name="originalFormat">musicxml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/10972</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Tom Schreyer</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3413722</metaTag>
+    <metaTag name="workNumber">Op. 13</metaTag>
+    <metaTag name="workTitle">String Quartet No. 2 in A Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -201,11 +50,11 @@
         <bracket type="0" span="4" col="0"/>
         <barLineSpan>3</barLineSpan>
         </Staff>
-      <trackName>Violine I</trackName>
+      <trackName>Violin</trackName>
       <Instrument id="violin">
-        <longName>Violine I</longName>
-        <shortName>Vl. I</shortName>
-        <trackName>Violin I</trackName>
+        <longName>Violino I</longName>
+        <shortName>Vln. I</shortName>
+        <trackName>Violin</trackName>
         <instrumentId>strings.violin</instrumentId>
         <Articulation>
           <velocity>100</velocity>
@@ -235,17 +84,17 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
+        <Channel name="pizzicato">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
-          <program value="0"/>
+          <program value="45"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
@@ -257,12 +106,12 @@
           </StaffType>
         <barLineSpan>2</barLineSpan>
         </Staff>
-      <trackName>Violine II</trackName>
-      <Instrument id="piano">
-        <longName>Violine II</longName>
-        <shortName>Vl. II</shortName>
-        <trackName>Violin II</trackName>
-        <instrumentId>keyboard.piano</instrumentId>
+      <trackName>Violin</trackName>
+      <Instrument id="violin">
+        <longName>Violino II</longName>
+        <shortName>Vln. II</shortName>
+        <trackName>Violin</trackName>
+        <instrumentId>strings.violin</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -291,8 +140,10 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
-          <program value="0"/>
+        <Channel name="arco">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="40"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
@@ -309,8 +160,9 @@
       <Instrument id="viola">
         <longName>Viola</longName>
         <shortName>Vla.</shortName>
-        <trackName>Viola (2)</trackName>
+        <trackName>Viola</trackName>
         <instrumentId>strings.viola</instrumentId>
+        <clef>C3</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -339,7 +191,7 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="41"/>
@@ -358,8 +210,9 @@
       <Instrument id="violoncello">
         <longName>Violoncello</longName>
         <shortName>Vc.</shortName>
-        <trackName>Violoncello (2)</trackName>
+        <trackName>Violoncello</trackName>
         <instrumentId>strings.cello</instrumentId>
+        <clef>F</clef>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -388,16 +241,39 @@
           <velocity>120</velocity>
           <gateTime>100</gateTime>
           </Articulation>
-        <Channel>
+        <Channel name="arco">
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="42"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="0"/>
+          <controller ctrl="10" value="63"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>17.6388</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>String Quartet No. 2 in A Minor, Op. 13</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Intermezzo: Allegretto con moto – Allegro di molto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Felix Mendelssohn</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -410,22 +286,15 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
-            <offset x="-22.9404" y="-9.44218"/>
-            <text>Intermezzo.
-<font face="Plantin MT Std"></font><b>Allegretto con mote.
+            <text><b><font face="Plantin MT Std"></font>Allegretto con moto.
 </b></text>
             </StaffText>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-22.8575" y="-11.5909"/>
             <text><sym>metNoteQuarterUp</sym> = 120</text>
             </Tempo>
@@ -1711,62 +1580,74 @@
             <span>1</span>
             </BarLine>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><b>Allegro di molto.
 </b></text>
             </StaffText>
+          <Tempo>
+            <tempo>2.3999999999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
+            </Tempo>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -1775,10 +1656,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -2786,10 +2663,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -3085,8 +2958,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.21759"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -3204,7 +3075,8 @@
       <Measure>
         <voice>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -3382,12 +3254,10 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>pp</subtype>
+            <subtype>other-dynamics</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
+            <offset x="3" y="2.5"/>
+            <text><i></i><font face="ScoreText"/><i><font face="Edwin"/> espress.</i></text>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -3401,12 +3271,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
-            <text><i>espress.</i></text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3672,10 +3536,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -3837,9 +3697,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>stacc.</i></text>
             </StaffText>
           <Beam>
@@ -4256,8 +4113,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><i>stacc.</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -4713,10 +4568,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5011,9 +4862,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>ritard.</i></text>
             </StaffText>
           <Spanner type="Volta">
@@ -5126,9 +4974,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>sempre ritard.</i></text>
             </StaffText>
           <Chord>
@@ -5301,9 +5146,6 @@
               <subtype>r16</subtype>
               </Tremolo>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <BarLine>
             <subtype>double</subtype>
             <span>1</span>
@@ -5317,8 +5159,6 @@
             <mode>major</mode>
             </KeySig>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><b>Tempo I.
 </b></text>
             </StaffText>
@@ -6499,10 +6339,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -6607,18 +6443,11 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="16.5439"/>
             <text><i>poco accelerando</i></text>
             </StaffText>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -6908,10 +6737,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -7022,10 +6847,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.6525" y="3.35859"/>
             </Dynamic>
           <Rest>
             <durationType>16th</durationType>
@@ -7118,7 +6939,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -7206,7 +7026,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -7746,7 +7565,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Chord>
@@ -7956,7 +7774,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -8281,14 +8098,11 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
-            <offset x="0.329141" y="0.60159"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -9120,10 +8934,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -9636,10 +9446,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -10019,10 +9825,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -10265,8 +10067,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="1.25959"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10300,9 +10100,6 @@
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.8139"/>
             <text><i>stacc.</i></text>
             </StaffText>
           <Beam>
@@ -10570,9 +10367,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.8509"/>
             <text><i>stacc.</i></text>
             </StaffText>
           <Beam>
@@ -10978,8 +10772,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><i>stacc.</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -11418,10 +11210,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -11650,13 +11438,9 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="12.2569"/>
             <text><i>ritard.</i></text>
             </StaffText>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Beam>
@@ -11801,9 +11585,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>sempre ritard.</i></text>
             </StaffText>
           <Beam>
@@ -12169,7 +11950,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Chord>
@@ -12204,9 +11984,6 @@
               </Note>
             </Chord>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>espress.</i></text>
             </StaffText>
           <Chord>
@@ -12302,7 +12079,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -12434,9 +12210,12 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -12946,7 +12725,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -13035,10 +12813,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -13093,11 +12867,8 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.99359"/>
             </Dynamic>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Chord>
@@ -13121,9 +12892,6 @@
             <fractions>-1/4</fractions>
             </location>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="14.5569"/>
             <text><i>poco accelerando</i></text>
             </StaffText>
           </voice>
@@ -13312,8 +13080,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="1.21459"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -13562,10 +13328,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -13686,10 +13448,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -13729,7 +13487,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -13817,7 +13574,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -14119,16 +13875,11 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -14318,7 +14069,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -14351,7 +14101,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Chord>
@@ -14511,7 +14260,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -14790,13 +14538,8 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Chord>
@@ -15851,10 +15594,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -16059,10 +15798,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -16427,9 +16162,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>espress.</i></text>
             </StaffText>
           <Chord>
@@ -16737,10 +16469,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -16861,10 +16589,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16898,9 +16622,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.8139"/>
             <text><i>stacc.</i></text>
             </StaffText>
           <Beam>
@@ -17190,9 +16911,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>stacc.</i></text>
             </StaffText>
           <Beam>
@@ -17561,8 +17279,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><i>stacc.</i></text>
             </StaffText>
           <Spanner type="HairPin">
@@ -17992,10 +17708,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -18224,13 +17936,9 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="11.5069"/>
             <text><i>ritard.</i></text>
             </StaffText>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Beam>
@@ -18339,9 +18047,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>sempre ritard.</i></text>
             </StaffText>
           <Beam>
@@ -18781,7 +18486,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Chord>
@@ -18977,14 +18681,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
-            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -19457,7 +19153,6 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -19565,10 +19260,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -19614,16 +19305,11 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -19648,9 +19334,6 @@
               </Note>
             </Chord>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="12.0209"/>
             <text><i>poco accelerando</i></text>
             </StaffText>
           <Beam>
@@ -19782,10 +19465,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -19938,10 +19617,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.83759"/>
             </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
@@ -20033,8 +19708,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -20165,8 +19838,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.39659"/>
             </Dynamic>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -20331,10 +20002,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Chord>
             <durationType>16th</durationType>
@@ -20369,7 +20036,6 @@
             <durationType>quarter</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Chord>
@@ -20426,7 +20092,6 @@
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Harmony>
@@ -20990,7 +20655,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Harmony>
@@ -21117,7 +20781,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Harmony>
@@ -21629,13 +21292,8 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Harmony>
@@ -22535,10 +22193,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22617,8 +22271,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.24259"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -22846,10 +22498,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.74259"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23882,10 +23530,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -24101,9 +23745,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.4419"/>
             <text><i>stacc.</i></text>
             </StaffText>
           <Harmony>
@@ -24628,8 +24269,6 @@
             <durationType>16th</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><i>stacc.</i></text>
             </StaffText>
           <Harmony>
@@ -25284,10 +24923,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25433,13 +25068,9 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.5069"/>
             <text><i>ritard.</i></text>
             </StaffText>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Beam>
@@ -25573,9 +25204,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="10.5049"/>
             <text><i>sempre ritard.</i></text>
             </StaffText>
           <Harmony>
@@ -26356,13 +25984,8 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Harmony>
@@ -26600,7 +26223,6 @@
             <durationType>eighth</durationType>
             </Rest>
           <StaffText>
-            <visible>0</visible>
             <text>pizz.</text>
             </StaffText>
           <Harmony>
@@ -26711,10 +26333,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26761,14 +26379,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.533281" y="3.35859"/>
-            </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -26780,14 +26390,11 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
             <text>arco</text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.97859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26814,9 +26421,6 @@
             <fractions>-1/4</fractions>
             </location>
           <StaffText>
-            <visible>0</visible>
-            <placement>below</placement>
-            <offset x="0" y="14.7619"/>
             <text><i>poco accelerando</i></text>
             </StaffText>
           <Harmony>
@@ -26826,7 +26430,7 @@
           </voice>
         <voice>
           <Rest>
-            <offset x="0" y="4"/>
+            <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -26985,8 +26589,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.97859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27170,8 +26772,6 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <visible>0</visible>
-            <offset x="0.658281" y="0.33759"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27279,8 +26879,6 @@
       <Measure>
         <voice>
           <StaffText>
-            <visible>0</visible>
-            <family>FreeSerif</family>
             <text><font face="Plantin MT Std"></font><i>dim.</i></text>
             </StaffText>
           <Chord>
@@ -27438,10 +27036,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.658281" y="3.35859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27687,10 +27281,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <autoplace>0</autoplace>
-            <visible>0</visible>
-            <placement>above</placement>
-            <offset x="0.329141" y="3.35859"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
