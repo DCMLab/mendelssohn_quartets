@@ -176,11 +176,11 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_line",
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -193,8 +193,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "Wz_6GWySfwOerA",
-    "filepath": "chords/Wz_6GWySfwOerA.schema.yaml",
+    "identifier": "GudmJgqw_lh-dg",
+    "filepath": "chords/GudmJgqw_lh-dg.schema.yaml",
     "used_in": "06op80a"
   },
   "creator": {
@@ -207,8 +207,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.2"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "48af9bc442879b69045e483e19d9083423d3f7e8",
-  "git_tag": "v2.1"
+  "git_revision": "fd3beef5f2f0e61396e7000a7ea5f2c0076c8b68",
+  "git_tag": "v2.2-1-gfd3beef"
 }
