@@ -24,3 +24,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '3/8', 'iv') ms3.Parse.mend
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 306, '9/8', 'I6(+4)') ms3.Parse.mendelssohn_quartets.03op44,1d
 	The label 'I6(+4)' in m. 306, onset 9/8 (MC 306, onset 9/8) is correct and there are some extra passing notes after.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 120, '3/8', 'iio6/ii') ms3.Parse.mendelssohn_quartets.04op44,2d
+	The label 'iio6/ii' in m. 120, onset 3/8 (MC 120, onset 3/8) is the resolution chord to the previous chord of the annotator.
