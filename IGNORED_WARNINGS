@@ -6,3 +6,9 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 204, '9/8', '#viio') ms3.Parse
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 161, '0', 'V') ms3.Parse.mendelssohn_quartets.02op13d
 	The label 'V' in m. 161, onset 0 (MC 161, onset 0) could work here as it is a unison passage culminating essentially on the dominant.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 365, '1/4', 'VI') ms3.Parse.mendelssohn_quartets.02op13d
+	The label 'VI' in m. 365, onset 1/4 (MC 365, onset 1/4) is an interpretation of the annotator for a unison passage.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 366, '1/8', 'viio') ms3.Parse.mendelssohn_quartets.02op13d
+	The label 'viio' in m. 366, onset 1/8 (MC 366, onset 1/8) is an interpretation of the annotator for a unison passage.
