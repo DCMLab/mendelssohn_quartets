@@ -50601,7 +50601,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65</name>
+            <name>viio65/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -50620,10 +50620,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -50631,10 +50627,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio65</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>

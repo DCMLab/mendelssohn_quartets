@@ -659,7 +659,6 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -9918,7 +9917,6 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -9932,7 +9930,6 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>24</tpc>
               </Note>
@@ -24118,7 +24115,6 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -28460,7 +28456,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -28476,7 +28471,6 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -28484,7 +28478,6 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -37106,7 +37099,6 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -40751,6 +40743,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2(9)/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(#4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -51439,11 +51437,16 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio65/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -51451,7 +51454,6 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -51462,6 +51464,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -51474,11 +51477,11 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio65</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
