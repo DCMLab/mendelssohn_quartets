@@ -341,6 +341,7 @@
           <Tempo>
             <tempo>2.9333333333333331</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 88</b></text>
             </Tempo>
           <Rest>
