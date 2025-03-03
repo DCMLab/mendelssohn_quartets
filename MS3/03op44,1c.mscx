@@ -36893,19 +36893,11 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6(7)</name>
+            <name>Ger6</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Ger6</name>
-            <offset x="-0.388859" y="-3.062"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
