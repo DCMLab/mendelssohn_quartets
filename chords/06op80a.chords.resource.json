@@ -168,11 +168,7 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "diminuendo_line",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -180,7 +176,11 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -193,8 +193,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "GudmJgqw_lh-dg",
-    "filepath": "chords/GudmJgqw_lh-dg.schema.yaml",
+    "identifier": "devZ12w7w3o6rA",
+    "filepath": "chords/devZ12w7w3o6rA.schema.yaml",
     "used_in": "06op80a"
   },
   "creator": {
@@ -208,7 +208,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "fd3beef5f2f0e61396e7000a7ea5f2c0076c8b68",
-  "git_tag": "v2.2-1-gfd3beef"
+  }
 }
