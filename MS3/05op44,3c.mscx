@@ -327,6 +327,7 @@
           <Tempo>
             <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="14.5144" y="-3.55979"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 54</b></text>
             </Tempo>
