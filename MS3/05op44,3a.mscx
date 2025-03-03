@@ -323,6 +323,7 @@
           <Tempo>
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-10.5109" y="-3.32004"/>
             <text><b>Allegro vivace </b><font face="ScoreText"></font><b><font face="Edwin"></font>. = 72</b></text>
             </Tempo>
@@ -6920,7 +6921,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.80091" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -8755,7 +8755,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="0.840424" y="-2.14151"/>
             <text>dim.</text>
             </StaffText>
@@ -35210,7 +35209,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.80091" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -35941,7 +35939,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.44073" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -36322,7 +36319,6 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.32067" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -48961,7 +48957,6 @@
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
-            <minDistance>0.5</minDistance>
             <offset x="1.05787" y="4.83477"/>
             <text>cresc.</text>
             </StaffText>
@@ -59742,7 +59737,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.44073" y="-1.33776"/>
             <text>cresc.</text>
             </StaffText>
@@ -60015,7 +60009,6 @@
             </Chord>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.32067" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -60784,7 +60777,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.32067" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -82792,7 +82784,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.44073" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -83632,7 +83623,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="0.840424" y="-4.31982"/>
             <text>dim.</text>
             </StaffText>
@@ -83825,7 +83815,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.32067" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -86215,7 +86204,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <text><i></i><font face="ScoreText"/><i><font face="Edwin"/>dim.</i></text>
+            <text><i></i><font face="ScoreText"></font><i><font face="Edwin"></font>dim.</i></text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -93380,7 +93369,6 @@
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
-            <minDistance>0.5</minDistance>
             <offset x="0.937812" y="5.1367"/>
             <text>cresc.</text>
             </StaffText>
@@ -97415,7 +97403,6 @@
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
-            <minDistance>0.5</minDistance>
             <offset x="0.937812" y="5.1367"/>
             <text>cresc.</text>
             </StaffText>
