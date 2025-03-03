@@ -62573,7 +62573,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>i64</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
