@@ -328,6 +328,7 @@
           <Tempo>
             <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="14.5144" y="-3.55979"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 54</b></text>
             </Tempo>
@@ -370,7 +371,6 @@
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -38473,6 +38473,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(#8b64)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(+#8b64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
