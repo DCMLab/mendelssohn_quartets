@@ -178,11 +178,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "Trill:trill",
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -190,13 +190,13 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "crescendo_line",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "bGUoHk7ZsJPFUg",
-    "filepath": "chords/bGUoHk7ZsJPFUg.schema.yaml",
+    "identifier": "wwedfg5ZHAWS5g",
+    "filepath": "chords/wwedfg5ZHAWS5g.schema.yaml",
     "used_in": "05op44,3b"
   },
   "creator": {
@@ -211,6 +211,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "fd3beef5f2f0e61396e7000a7ea5f2c0076c8b68",
-  "git_tag": "v2.2-1-gfd3beef"
+  "git_revision": "0d859609818a3fc0a530fcee989ddf93230ce360",
+  "git_tag": "v2.2-45-g0d85960"
 }
