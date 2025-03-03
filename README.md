@@ -34,7 +34,7 @@ Quartets nos. 1, 2, 4, 5, as well as no. 3 mvts. 2 & 3, were specially typeset f
 |04op44,2a|     277|   837|2.1.0   |Adrian Nagel|            |
 |04op44,2b|     244|   829|2.1.0   |Adrian Nagel|            |
 |04op44,2c|      83|   328|2.1.0   |Adrian Nagel|            |
-|04op44,2d|     515|   794|2.1.0   |Adrian Nagel|            |
+|04op44,2d|     515|   793|2.1.0   |Adrian Nagel|            |
 |05op44,3a|     369|  1044|2.1.0   |Adrian Nagel|            |
 |05op44,3b|     301|   635|2.1.0   |Adrian Nagel|            |
 |05op44,3c|     131|   385|2.1.0   |Adrian Nagel|            |
