@@ -174,11 +174,11 @@
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers."
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -191,8 +191,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "W2PwZgUWg6vW-g",
-    "filepath": "chords/W2PwZgUWg6vW-g.schema.yaml",
+    "identifier": "r-0AEAQUYAGoHw",
+    "filepath": "chords/r-0AEAQUYAGoHw.schema.yaml",
     "used_in": "01op12d"
   },
   "creator": {
@@ -206,5 +206,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "9d295f6841bb5525d6a8bd66080d1bd1a3bd9191",
+  "git_tag": "v2.2-62-g9d295f6"
 }

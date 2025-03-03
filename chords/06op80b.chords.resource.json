@@ -180,11 +180,11 @@
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "crescendo_line",
         "type": "string"
       },
       {
-        "name": "crescendo_line",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -193,8 +193,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "TG1-NJljQkU-Cg",
-    "filepath": "chords/TG1-NJljQkU-Cg.schema.yaml",
+    "identifier": "bJx8c9DAl4ax0A",
+    "filepath": "chords/bJx8c9DAl4ax0A.schema.yaml",
     "used_in": "06op80b"
   },
   "creator": {
@@ -209,6 +209,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "fd3beef5f2f0e61396e7000a7ea5f2c0076c8b68",
-  "git_tag": "v2.2-1-gfd3beef"
+  "git_revision": "9d295f6841bb5525d6a8bd66080d1bd1a3bd9191",
+  "git_tag": "v2.2-62-g9d295f6"
 }

@@ -174,10 +174,6 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "crescendo_hairpin",
         "type": "string"
       },
@@ -188,11 +184,15 @@
       {
         "name": "diminuendo_line",
         "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "P4VNAqviunh_sA",
-    "filepath": "chords/P4VNAqviunh_sA.schema.yaml",
+    "identifier": "gZCMSW3agSxXYg",
+    "filepath": "chords/gZCMSW3agSxXYg.schema.yaml",
     "used_in": "04op44,2d"
   },
   "creator": {
@@ -206,5 +206,7 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  }
+  },
+  "git_revision": "9d295f6841bb5525d6a8bd66080d1bd1a3bd9191",
+  "git_tag": "v2.2-62-g9d295f6"
 }
