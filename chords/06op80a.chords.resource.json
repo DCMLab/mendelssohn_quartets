@@ -168,11 +168,7 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_line",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
@@ -180,7 +176,11 @@
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "crescendo_line",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -193,8 +193,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "devZ12w7w3o6rA",
-    "filepath": "chords/devZ12w7w3o6rA.schema.yaml",
+    "identifier": "hikdEFTxjPKZmw",
+    "filepath": "chords/hikdEFTxjPKZmw.schema.yaml",
     "used_in": "06op80a"
   },
   "creator": {

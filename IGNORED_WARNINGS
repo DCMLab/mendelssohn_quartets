@@ -51,3 +51,4 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 173, '5/8', 'iv6') ms3.Parse.m
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 177, '5/8', 'iv6') ms3.Parse.mendelssohn_quartets.06op80a
 	The label 'iv6' in m. 177, onset 5/8 (MC 177, onset 5/8) is the resolution chord to the label before as chosen by the annotator.
+
