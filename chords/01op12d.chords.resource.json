@@ -174,25 +174,25 @@
         "type": "string"
       },
       {
-        "name": "TextLine",
-        "type": "string"
-      },
-      {
-        "name": "TextLine_dim.",
-        "type": "string"
-      },
-      {
         "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
         "name": "crescendo_hairpin",
         "type": "string"
+      },
+      {
+        "name": "TextLine",
+        "type": "string"
+      },
+      {
+        "name": "TextLine_dim.",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "ytgjKiijVOUhjQ",
-    "filepath": "chords/ytgjKiijVOUhjQ.schema.yaml",
+    "identifier": "W2PwZgUWg6vW-g",
+    "filepath": "chords/W2PwZgUWg6vW-g.schema.yaml",
     "used_in": "01op12d"
   },
   "creator": {
