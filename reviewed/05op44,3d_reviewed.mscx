@@ -335,6 +335,7 @@
           <Tempo>
             <tempo>2.5333333333333332</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="21.6234" y="-3.20461"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
             </Tempo>
@@ -8294,7 +8295,6 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -81561,6 +81561,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I64(#4#2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio(^4)/iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -81569,7 +81575,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -81589,7 +81594,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
@@ -81598,7 +81602,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
@@ -81606,7 +81609,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>

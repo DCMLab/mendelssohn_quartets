@@ -80759,7 +80759,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(#4#2)</name>
+            <name>#viio(^4)/iii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
