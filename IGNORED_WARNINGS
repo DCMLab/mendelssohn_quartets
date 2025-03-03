@@ -39,3 +39,6 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 284, '0', '#viio') ms3.Parse.m
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 285, '1/2', 'ii6') ms3.Parse.mendelssohn_quartets.05op44,3d
 	The label 'ii6' in m. 284, onset 1/2 (MC 285, onset 1/2) is correct; for some reason the parser is not seeing the Eb pedal.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '5/8', 'iv6') ms3.Parse.mendelssohn_quartets.06op80a
+	The label 'iv6' in m. 24, onset 5/8 (MC 24, onset 5/8) is the resolution chord to the label before as chosen by the annotator.
