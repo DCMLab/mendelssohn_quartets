@@ -174,7 +174,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "TextLine",
+        "type": "string"
+      },
+      {
+        "name": "TextLine_dim.",
         "type": "string"
       },
       {
@@ -182,17 +186,13 @@
         "type": "string"
       },
       {
-        "name": "TextLine",
-        "type": "string"
-      },
-      {
-        "name": "TextLine_dim.",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "r-0AEAQUYAGoHw",
-    "filepath": "chords/r-0AEAQUYAGoHw.schema.yaml",
+    "identifier": "ytgjKiijVOUhjQ",
+    "filepath": "chords/ytgjKiijVOUhjQ.schema.yaml",
     "used_in": "01op12d"
   },
   "creator": {
@@ -206,7 +206,5 @@
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
     "softwareVersion": "2.5.3"
-  },
-  "git_revision": "fd3beef5f2f0e61396e7000a7ea5f2c0076c8b68",
-  "git_tag": "v2.2-1-gfd3beef"
+  }
 }
