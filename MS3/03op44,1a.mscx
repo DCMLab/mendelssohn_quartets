@@ -281,6 +281,7 @@
           <Tempo>
             <tempo>2.9333333333333331</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 88</b></text>
             </Tempo>
           <Tempo>
@@ -8208,7 +8209,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <text><i>più </i><font face="ScoreText"/></text>
+            <text><i>più </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12873,7 +12874,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
-            <text><i>sempre </i><font face="ScoreText"/></text>
+            <text><i>sempre </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             </Beam>
@@ -52447,7 +52448,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>33</velocity>
-            <text><i>sempre </i><font face="ScoreText"/></text>
+            <text><i>sempre </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             </Beam>
@@ -88108,7 +88109,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <text><i>sempre </i><font face="ScoreText"/></text>
+            <text><i>sempre </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Beam>
             </Beam>
