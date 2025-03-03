@@ -174,21 +174,21 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "crescendo_line",
         "type": "string"
       },
       {
         "name": "decrescendo_hairpin",
         "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "AK7crZXeHlimGA",
-    "filepath": "chords/AK7crZXeHlimGA.schema.yaml",
+    "identifier": "q2n0Bq3IYpr6pA",
+    "filepath": "chords/q2n0Bq3IYpr6pA.schema.yaml",
     "used_in": "04op44,2b"
   },
   "creator": {
