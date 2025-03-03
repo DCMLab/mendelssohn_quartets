@@ -3,3 +3,6 @@ VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 80) ms3.Parse.mendelssohn_quartets.01o
 
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 204, '9/8', '#viio') ms3.Parse.mendelssohn_quartets.01op12d
 	The label '#viio' in m. 204, onset 9/8 (MC 204, onset 9/8) is warranted here as we have only one voice expressing a harmony.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 161, '0', 'V') ms3.Parse.mendelssohn_quartets.02op13d
+	The label 'V' in m. 161, onset 0 (MC 161, onset 0) could work here as it is a unison passage culminating essentially on the dominant.
