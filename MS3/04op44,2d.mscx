@@ -321,6 +321,7 @@
           <Tempo>
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-5.55832" y="-3.21637"/>
             <text><b>Presto agitato </b><font face="ScoreText"></font><b><font face="Edwin"></font>. = 72</b></text>
             </Tempo>
@@ -23142,7 +23143,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="2.05369" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -44848,7 +44848,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="2.05369" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -60126,7 +60125,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.19799" y="-4.52221"/>
             <text>cresc.</text>
             </StaffText>
@@ -64337,7 +64335,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="2.05369" y="-4.44623"/>
             <text>cresc.</text>
             </StaffText>
