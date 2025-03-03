@@ -91127,7 +91127,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv6</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -91145,7 +91145,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>ii6</name>
             </Harmony>
           <location>
             <fractions>3/8</fractions>
