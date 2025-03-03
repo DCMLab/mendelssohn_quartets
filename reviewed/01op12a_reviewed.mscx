@@ -2578,8 +2578,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -13057,7 +13062,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -13077,6 +13081,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -13094,7 +13099,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -19336,8 +19340,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -25505,7 +25514,6 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -29068,6 +29076,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -29075,7 +29084,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -29272,7 +29280,6 @@
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -35660,8 +35667,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -41919,7 +41931,6 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -45184,7 +45195,6 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -45532,7 +45542,6 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -52601,8 +52610,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="2.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="2"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -58808,6 +58822,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6(64)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii(9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -62252,6 +62272,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/ii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -62743,6 +62769,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -62750,7 +62782,6 @@
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>

@@ -9343,7 +9343,6 @@
               <visible>0</visible>
               </StemSlash>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
@@ -9352,6 +9351,7 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -9370,7 +9370,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -27728,6 +27727,7 @@
                 </prev>
               </Spanner>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -43237,7 +43237,6 @@
               <visible>0</visible>
               </StemSlash>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -43267,7 +43266,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -58636,6 +58634,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I7(+b6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -58647,7 +58651,6 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>

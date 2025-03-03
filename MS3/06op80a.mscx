@@ -45240,7 +45240,6 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>49</velocity>
-            <minDistance>0.5</minDistance>
             <offset x="2.26082" y="3.40092"/>
             <text>sempre <sym>dynamicPiano</sym></text>
             </Dynamic>
@@ -67291,7 +67290,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V64</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>

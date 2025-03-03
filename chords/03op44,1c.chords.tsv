@@ -1,6 +1,6 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	system_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	crescendo_hairpin	decrescendo_hairpin	Trill:trill
 1	1	0	0	0.0	0	0	Dynamic	2/4	1	1	0					p												
-1	1	0	0	0.0	0	0	Tempo	2/4	1	1	0									𝅘𝅥𝅮=126	63.0	𝅘𝅥𝅮	126.0	1.0				
+1	1	0	0	0.0	0	0	Tempo	2/4	1	1	0									𝅘𝅥𝅮=126	63.0	𝅘𝅥𝅮	126.0	0.0				
 1	1	0	0	0.0	0	0	Tempo	2/4	1	1	0									Andanteespressivomaconmoto.	92.0			1.0				
 1	1	0	0	1.5	0	0	Chord	2/4	1	1	3/8		1/4	3/2	0										0			
 1	1	3/2	3/2	0.5	3/8	3/8	Chord	2/4	1	1	1/8		1/8	1	1													

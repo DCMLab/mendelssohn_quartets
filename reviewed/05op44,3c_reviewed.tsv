@@ -1,7 +1,7 @@
 mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_label	globalkey	localkey	pedal	chord	special	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note	n_colored	n_untouched	count_ratio	dur_colored	dur_untouched	dur_ratio
 1	1	0	0	3/4	4	1	Ab.I					Ab	I		I		I							M	0	0	-4, 0, -3		-4	-4	0	15	0.0	0.0	2.25	0.0
 2	2	0	0	3/4	4	1	I(b64)					Ab	I		I(b64)		I			b64				M	0	0	-4, -5, -8		-4	-4	0	3	0.0	0.0	2.25	0.0
-2	2	1/4	1/4	3/4	4	1	I(#8b64)					Ab	I		I(#8b64)		I			#8b64				M	0	0	-4, -5, -8		-4	-4	1	0	1.0	0.25	0.0	1.0
+2	2	1/4	1/4	3/4	4	1	I(+#8b64)					Ab	I		I(+#8b64)		I			+#8b64				M	0	0	-4, -5, -8	3	-4	-4	0	1	0.0	0.0	0.25	0.0
 2	2	1/2	1/2	3/4	4	1	I(9b64)					Ab	I		I(9b64)		I			9b64				M	0	0	-4, -5, -8	-2	-4	-4	0	1	0.0	0.0	0.25	0.0
 3	3	0	0	3/4	4	1	V65					Ab	I		V65		V		65					Mm7	0	0	1, -2, -5, -3		-3	1	0	12	0.0	0.0	2.0	0.0
 3	3	1/2	1/2	3/4	4	1	V65(6)					Ab	I		V65(6)		V		65	6				Mm7	0	0	1, 0, -5, -3		-3	1	0	4	0.0	0.0	0.5	0.0
@@ -27,7 +27,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 8	8	5/8	5/8	3/4	4	1	viio					Ab	I		viio		vii	o						o	0	0	1, -2, -5		1	1	0	2	0.0	0.0	0.25	0.0
 9	9	0	0	3/4	4	1	I					Ab	I		I		I							M	0	0	-4, 0, -3		-4	-4	0	15	0.0	0.0	2.25	0.0
 10	10	0	0	3/4	4	1	I(b64)					Ab	I		I(b64)		I			b64				M	0	0	-4, -5, -8		-4	-4	0	3	0.0	0.0	2.25	0.0
-10	10	1/4	1/4	3/4	4	1	I(#8b64)					Ab	I		I(#8b64)		I			#8b64				M	0	0	-4, -5, -8		-4	-4	1	0	1.0	0.25	0.0	1.0
+10	10	1/4	1/4	3/4	4	1	I(+#8b64)					Ab	I		I(+#8b64)		I			+#8b64				M	0	0	-4, -5, -8	3	-4	-4	0	1	0.0	0.0	0.25	0.0
 10	10	1/2	1/2	3/4	4	1	I(9b64)					Ab	I		I(9b64)		I			9b64				M	0	0	-4, -5, -8	-2	-4	-4	0	1	0.0	0.0	0.25	0.0
 11	11	0	0	3/4	4	1	V65					Ab	I		V65		V		65					Mm7	0	0	1, -2, -5, -3		-3	1	0	12	0.0	0.0	2.0	0.0
 11	11	1/2	1/2	3/4	4	1	V7(6)					Ab	I		V7(6)		V		7	6				Mm7	0	0	-3, 1, 0, -5		-3	-3	0	4	0.0	0.0	0.5	0.0
@@ -55,7 +55,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 17	17	5/8	5/8	3/4	4	1	V7					Ab	I		V7		V		7					Mm7	0	0	-3, 1, -2, -5		-3	-3	1	1	0.5	0.0625	0.0625	0.5
 18	18	0	0	3/4	4	1	I\\					Ab	I		I		I						\\	M	0	0	-4, 0, -3		-4	-4	0	17	0.0	0.0	2.75	0.0
 19	19	0	0	3/4	4	1	I(b64)					Ab	I		I(b64)		I			b64				M	0	0	-4, -5, -8		-4	-4	0	3	0.0	0.0	2.0	0.0
-19	19	1/8	1/8	3/4	4	1	I(#8b64)					Ab	I		I(#8b64)		I			#8b64				M	0	0	-4, -5, -8		-4	-4	3	0	1.0	0.25	0.0	1.0
+19	19	1/8	1/8	3/4	4	1	I(+#8b64)					Ab	I		I(+#8b64)		I			+#8b64				M	0	0	-4, -5, -8	3	-4	-4	1	2	0.3333333333333333	0.0625	0.1875	0.25
 19	19	3/8	3/8	3/4	4	1	I(9b64)					Ab	I		I(9b64)		I			9b64				M	0	0	-4, -5, -8	-2	-4	-4	1	1	0.5	0.0625	0.0625	0.5
 19	19	1/2	1/2	3/4	4	1	I(4)					Ab	I		I(4)		I			4				M	0	0	-4, -5, -3		-4	-4	3	2	0.6	0.1875	0.3125	0.375
 20	20	0	0	3/4	4	1	I(7)					Ab	I		I(7)		I			7				M	0	0	-4, 0, -3	1	-4	-4	0	4	0.0	0.0	1.0	0.0
@@ -317,7 +317,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 105	105	5/8	5/8	3/4	4	1	I64					Ab	I		I64		I		64					M	0	0	-3, -4, 0		-4	-3	0	5	0.0	0.0	0.5	0.0
 106	106	0	0	3/4	4	1	viio7/V\\	0	-8	/		Ab	I		viio7/V		vii	o	7		V		\\	o7	0	0	2, -1, -4, -7		2	2	1	16	0.058823529411764705	0.0625	1.9375	0.03125
 107	107	0	0	3/4	4	1	viio43					Ab	I		viio43		vii	o	43					o7	0	0	-5, -8, 1, -2		1	-5	3	7	0.3	0.1875	0.8125	0.1875
-107	107	1/4	1/4	3/4	4	1	viio65/ii					Ab	I		viio65/ii		vii	o	65		ii			o7	0	0	-7, -10, -13, -4		-4	-7	11	0	1.0	2.0	0.0	1.0
+107	107	1/4	1/4	3/4	4	1	#viio65/ii					Ab	I		#viio65/ii		#vii	o	65		ii			o7	0	0	0, -3, -6, 3		3	0	1	10	0.09090909090909091	0.0625	1.9375	0.03125
 108	108	0	0	3/4	4	1	viio2/V					Ab	I		viio2/V		vii	o	2		V			o7	0	0	-7, 2, -1, -4		2	-7	3	7	0.3	0.1875	0.8125	0.1875
 108	108	1/4	1/4	3/4	4	1	viio65					Ab	I		viio65		vii	o	65					o7	0	0	-2, -5, -8, 1		1	-2	1	10	0.09090909090909091	0.0625	1.9375	0.03125
 109	109	0	0	3/4	4	1	I6					Ab	I		I6		I		6					M	0	0	0, -3, -4		-4	0	2	9	0.18181818181818182	0.125	1.875	0.0625
