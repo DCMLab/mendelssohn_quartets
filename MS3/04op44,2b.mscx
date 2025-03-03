@@ -321,6 +321,7 @@
           <Tempo>
             <tempo>1.05</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-5.52984" y="-3.75337"/>
             <text>Allegro di molto <sym>metNoteHalfUp</sym>. = 126</text>
             </Tempo>
