@@ -30,7 +30,7 @@
       },
       {
         "name": "quarterbeats",
-        "title": "Offset from Beginning",
+        "title": "Offset from Beginning (leaving out alternative endings)",
         "description": "Distance of an event from the piece's beginning. By default, only second endings are taken into account to reflect the proportions of a simply playthrough without repeats.",
         "type": "string",
         "constraints": {
@@ -39,7 +39,7 @@
       },
       {
         "name": "quarterbeats_all_endings",
-        "title": "Offset from Beginning (Including Endings)",
+        "title": "Offset from Beginning (counting through alternative endings as if they were adjacent bars)",
         "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
         "type": "string",
         "constraints": {
@@ -168,11 +168,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "TextLine",
         "type": "string"
       },
       {
-        "name": "diminuendo_line",
+        "name": "TextLine_accelerando poco a poco",
         "type": "string"
       },
       {
@@ -180,21 +180,21 @@
         "type": "string"
       },
       {
+        "name": "diminuendo_line",
+        "type": "string"
+      },
+      {
         "name": "crescendo_line",
         "type": "string"
       },
       {
-        "name": "TextLine",
-        "type": "string"
-      },
-      {
-        "name": "TextLine_accelerando poco a poco",
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "Wz_6GWySfwOerA",
-    "filepath": "chords/Wz_6GWySfwOerA.schema.yaml",
+    "identifier": "izOi-1CQR8TaeA",
+    "filepath": "chords/izOi-1CQR8TaeA.schema.yaml",
     "used_in": "06op80a"
   },
   "creator": {
@@ -207,8 +207,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.2"
+    "softwareVersion": "2.5.4"
   },
-  "git_revision": "48af9bc442879b69045e483e19d9083423d3f7e8",
-  "git_tag": "v2.1"
+  "git_revision": "d69102ddfd9a4e8785ee1a23ec0504a8dcb540f7",
+  "git_tag": "v2.2-2-gd69102d"
 }
