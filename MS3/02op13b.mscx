@@ -37033,7 +37033,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>III(#6)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -40218,7 +40218,7 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>96</velocity>
-            <text><i>più </i><font face="ScoreText"/></text>
+            <text><i>più </i><font face="ScoreText"></font></text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>

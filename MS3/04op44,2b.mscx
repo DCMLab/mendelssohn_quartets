@@ -321,6 +321,7 @@
           <Tempo>
             <tempo>1.05</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-5.52984" y="-3.75337"/>
             <text>Allegro di molto <sym>metNoteHalfUp</sym>. = 126</text>
             </Tempo>
@@ -39034,7 +39035,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(#7)</name>
+            <name>III+</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -39193,7 +39194,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(#2)</name>
+            <name>#viio</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>

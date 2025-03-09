@@ -280,6 +280,7 @@
           <Tempo>
             <tempo>5.2000000000000002</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 104</b></text>
             </Tempo>
           <Tempo>
@@ -68892,7 +68893,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             </Beam>
@@ -81321,7 +81322,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
+            <name>V(#6)/V</name>
             </Harmony>
           <Chord>
             <dots>1</dots>

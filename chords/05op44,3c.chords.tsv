@@ -1,6 +1,6 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	system_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	crescendo_hairpin	decrescendo_hairpin
 1	1	0	0	0.0	0	0	SystemText	3/4	1	1	0								Adagio non troppo.								
-1	1	0	0	0.0	0	0	Tempo	3/4	1	1	0									𝅘𝅥=54	54.0	𝅘𝅥	54.0	1.0			
+1	1	0	0	0.0	0	0	Tempo	3/4	1	1	0									𝅘𝅥=54	54.0	𝅘𝅥	54.0	0.0			
 1	1	0	0	0.0	0	0	Dynamic	3/4	2	1	0					p											
 1	1	0	0	0.0	0	0	Spanner	3/4	2	1	0															0	
 1	1	0	0	1.0	0	0	Chord	3/4	2	1	1/4		1/4	1	0											0	

@@ -323,6 +323,7 @@
           <Tempo>
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-12.0816" y="-4.38364"/>
             <text><b>Assai leggiero vivace </b><font face="ScoreText"></font><b><font face="Edwin"></font>. = 152</b></text>
             </Tempo>
@@ -17753,7 +17754,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -22878,7 +22878,12 @@
             <Trill>
               <subtype>trill</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -23049,7 +23054,12 @@
               <subtype>trill</subtype>
               <lineWidth>0.228063</lineWidth>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -27736,6 +27746,11 @@
               <Segment>
                 <subtype>1</subtype>
                 <offset x="0" y="2.77829"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>2</subtype>
+                <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
@@ -37745,7 +37760,12 @@
             <Trill>
               <subtype>trill</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -37915,7 +37935,12 @@
               <subtype>trill</subtype>
               <lineWidth>0.228063</lineWidth>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -40560,12 +40585,7 @@
             <Trill>
               <subtype>trill</subtype>
               <Segment>
-                <subtype>1</subtype>
-                <offset x="0" y="-0.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -46901,7 +46921,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.46117" y="-0.587758"/>
             <text>cresc.</text>
             </StaffText>
@@ -47016,7 +47035,6 @@
         <voice>
           <StaffText>
             <style>Dynamics</style>
-            <minDistance>0.5</minDistance>
             <offset x="1.16894" y="-0.587758"/>
             <text>dim.</text>
             </StaffText>
@@ -52474,7 +52492,12 @@
             <Trill>
               <subtype>trill</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -52657,7 +52680,12 @@
               <subtype>trill</subtype>
               <lineWidth>0.228063</lineWidth>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="-0.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -55316,12 +55344,7 @@
             <Trill>
               <subtype>trill</subtype>
               <Segment>
-                <subtype>1</subtype>
-                <offset x="0" y="-0.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-0.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>

@@ -327,6 +327,7 @@
           <Tempo>
             <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="14.5144" y="-3.55979"/>
             <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 54</b></text>
             </Tempo>
@@ -38295,7 +38296,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(#8b64)</name>
+            <name>I(+#8b64)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -38768,7 +38769,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(#8b64)</name>
+            <name>I(+#8b64)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -39356,7 +39357,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(#8b64)</name>
+            <name>I(+#8b64)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -45796,7 +45797,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/ii</name>
+            <name>#viio65/ii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
